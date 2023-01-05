@@ -4,7 +4,6 @@ With this application you can form your own Inazuma Eleven teams. Choose from ov
 ## This version is maintained by Own studio.
 [Old original version](https://github.com/MikeEbbe/team-builder/)
 * Responsiveness for phones has been added.
-* I have temporarily disabled the scout players in order to decrease loading times and lag. There were over 1000 scout players (over half of all Inazuma players), which caused the loading times to increase quite a lot. Therefore I have temporarily disabled them and in the meantime will be looking too fix the issue.
 
 ## Functionality
 Currently you can choose from all Inazuma Eleven 1, 2, 3, GO, Chrono Stones and Galaxy players (and maybe Ares/Orion) characters will be added in a later version.
