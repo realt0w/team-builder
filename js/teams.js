@@ -90,6 +90,24 @@ var teams = [
         "Game": "Scouts"
     },
     {
+        "EnglishName": "Scouts IE1",
+        "JapaneseName": "Scouts IE1",
+        "Sprite": "/images/scout.png",
+        "Game": "Scouts"
+    },
+    {
+        "EnglishName": "Scouts IE2",
+        "JapaneseName": "Scouts IE2",
+        "Sprite": "/images/scout.png",
+        "Game": "Scouts"
+    },
+    {
+        "EnglishName": "Scouts IE3",
+        "JapaneseName": "Scouts IE3",
+        "Sprite": "/images/scout.png",
+        "Game": "Scouts"
+    },
+    {
         "EnglishName": "Secret Service",
         "JapaneseName": "SP Fixers",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
