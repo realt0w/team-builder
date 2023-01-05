@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1945.3" height="1568" viewBox="0 0 1945.3 1568">
+  <defs>
+    <clipPath id="clip-Artboard_5">
+      <rect width="1945.3" height="1568"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_5" data-name="Artboard – 5" clip-path="url(#clip-Artboard_5)">
+    <g id="Group_3" data-name="Group 3" transform="translate(1956.207 -11) rotate(90)">
+      <g id="Field" transform="translate(11 9.207)">
+        <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(0 1)" fill="#34a029" stroke="#34a029" stroke-width="1">
+          <rect width="315" height="1946" stroke="none"/>
+          <rect x="0.5" y="0.5" width="314" height="1945" fill="none"/>
+        </g>
+        <rect id="Rectangle_22" data-name="Rectangle 22" width="327" height="1946" transform="translate(314 1)" fill="#319231"/>
+        <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(626 1)" fill="#34a029" stroke="#34a029" stroke-width="1">
+          <rect width="323" height="1946" stroke="none"/>
+          <rect x="0.5" y="0.5" width="322" height="1945" fill="none"/>
+        </g>
+        <rect id="Rectangle_24" data-name="Rectangle 24" width="318" height="1946" transform="translate(941 1)" fill="#319231"/>
+        <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(1255 1)" fill="#34a029" stroke="#34a029" stroke-width="1">
+          <rect width="313" height="1946" stroke="none"/>
+          <rect x="0.5" y="0.5" width="312" height="1945" fill="none"/>
+        </g>
+        <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(590 782)" fill="none" stroke="#fff" stroke-width="8">
+          <circle cx="193.5" cy="193.5" r="193.5" stroke="none"/>
+          <circle cx="193.5" cy="193.5" r="189.5" fill="none"/>
+        </g>
+        <line id="Line_20" data-name="Line 20" y1="1955" transform="translate(784)" fill="none" stroke="#fff" stroke-width="8"/>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(771 961)" fill="#fff" stroke="#fff" stroke-width="1">
+          <ellipse cx="12.5" cy="13" rx="12.5" ry="13" stroke="none"/>
+          <ellipse cx="12.5" cy="13" rx="12" ry="12.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Goal_lines_2" data-name="Goal lines 2" transform="translate(1176.287 660.207)">
+        <line id="Line_10" data-name="Line 10" x1="339" transform="translate(66.713)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_11" data-name="Line 11" y1="658" transform="translate(70.713 1)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_12" data-name="Line 12" x1="339" transform="translate(66.713 655)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_13" data-name="Line 13" x1="132" transform="translate(271.713 140)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_14" data-name="Line 14" x1="132" transform="translate(271.713 514)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_15" data-name="Line 15" y2="382" transform="translate(275.713 136)" fill="none" stroke="#fff" stroke-width="8"/>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(-0.287 134)" fill="none" stroke="#fff" stroke-width="8">
+          <circle cx="193.5" cy="193.5" r="193.5" stroke="none"/>
+          <circle cx="193.5" cy="193.5" r="189.5" fill="none"/>
+        </g>
+        <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(74.713 159)" fill="#319231" stroke="#319231" stroke-width="1">
+          <rect width="30" height="342" stroke="none"/>
+          <rect x="0.5" y="0.5" width="29" height="341" fill="none"/>
+        </g>
+        <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(89.713 98)" fill="#34a029" stroke="#34a029" stroke-width="1">
+          <rect width="182" height="468" stroke="none"/>
+          <rect x="0.5" y="0.5" width="181" height="467" fill="none"/>
+        </g>
+        <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(280.713 144)" fill="#34a029" stroke="#34a029" stroke-width="1">
+          <rect width="106" height="357" stroke="none"/>
+          <rect x="0.5" y="0.5" width="105" height="356" fill="none"/>
+        </g>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(175.713 319)" fill="#fff" stroke="#fff" stroke-width="1">
+          <ellipse cx="7" cy="7.5" rx="7" ry="7.5" stroke="none"/>
+          <ellipse cx="7" cy="7.5" rx="6.5" ry="7" fill="none"/>
+        </g>
+      </g>
+      <g id="Goal_lines" data-name="Goal lines" transform="translate(9 660.207)">
+        <line id="Line_10-2" data-name="Line 10" x2="339" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_11-2" data-name="Line 11" y1="658" transform="translate(335 1)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_12-2" data-name="Line 12" x2="339" transform="translate(0 655)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_13-2" data-name="Line 13" x2="131" transform="translate(2 140)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_14-2" data-name="Line 14" x2="131" transform="translate(2 514)" fill="none" stroke="#fff" stroke-width="8"/>
+        <line id="Line_15-2" data-name="Line 15" y2="382" transform="translate(129 136)" fill="none" stroke="#fff" stroke-width="8"/>
+        <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(18 134)" fill="none" stroke="#fff" stroke-width="8">
+          <ellipse cx="194" cy="193.5" rx="194" ry="193.5" stroke="none"/>
+          <ellipse cx="194" cy="193.5" rx="190" ry="189.5" fill="none"/>
+        </g>
+        <g id="Rectangle_26-2" data-name="Rectangle 26" transform="translate(301 159)" fill="#319231" stroke="#319231" stroke-width="1">
+          <rect width="30" height="342" stroke="none"/>
+          <rect x="0.5" y="0.5" width="29" height="341" fill="none"/>
+        </g>
+        <g id="Rectangle_27-2" data-name="Rectangle 27" transform="translate(133 98)" fill="#34a029" stroke="#34a029" stroke-width="1">
+          <rect width="183" height="468" stroke="none"/>
+          <rect x="0.5" y="0.5" width="182" height="467" fill="none"/>
+        </g>
+        <g id="Rectangle_28-2" data-name="Rectangle 28" transform="translate(18 144)" fill="#34a029" stroke="#34a029" stroke-width="1">
+          <rect width="107" height="357" stroke="none"/>
+          <rect x="0.5" y="0.5" width="106" height="356" fill="none"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(216.876 319.677)" fill="#fff" stroke="#fff" stroke-width="1">
+          <circle cx="7.061" cy="7.061" r="7.061" stroke="none"/>
+          <circle cx="7.061" cy="7.061" r="6.561" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

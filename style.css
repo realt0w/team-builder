@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.screen {
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+video {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100vh;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+}
+
+audio {
+    display: none;
+
+}
+
+.menu {
+    color: #fff;
+    margin-left: 4em;
+    text-transform: uppercase;
+}
+
+.menu h1 {
+    font-size: 4em;
+    letter-spacing: 5px;
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+.menu h3 {
+    font-weight: 300;
+    font-size: 2.5em;
+    text-align: center;
+    letter-spacing: 5;
+    position: relative;
+
+}
+
+.menu h3::before,
+.menu h3::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #fff;
+    width: 3em;
+    height: 3px;
+}
+
+.menu h3::before {
+    left: 0;
+}
+
+.menu h3::after {
+    right: 0;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    margin: 1em 0;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+
+#sound {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 1em;
+    color: #fff;
+    cursor: pointer;
+}
+
+.menu li a:hover,
+#sound:hover {
+    color: #dbdbdb;
+}
+
+@media screen and (max-width: 800px) {
+    .menu h3 {
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .menu h1 {
+        letter-spacing: 2px;
+        font-size: 1em;
+    }
+    .menu h3::before,
+    .menu h3::after {
+        display: none;
+    }
+}
+

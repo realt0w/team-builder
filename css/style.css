@@ -1,0 +1,2212 @@
+/* GRID */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) repeat(3, 1.5fr) repeat(2, 1fr);
+    grid-template-rows: 9fr;
+    gap: 0px 10px;
+    grid-template-areas: "Left Left Field Field Field Right Right";
+}
+
+.Field {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 8fr;
+    gap: 10px 1px;
+    grid-template-areas: "Name" "Field";
+    position: relative;
+}
+
+.Field {
+    grid-area: Field;
+}
+
+.Name {
+    grid-area: Name;
+}
+
+.Left {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(4, 1fr);
+    gap: 1px 1px;
+    grid-template-areas: ". Formation" ". Emblem" ". Coach" ". Preferences";
+    grid-area: Left;
+    /* background-image: linear-gradient(to right, transparent, #dddedd); */
+}
+
+.Formation {
+    grid-area: Formation;
+}
+
+.Emblem {
+    grid-area: Emblem;
+}
+
+.Coach {
+    grid-area: Coach;
+}
+
+.Preferences {
+    grid-area: Preferences;
+}
+
+.Right {
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    grid-template-rows: 1fr;
+    gap: 1px 1px;
+    grid-template-areas: "Bench .";
+    grid-area: Right;
+}
+
+.Bench {
+    grid-area: Bench;
+}
+
+@font-face {
+    font-family: "Segoe UI Regular";
+    src: url(segoe-ui.ttf);
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Bebas Neue';
+    /* font-style: normal;
+    font-weight: 400; */
+    src: url(BebasNeuePro.ttf);
+    /* src: local('Bebas Neue Regular'), local('BebasNeue-Regular'), url(https://fonts.gstatic.com/s/bebasneue/v1/JTUSjIg69CK48gW7PXoo9Wdhyzbi.woff2) format('woff2'); */
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Bebas Neue';
+    /* font-style: normal;
+    font-weight: 400; */
+    src: url(BebasNeuePro.ttf);
+    /* src: local('Bebas Neue Regular'), local('BebasNeue-Regular'), url(https://fonts.gstatic.com/s/bebasneue/v1/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2) format('woff2'); */
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* LEFT SIDE */
+
+select {
+    overflow: auto;
+    text-overflow: ellipsis;
+}
+
+option {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#formation-container {
+    height: 80px;
+    border: 6px solid;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 30px;
+    margin-top: 82px;
+    position: relative;
+    width: 74.5%;
+    margin-left: auto;
+    background-color: rgba(255, 255, 255, 65%);
+    box-shadow: 0 0 10px black;
+}
+
+#formation-label {
+    font-family: 'Bebas Neue';
+    font-size: 36px;
+}
+
+#formation-dropdown {
+    width: calc(100% - 12px);
+    border: 3px solid;
+    margin-top: 10px;
+    font-family: "Segoe UI Regular";
+    font-size: 24px;
+    display: block;
+    padding: 1px 3px;
+    background-color: white;
+    position: absolute;
+    z-index: 2;
+}
+
+#emblem-container {
+    width: 74.5%;
+    position: relative;
+    height: 238px;
+    text-align: center;
+    margin-top: -33px;
+    margin-left: auto;
+}
+
+#emblem-label {
+    font-family: 'Bebas Neue';
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: -9px;
+    text-shadow: 0px 0px 20px white;
+}
+
+#emblem-sprite {
+    height: 155px;
+    width: auto;
+    margin-top: 2%;
+    -webkit-filter: drop-shadow(0px 0px 7px black);
+    /* filter: url(#drop-shadow); */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=0, Color='black')";
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=0, Color='black')";
+}
+
+#emblem-dropdown {
+    font-family: "Segoe UI Regular";
+    font-size: 24px;
+    display: block;
+    border: 6px solid;
+    width: 100%;
+    position: absolute;
+    padding: 1px 3px;
+    margin-top: -15px;
+    background-color: white;
+    z-index: 1;
+    box-shadow: 0 0 10px black;
+}
+
+#coach-container {
+    width: 74.5%;
+    position: relative;
+    height: 238px;
+    text-align: center;
+    margin-left: auto;
+    margin-top: -35px;
+}
+
+#coach-label {
+    font-family: 'Bebas Neue';
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: -9px;
+    text-shadow: 0px 0px 20px white;
+}
+
+#coach-sprite {
+    height: 155px;
+    width: auto;
+    margin-top: 2%;
+    -webkit-filter: drop-shadow(0px 0px 7px black);
+    /* filter: url(#drop-shadow); */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=0, Color='black')";
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=0, Color='black')";
+}
+
+#coach-dropdown {
+    font-family: "Segoe UI Regular";
+    font-size: 24px;
+    display: block;
+    border: 6px solid;
+    width: 100%;
+    position: absolute;
+    padding: 1px 3px;
+    margin-top: -15px;
+    background-color: white;
+    box-shadow: 0 0 10px black
+}
+
+#preferences-container {
+    width: 74.5%;
+    margin-left: auto;
+    margin-top: -39px;
+}
+
+#preferences-label {
+    font-family: 'Bebas Neue';
+    font-size: 36px;
+    margin-bottom: -2px;
+    text-align: center;
+    text-shadow: 0px 0px 20px white;
+}
+
+#preferences-options-container {
+    height: 220px;
+    border: 6px solid;
+    padding: 4px 8px;
+    background-color: rgba(255, 255, 255, 65%);
+    box-shadow: 0 0 10px black
+}
+
+.button:hover {
+    background-color: #006687;
+}
+
+.button {
+    margin-top: 10px;
+    width: 100%;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: 0.5s;
+}
+
+#english-names-label {
+    font-family: "Segoe UI Regular";
+    font-size: 19px;
+    width: 136px;
+    display: inline-block;
+}
+
+#english-names-input {
+    vertical-align: sub;
+}
+
+#japanese-names-label {
+    font-family: "Segoe UI Regular";
+    font-size: 19px;
+    width: 136px;
+    display: inline-block;
+}
+
+#japanese-names-input {
+    vertical-align: sub;
+}
+
+/* CENTRAL SIDE */
+
+#team-name {
+    height: 45px;
+    text-align: center;
+    padding: 3px 0px;
+    border: 6px solid black;
+    font-family: 'Bebas Neue';
+    font-size: 40px;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 10px;
+    /* padding-left: 5px; */
+}
+
+#field-players-container {
+    background-image: url('../images/field.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    margin-top: -40px;
+    display: grid;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.6) inset;
+}
+
+/* RIGHT SIDE */
+
+#bench-container {
+    height: 100%;
+    width: 252.5px;
+}
+
+#bench-label {
+    font-family: 'Bebas Neue';
+    font-size: 36px;
+    margin-bottom: 23px;
+    text-align: center;
+    margin-top: 73px;
+    padding: 0px;
+    text-shadow: 0px 0px 20px white;
+}
+
+#bench-container>div {
+    margin-top: -29px;
+    padding: 24px;
+    width: 193px;
+    border: 6px solid;
+    background-color: rgba(255, 255, 255, 85%);
+    box-shadow: 0 0 10px black
+}
+
+.sub-container>.drag-box-container>.drag-box {
+    background-color: white;
+}
+
+/* MODAL INITIALIZATION */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+a {
+    background-color: transparent;
+}
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-image: url('../images/background-3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+a:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1;
+    color: #000000;
+    text-shadow: 0 1px 0 #ffffff;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+.close:hover, .close:focus {
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+button.close {
+    padding: 0;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    -webkit-appearance: none;
+}
+
+.modal-open {
+    overflow: hidden;
+}
+
+.modal {
+    display: none;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    -webkit-overflow-scrolling: touch;
+    outline: 0;
+}
+
+.modal.fade .modal-dialog {
+    -webkit-transform: translate(0, -25%);
+    -ms-transform: translate(0, -25%);
+    -o-transform: translate(0, -25%);
+    transform: translate(0, -25%);
+    -webkit-transition: -webkit-transform 0.3s ease-out;
+    -o-transition: -o-transform 0.3s ease-out;
+    transition: transform 0.3s ease-out;
+}
+
+.modal.in .modal-dialog {
+    -webkit-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+.modal-open .modal {
+    overflow-x: hidden;
+    /* overflow-y: auto; */
+    overflow-y: scroll;
+}
+
+.modal-dialog {
+    position: relative;
+    margin: 10px;
+    width: 60%;
+    font-family: "Segoe UI Regular";
+    font-size: 24px;
+}
+
+.modal-dialog>.modal-content>.modal-body>button {
+    font-size: 24px;
+}
+
+.modal-content {
+    position: relative;
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    outline: 0;
+}
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1040;
+    background-color: #000000;
+}
+
+.modal-backdrop.fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.modal-backdrop.in {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.modal-header {
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+    min-height: 16.42857143px;
+}
+
+.modal-header .close {
+    margin-top: -2px;
+}
+
+.modal-title {
+    margin: 0;
+    line-height: 1.42857143;
+}
+
+.modal-body {
+    position: relative;
+    padding: 15px;
+}
+
+.modal-footer {
+    padding: 15px;
+    text-align: right;
+    border-top: 1px solid #e5e5e5;
+}
+
+.modal-footer .btn+.btn {
+    margin-left: 5px;
+    margin-bottom: 0;
+}
+
+.modal-footer .btn-group .btn+.btn {
+    margin-left: -1px;
+}
+
+.modal-footer .btn-block+.btn-block {
+    margin-left: 0;
+}
+
+.modal-scrollbar-measure {
+    position: absolute;
+    top: -9999px;
+    width: 50px;
+    height: 50px;
+    overflow: scroll;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        /* width: 600px; */
+        margin: 30px auto;
+    }
+    .modal-content {
+        -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    }
+    .modal-sm {
+        width: 300px;
+    }
+}
+
+@media (min-width: 992px) {
+    .modal-lg {
+        width: 900px;
+    }
+}
+
+.clearfix:before, .clearfix:after, .modal-footer:before, .modal-footer:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after, .modal-footer:after {
+    clear: both;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.hide {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.text-hide {
+    font: 0/0 a;
+    color: transparent;
+    text-shadow: none;
+    background-color: transparent;
+    border: 0;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.affix {
+    position: fixed;
+}
+
+/* ACCORDION */
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 24px;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xIIzI.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxIIzI.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* PLAYERS MODAL */
+
+img, .drag-box, .player-element-container, .sub-element-container, .modal-player-box-container {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+}
+
+.modal-player-box {
+    display: inline-grid;
+    margin-right: 11px;
+    margin-top: 8px;
+    text-align: center;
+}
+
+.modal-player-box-container {
+    display: flex;
+    border: 3px solid black;
+}
+
+.modal-player-name {
+    font-size: 22px;
+    border: solid black;
+    border-width: 3px 3px 0 3px;
+    font-weight: normal;
+    padding: 0px 2px;
+}
+
+.modal-player-props-container {
+    border-right: 3px solid black;
+}
+
+.modal-player-position, .modal-player-element, .modal-player-gender {
+    height: 24px;
+    width: 36px;
+}
+
+.modal-player-position, .modal-player-element {
+    border-bottom: 3px solid black;
+}
+
+.modal-player-sprite-container {
+    position: relative;
+    background-image: linear-gradient(#aab7d7 58%, #58688e 42%);
+}
+
+.modal-player-sprite-container:hover .modal-player-sprite, .drag-box-container:hover .drag-box {
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+.modal-player-sprite-container:hover .icon, .drag-box-container:hover .icon {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.drag-box-container {
+    position: relative;
+    text-align: center;
+}
+
+.modal-player-sprite, .drag-box {
+    font-size: 16px;
+    opacity: 1;
+    display: block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    margin: auto;
+    height: 76px;
+}
+
+.icon {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    color: green;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 48px;
+    pointer-events: none;
+}
+
+.drag-box-container>.icon {
+    color: white;
+    font-size: 36px;
+    top: 52%;
+    left: 55%;
+}
+
+.modal-team-sprite {
+    height: 32px;
+    width: 32px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.custom-modal-player-sprite-container {
+    border: 3px solid black;
+}
+
+#custom-player-panel {
+    border: 2px solid black;
+    padding: 2px 10px 10px 10px;
+}
+
+#custom-player-panel>div {
+    display: inline-grid;
+}
+
+#custom-player-name {
+    width: max-content;
+}
+
+#custom-player-file {
+    width: max-content;
+}
+
+#add-button {
+    width: max-content;
+}
+
+.custom-modal-player-sprite-container {
+    border: 3px solid black;
+}
+
+.sub-sprite, .player-sprite {
+    height: 126px;
+    max-width: 126px;
+}
+
+.sub-element, .player-element {
+    width: auto;
+    height: 100%;
+}
+
+/* RENDERED IMAGE */
+
+#loading-gif {
+    width: 100%;
+    height: 622px;
+}
+
+#canvas {
+    height: auto;
+    width: 100%;
+}
+
+#watermark {
+    position: absolute;
+    bottom: 16px;
+    right: 20px;
+    background-image: url("/images/player-name-background.png");
+    background-size: cover;
+    color: white;
+    padding: 0px 5px;
+    border-radius: 8px;
+    font-size: 17px;
+    display: block;
+    font-family: "Segoe UI Regular";
+}
+
+#save-instructions {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* PLAYER BOXES */
+
+.player-container, .sub-container {
+    height: 153px;
+    width: 193px;
+    margin-bottom: 12px;
+}
+
+.player-container {
+    position: absolute;
+}
+
+.drag-box {
+    margin-left: 43px;
+    background-image: url('../images/character-placeholder.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 126px;
+    height: 126px;
+}
+
+#drag-box-sub-1, #drag-box-sub-2, #drag-box-sub-3, #drag-box-sub-4, #drag-box-sub-5 {
+    border-color: black;
+    border-style: solid;
+    border-width: 2px 2px 0px 2px;
+}
+
+.player-info-container, .sub-info-container {
+    position: absolute;
+    background-image: url('../images/player-name-background.png');
+    background-size: cover;
+    width: 173px;
+    height: 28px;
+    margin-top: -4px;
+    border-radius: 14px;
+    margin-left: 17px;
+}
+
+.player-element-container, .sub-element-container {
+    height: 38px;
+    width: 38px;
+    background-image: url('../images/team-placeholder.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: -16px;
+}
+
+.player-name, .sub-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: "Segoe UI Regular";
+    font-size: 24px;
+    display: block;
+    position: relative;
+    color: white;
+    margin-top: -5px;
+    padding-left: 23px;
+    padding-right: 11px;
+}
+
+.hidden {
+    display: none;
+}
+
+.game-title {
+    background-color: #eee;
+    cursor: pointer;
+    padding: 18px;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+.game-title:hover {
+    background-color: #ccc !important;
+}
+
+.game-title>img {
+    height: 90px;
+    width: auto;
+}
+
+/* DESKTOP */
+
+@media screen and (min-width: 1601px) {
+    /* #body-grid {
+        scale: 0.90;
+        margin-top: -1.5%;
+    }*/
+
+    body, html {
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        height: unset !important;
+        width: unset !important;
+    }
+
+    #image-modal {
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+    }
+    
+    #body-grid {
+        transform: scale(0.9);
+        /* margin-top: -3.5%; */
+        margin-top: -2%;
+    }
+
+    /* #team-name { 
+        margin-top: 0;
+    } */
+}
+
+/* LAPTOPS */
+
+@media screen and (max-width: 1600px) and (min-width: 1025px) {
+    /* LEFT */
+    #formation-label {
+        font-size: 30px;
+    }
+    #formation-dropdown {
+        font-size: 20px;
+        margin-top: 2px;
+    }
+    #formation-container {
+        height: 56px;
+        border: 4px solid;
+        margin-top: 59px;
+    }
+    #emblem-container {
+        height: 184px;
+        margin-top: -29px;
+    }
+    #emblem-label {
+        font-size: 32px;
+    }
+    #emblem-sprite {
+        height: 104px;
+    }
+    #emblem-dropdown {
+        font-size: 20px;
+        border: 4px solid;
+    }
+    #coach-container {
+        height: 184px;
+        margin-top: -39px;
+    }
+    #coach-label {
+        font-size: 32px;
+    }
+    #coach-sprite {
+        height: 104px;
+    }
+    #coach-dropdown {
+        font-size: 20px;
+        border: 4px solid;
+    }
+    #preferences-container {
+        margin-top: -50px;
+    }
+    #preferences-label {
+        font-size: 32px;
+    }
+    #preferences-options-container {
+        height: 172px;
+        border: 4px solid;
+    }
+    .preferences-option {
+        display: flex;
+    }
+    #english-names-label, #japanese-names-label {
+        font-size: 17px;
+    }
+    #save-button, #reset-button {
+        font-size: 16px;
+        padding: 15px 20px;
+    }
+    /* MIDDLE */
+    #field-players-container {
+        height: 104.5%;
+        margin-top: -31px;
+    }
+    #team-name {
+        height: 30px;
+        border: 4px solid;
+        font-size: 36px;
+    }
+    .player-container, .sub-container {
+        height: 110.1px;
+        width: 140px;
+        margin-bottom: 9px;
+    }
+    /*#field-players-container>div>.drag-box-container>*/
+    .drag-box {
+        height: 90.7px;
+        width: 90.7px;
+        margin-left: 28px;
+    }
+    .player-sprite, .sub-sprite {
+        height: 90.7px;
+        max-width: 90.7px;
+    }
+    .player-info-container, .sub-info-container {
+        width: 130px;
+        height: 24px;
+        margin-top: -3px;
+        margin-left: 10px;
+        border-radius: 12px;
+    }
+    .player-element-container, .sub-element-container {
+        height: 29px;
+        width: 29px;
+        margin-top: -3px;
+        margin-left: -12px;
+    }
+    .player-name, .sub-name {
+        font-size: 19px;
+        margin-top: -3px;
+        padding-left: 22px;
+        padding-right: 10px;
+    }
+    .player-container>.drag-box-container>.icon {
+        font-size: 32px;
+        top: 50%;
+        left: 52%;
+    }
+    /* RIGHT */
+    .sub-container>.drag-box-container>.icon {
+        font-size: 32px;
+        top: 49%;
+        left: 53%;
+    }
+    #bench-container {
+        width: 185px;
+    }
+    #bench-label {
+        font-size: 32px;
+        margin-top: 51px;
+    }
+    #bench-container>div {
+        margin-top: -27px;
+        padding: 18px;
+        width: 140px;
+        border: 4px solid;
+    }
+    /* MODAL */
+    .custom {
+        font-size: 0.9em;
+        font-weight: normal;
+    }
+    .modal-team-sprite {
+        height: 26px;
+        width: 26px;
+    }
+    .game-title>img {
+        height: 72px;
+    }
+    .accordion {
+        font-size: 18px;
+    }
+    .modal-player-name {
+        font-size: 18px;
+    }
+    .modal-player-position, .modal-player-element, .modal-player-gender {
+        height: 21px;
+        width: 31.5px;
+        background-size: contain;
+    }
+    .modal-player-sprite {
+        height: 68px;
+    }
+    .modal-player-sprite-container>.icon {
+        font-size: 42px;
+        top: 46%;
+    }
+    #loading-gif {
+        height: 458px;
+    }
+}
+
+/* TABLETS */
+
+@media screen and (max-width: 767px) {}
+
+/* SMART PHONES */
+
+@media screen and (max-width: 479px) {
+    /* LEFT SIDE (MOVES TO TOP) */
+    .Left {
+        display: inline-flex;
+        width: auto;
+        height: 200px;
+    }
+    #formation-container {
+        height: 21px;
+        border: 3px solid;
+        padding-left: 3px;
+        padding-right: 3px;
+        padding-bottom: 36px;
+        margin-top: 5px;
+        width: 94%;
+        margin-left: 5px;
+        position: absolute;
+    }
+    #formation-label {
+        font-size: 24px;
+    }
+    #formation-dropdown {
+        width: 98%;
+        border: 2px solid;
+        margin-top: -7px;
+        font-size: 15px;
+        padding: 0;
+    }
+    #emblem-container {
+        width: auto;
+        margin-top: 68px;
+        margin-left: 5px;
+        height: 139px;
+    }
+    #emblem-label {
+        font-size: 24px;
+        margin-bottom: -12px;
+    }
+    #emblem-sprite {
+        height: 96px;
+        width: 96px;
+        margin-top: 5%;
+    }
+    #emblem-dropdown {
+        font-size: 15px;
+        border: 2px solid;
+        padding: 0;
+    }
+    #coach-container {
+        width: auto;
+        margin-top: 68px;
+        margin-left: 5px;
+        height: 139px;
+    }
+    #coach-label {
+        font-size: 24px;
+        margin-bottom: -12px;
+    }
+    #coach-sprite {
+        height: 96px;
+        width: 96px;
+        margin-top: 5%;
+    }
+    #coach-dropdown {
+        font-size: 15px;
+        border: 2px solid;
+        padding: 0;
+    }
+    #preferences-container {
+        width: auto;
+        margin-left: 5px;
+        margin-top: 67px;
+    }
+    .preferences-option {
+        margin-bottom: -1px;
+    }
+    #preferences-label {
+        font-size: 24px;
+    }
+    #preferences-options-container {
+        height: 100px;
+        padding: 1px 2px;
+        border: 3px solid;
+        width: 150px;
+    }
+    #english-names-label {
+        font-size: 14px;
+        width: 100px;
+    }
+    #japanese-names-label {
+        font-size: 14px;
+        width: 100px;
+    }
+    #save-button {
+        font-size: 14px;
+        padding: 3px 1px;
+        margin-top: 5px;
+    }
+    #reset-button {
+        font-size: 14px;
+        padding: 3px 1px;
+        margin-top: 5px;
+    }
+    /* MIDDLE SIDE */
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr) repeat(3, 12fr) repeat(2, 1fr);
+    }
+    .Field {
+        margin-top: 210px;
+        grid-template-rows: 0fr 12fr;
+        width: 121%;
+        height: 63%;
+        margin-left: -32px;
+    }
+    #team-name {
+        height: 16px;
+        padding-top: 2px;
+        padding-left: 2px;
+        border: 3px solid;
+        font-size: 20px;
+        width: 97%;
+        margin: unset;
+        margin-top: 11px;
+    }
+    #field-players-container {
+        margin-top: -5px;
+    }
+    .player-container {
+        height: 69px;
+        width: 87.5px;
+        margin-bottom: 7px;
+    }
+    #field-players-container>div>.drag-box-container>.drag-box {
+        height: 57px;
+        width: 57px;
+        margin-left: 16px;
+    }
+    .player-sprite {
+        height: 57px;
+        max-width: 57px;
+        /* margin-left: -26px; */
+        /* margin-left: 2%; */
+    }
+    .player-info-container {
+        height: 13px;
+        width: 78px;
+        margin-left: 8px;
+        border-radius: 7px;
+    }
+    .player-element-container {
+        height: 17px;
+        width: 17px;
+        margin-top: -2.5px;
+        margin-left: -7px;
+    }
+    .player-name {
+        font-size: 12px;
+        margin-top: -2.5px;
+        padding-left: 12px;
+        padding-right: 0px;
+        margin-left: -12px;
+    }
+    .player-container>.drag-box-container>.icon {
+        top: 50%;
+        left: 50%;
+        font-size: 22px;
+    }
+    .sub-container>.drag-box-container>.icon {
+        top: 50%;
+        left: 69%;
+        /* nice */
+        font-size: 22px;
+    }
+    /* RIGHT SIDE (MOVES TO BOTTOM) */
+    .Right {
+        margin-top: 733px;
+        margin-left: -1405%;
+        width: 100%;
+    }
+    #bench-container {
+        width: 100%;
+    }
+    #bench-label {
+        display: none;
+    }
+    #bench-container>div {
+        display: flex;
+        padding: 0;
+        border: 0;
+        margin: 0;
+        background-color: transparent;
+        box-shadow: none;
+    }
+    .sub-container>.drag-box-container>.drag-box {
+        background-color: white;
+    }
+    .sub-container {
+        height: 60.5px;
+        width: 72.5px;
+        /* margin-bottom: 0; */
+    }
+    .sub-container>.drag-box-container>.drag-box {
+        height: 50px;
+        width: 50px;
+        margin-left: 24px;
+    }
+    .sub-container>.drag-box-container>.drag-box>.sub-sprite {
+        height: 50px;
+        max-width: 50px;
+    }
+    .sub-info-container {
+        height: 15px;
+        width: 68.5px;
+        border-radius: 7px;
+    }
+    .sub-element-container {
+        display: none;
+    }
+    .sub-name {
+        font-size: 12px;
+        margin-top: -2px;
+        padding-left: 9.5px;
+        padding-right: 5.5px;
+    }
+    /* PLAYERS MODAL */
+    .modal-dialog {
+        width: 100%;
+        margin-left: -0px;
+    }
+    .game-title>img {
+        height: 60px;
+        width: auto;
+    }
+    #modal>.btn-group {
+        display: grid;
+    }
+    .custom {
+        font-size: 20px;
+    }
+    /* RENDERED IMAGE */
+    #watermark {
+        bottom: 7px;
+        right: 10px;
+        background-image: url("/images/player-name-background.png");
+        background-size: cover;
+        color: white;
+        padding: 0px 5px;
+        padding-bottom: 1px;
+        border-radius: 8px;
+        font-size: 10px;
+        display: block;
+        font-family: "Segoe UI Regular";
+    }
+    #loading-gif {
+        width: 100%;
+        height: auto;
+        /* margin-top: 300px; */
+    }
+}
