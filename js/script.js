@@ -20,6 +20,7 @@ function renderPlayers(players, language) {
             'GO1': 'Inazuma Eleven GO',
             'GO2': 'Inazuma Eleven GO Chrono Stones',
             'GO3': 'Inazuma Eleven GO Galaxy',
+            'Ares': 'Inazuma Eleven Ares',
             'Scouts': 'Scout Characters'
         }
     ];

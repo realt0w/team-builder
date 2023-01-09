@@ -86,25 +86,25 @@ var teams = [
     {
         "EnglishName": "Scouts",
         "JapaneseName": "Scouts",
-        "Sprite": "/images/scout.png",
+        "Sprite": "./images/scout.png",
         "Game": "Scouts"
     },
     {
         "EnglishName": "Scouts IE1",
         "JapaneseName": "Scouts IE1",
-        "Sprite": "/images/scout.png",
+        "Sprite": "./images/scout.png",
         "Game": "Scouts"
     },
     {
         "EnglishName": "Scouts IE2",
         "JapaneseName": "Scouts IE2",
-        "Sprite": "/images/scout.png",
+        "Sprite": "./images/scout.png",
         "Game": "Scouts"
     },
     {
         "EnglishName": "Scouts IE3",
         "JapaneseName": "Scouts IE3",
-        "Sprite": "/images/scout.png",
+        "Sprite": "./images/scout.png",
         "Game": "Scouts"
     },
     {
@@ -694,5 +694,17 @@ var teams = [
         "JapaneseName": "Osoroshii Kage",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d0/Osoroshii_Kage_team_emblem.png/revision/latest?cb=20171118050242",
         "Game": "GO3"
+    },
+    {
+        "EnglishName": "Backwater Raimon",
+        "JapaneseName": "Inakuni Raimon",
+        "Sprite": "./images/players/ares/raimon/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Lunar Prime Academy",
+        "JapaneseName": "Ōtei Tsukinomiya",
+        "Sprite": "./images/players/ares/selene/Ecusson.png",
+        "Game": "Ares"
     }
 ];

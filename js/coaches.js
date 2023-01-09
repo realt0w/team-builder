@@ -323,5 +323,15 @@ var coaches = [
     "EnglishName": "Grandfather",
     "JapaneseName": "Grandfather",
     "Sprite": "./images/coaches/tile031.png"
+  },
+  {
+    "EnglishName": "Mister Yi",
+    "JapaneseName": "Zhao Jinyun",
+    "Sprite": "./images/players/ares/raimon/Coach_Raimon_MisterYi.png"
+  },
+  {
+    "EnglishName": "Arashi Shinjirou",
+    "JapaneseName": "Arashi Shinjirou",
+    "Sprite": "./images/players/ares/selene/Arashi_Shinjirou.png"
   }
 ];
