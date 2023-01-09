@@ -38863,7 +38863,7 @@ var players = [
         "Element": "Wind",
         "Sprite": "./images/players/ares/raimon/SandraFisher.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38875,7 +38875,7 @@ var players = [
         "Element": "Wood",
         "Sprite": "./images/players/ares/raimon/KikoCalavento.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38887,7 +38887,7 @@ var players = [
         "Element": "Wind",
         "Sprite": "./images/players/ares/raimon/TrevorCook.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38899,7 +38899,7 @@ var players = [
         "Element": "Earth",
         "Sprite": "./images/players/ares/raimon/CliffParker.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38911,7 +38911,7 @@ var players = [
         "Element": "Wood",
         "Sprite": "./images/players/ares/raimon/NinoNango.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38923,7 +38923,7 @@ var players = [
         "Element": "Wood",
         "Sprite": "./images/players/ares/raimon/MaximeDassier.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38935,7 +38935,7 @@ var players = [
         "Element": "Wind",
         "Sprite": "./images/players/ares/raimon/ValentinEisner.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38947,7 +38947,7 @@ var players = [
         "Element": "Earth",
         "Sprite": "./images/players/ares/raimon/CésarMontalbàn.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38959,7 +38959,7 @@ var players = [
         "Element": "Fire",
         "Sprite": "./images/players/ares/raimon/SonnyWright.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38971,7 +38971,7 @@ var players = [
         "Element": "Fire",
         "Sprite": "./images/players/ares/raimon/AdrianoDonati.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38983,7 +38983,7 @@ var players = [
         "Element": "Fire",
         "Sprite": "./images/players/ares/raimon/BasileHardi.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -38995,7 +38995,7 @@ var players = [
         "Element": "None",
         "Sprite": "./images/players/ares/raimon/Manageuse_Raimon_ReginaMulgrave.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -39007,7 +39007,7 @@ var players = [
         "Element": "None",
         "Sprite": "./images/players/ares/raimon/ManageuseRaimonAuréliaDingle.png",
         "EnglishTeam": "Backwater Raimon",
-        "JapaneseName": "Inakuni Raimon",
+        "JapaneseTeam": "Inakuni Raimon",
         "TeamSprite": "./images/players/ares/raimon/Ecusson.png",
         "Game": "Ares"
     },
@@ -39019,7 +39019,7 @@ var players = [
         "Element": "Wood",
         "Sprite": "./images/players/ares/selene/DuskeGrayling.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39031,7 +39031,7 @@ var players = [
         "Element": "Wind",
         "Sprite": "./images/players/ares/selene/SolomonOwle.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39043,7 +39043,7 @@ var players = [
         "Element": "Earth",
         "Sprite": "./images/players/ares/selene/OleanderMeadows.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39055,7 +39055,7 @@ var players = [
         "Element": "Fire",
         "Sprite": "./images/players/ares/selene/PersThomton.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39067,7 +39067,7 @@ var players = [
         "Element": "Wood",
         "Sprite": "./images/players/ares/selene/BudBloome.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39079,7 +39079,7 @@ var players = [
         "Element": "Wind",
         "Sprite": "./images/players/ares/selene/ReidRivers.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39091,7 +39091,7 @@ var players = [
         "Element": "Wood",
         "Sprite": "./images/players/ares/selene/RavenVale.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39103,7 +39103,7 @@ var players = [
         "Element": "Earth",
         "Sprite": "./images/players/ares/selene/WillowProude.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39115,7 +39115,7 @@ var players = [
         "Element": "Earth",
         "Sprite": "./images/players/ares/selene/WolfeRedwood.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39127,7 +39127,7 @@ var players = [
         "Element": "Wood",
         "Sprite": "./images/players/ares/selene/LucianSky.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39139,7 +39139,7 @@ var players = [
         "Element": "Fire",
         "Sprite": "./images/players/ares/selene/HeathMoore.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
@@ -39151,7 +39151,7 @@ var players = [
         "Element": "Fire",
         "Sprite": "./images/players/ares/selene/LeifBolt.png",
         "EnglishTeam": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
+        "JapaneseTeam": "Ōtei Tsukinomiya",
         "TeamSprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
