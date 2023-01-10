@@ -1185,7 +1185,7 @@ var emblems = [
         "JapaneseTeam": "Planet Girls"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/Seishou_Emblem.png",
+        "Sprite": "./images/players/ares/polaris/Ecusson.png",
         "EnglishTeam": "Polestar Academy",
         "JapaneseTeam": "Seishou Gakuen"
     },
@@ -1293,6 +1293,11 @@ var emblems = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/de/Relations_Emblem.png",
         "EnglishTeam": "Relations",
         "JapaneseTeam": "Relations"
+    },
+    {
+        "Sprite": "./images/players/ares/bastion/Ecusson.png",
+        "EnglishTeam": "Rampart",
+        "JapaneseTeam": "Minodouzan"
     },
     {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/Resistance_Japan_emblem.png",

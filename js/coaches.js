@@ -333,5 +333,15 @@ var coaches = [
     "EnglishName": "Arashi Shinjirou",
     "JapaneseName": "Arashi Shinjirou",
     "Sprite": "./images/players/ares/selene/Arashi_Shinjirou.png"
-  }
+  },
+  {
+    "EnglishName": "Percy",
+    "JapaneseName": "Kudou",
+    "Sprite": "./images/players/ares/polaris/PercivalTravis.png"
+  },
+  {
+    "EnglishName": "Saitou Ganseki",
+    "JapaneseName": "Saitou Ganseki",
+    "Sprite": "./images/players/ares/bastion/SaitouGanseki.png"
+  },
 ];

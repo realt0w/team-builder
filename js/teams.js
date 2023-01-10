@@ -706,5 +706,17 @@ var teams = [
         "JapaneseName": "Ōtei Tsukinomiya",
         "Sprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
-    }
+    },
+    {
+        "EnglishName": "Rampart",
+        "JapaneseName": "Minodouzan",
+        "Sprite": "./images/players/ares/bastion/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Polestar Academy",
+        "JapaneseName": "Seishou Gakuen",
+        "Sprite": "./images/players/ares/polaris/Ecusson.png",
+        "Game": "Ares"
+    },
 ];
