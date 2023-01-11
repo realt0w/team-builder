@@ -1,5 +1,5 @@
 # Inazuma Eleven Team Builder
-With this application you can form your own Inazuma Eleven teams. Choose from over a 1000 Inazuma players and create your own dream team!
+With this application you can form your own Inazuma Eleven teams. Choose from over a 3000 Inazuma players and create your own dream team!
 
 ## This version is maintained by Own studio.
 [Old original version](https://github.com/MikeEbbe/team-builder/)
