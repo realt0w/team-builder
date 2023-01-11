@@ -340,8 +340,18 @@ var coaches = [
     "Sprite": "./images/players/ares/polaris/PercivalTravis.png"
   },
   {
+    "EnglishName": "Matsuzaka Kiyo",
+    "JapaneseName": "Matsuzaka Kiyo",
+    "Sprite": "./images/players/ares/zeus/Zeus_Coach_Matsuzaka_Kiyo.png"
+  },
+  {
     "EnglishName": "Saitou Ganseki",
     "JapaneseName": "Saitou Ganseki",
     "Sprite": "./images/players/ares/bastion/SaitouGanseki.png"
+  },
+  {
+    "EnglishName": "Wagano Kakumei",
+    "JapaneseName": "Wagano Kakumei",
+    "Sprite": "./images/players/ares/animasana/Anima_Sana_Coach_Wagano_Kakumei.png"
   },
 ];

@@ -719,4 +719,22 @@ var teams = [
         "Sprite": "./images/players/ares/polaris/Ecusson.png",
         "Game": "Ares"
     },
+    {
+        "EnglishName": "Anima Sana",
+        "JapaneseName": "Mikage Sennou",
+        "Sprite": "./images/players/ares/animasana/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Kirkwood Junior High",
+        "JapaneseName": "Kidokawa Seishuu",
+        "Sprite": "./images/players/ares/kirkwood/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Zeus",
+        "JapaneseName": "Zeus",
+        "Sprite": "./images/players/ares/zeus/Ecusson.png",
+        "Game": "Ares"
+    },
 ];

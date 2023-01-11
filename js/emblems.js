@@ -95,7 +95,7 @@ var emblems = [
         "JapaneseTeam": "Ancient Dark"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Mikage_Sennou_Ares_Emblem.png",
+        "Sprite": "./images/players/ares/animasana/Ecusson.png",
         "EnglishTeam": "Anima Sana",
         "JapaneseTeam": "Mikage Sennou (Ares)"
     },
@@ -855,7 +855,7 @@ var emblems = [
         "JapaneseTeam": "Kidokawa Seishuu (GO)"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/50/Kidokawa_Seishuu_%28Ares%29_Emblem.png",
+        "Sprite": "./images/players/ares/kirkwood/Ecusson.png",
         "EnglishTeam": "Kirkwood (Ares)",
         "JapaneseTeam": "Kidokawa Seishuu (Ares)"
     },
@@ -2055,7 +2055,7 @@ var emblems = [
         "JapaneseTeam": "Zeus"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Zeus_%28Ares%2C_Emblem%29.png",
+        "Sprite": "./images/players/ares/zeus/Ecusson.png",
         "EnglishTeam": "Zeus (Ares)",
         "JapaneseTeam": "Zeus (Ares)"
     },
