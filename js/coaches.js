@@ -330,6 +330,11 @@ var coaches = [
     "Sprite": "./images/players/ares/raimon/Coach_Raimon_MisterYi.png"
   },
   {
+    "EnglishName": "Dean Rush",
+    "JapaneseName": "Kameda Yukinori",
+    "Sprite": "./images/players/ares/raimon/Dean_Rush.png"
+  },
+  {
     "EnglishName": "Arashi Shinjirou",
     "JapaneseName": "Arashi Shinjirou",
     "Sprite": "./images/players/ares/selene/Arashi_Shinjirou.png"
@@ -353,5 +358,30 @@ var coaches = [
     "EnglishName": "Wagano Kakumei",
     "JapaneseName": "Wagano Kakumei",
     "Sprite": "./images/players/ares/animasana/Anima_Sana_Coach_Wagano_Kakumei.png"
+  },
+  {
+    "EnglishName": "Cottontail",
+    "JapaneseName": "Shiratoya Kanbei",
+    "Sprite": "./images/players/ares/alpin/Alpin_Coach_Monsieur_Cottontail.png"
+  },
+  {
+    "EnglishName": "Zoe Haumea",
+    "JapaneseName": "Zoe Haumea",
+    "Sprite": "./images/players/fan/elements/Zoe_Haumea.png"
+  },
+  {
+    "EnglishName": "Aquilina Schiller",
+    "JapaneseName": "Kira Hitomiko",
+    "Sprite": "./images/players/ares/alia/Coach_Ecole Alia_Lina Schiller.png"
+  },
+  {
+    "EnglishName": "Silvia Woods",
+    "JapaneseName": "Kino Aki",
+    "Sprite": "./images/players/ares/lambda/Arès_Lambda_Silvia Woods.png"
+  },
+  {
+    "EnglishName": "Seymour Hillman",
+    "JapaneseName": "Hibiki Seigou",
+    "Sprite": "./images/players/ares/lambda/Coach_Lambda_Seymour Hillman.png"
   },
 ];

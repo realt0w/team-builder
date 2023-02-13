@@ -75,7 +75,7 @@ var emblems = [
         "JapaneseTeam": "Hakuren"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Hakuren_Ares_Emblem.png",
+        "Sprite": "./images/players/ares/alpin/Ecusson.png",
         "EnglishTeam": "Alpine (Ares)",
         "JapaneseTeam": "Hakuren (Ares)"
     },
@@ -140,7 +140,7 @@ var emblems = [
         "JapaneseTeam": "Inakuni"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Raimon_Ares_Emblem.png",
+        "Sprite": "./images/players/ares/raimon/Ecusson.png",
         "EnglishTeam": "Backwater Raimon",
         "JapaneseTeam": "Inakuni Raimon"
     },
@@ -433,6 +433,11 @@ var emblems = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Element_Master_emblem.png",
         "EnglishTeam": "Elemental Masters",
         "JapaneseTeam": "Element Master"
+    },
+    {
+        "Sprite": "./images/emblems/fan/Elements.png",
+        "EnglishTeam": "Elemental Menace",
+        "JapaneseTeam": "Element Menace"
     },
     {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Epsilon_emblem.png",
@@ -1255,6 +1260,11 @@ var emblems = [
         "JapaneseTeam": "Raimon Are"
     },
     {
+        "Sprite": "./images/players/ares/raimon/Ecusson2.png",
+        "EnglishTeam": "Raimon Ares",
+        "JapaneseTeam": "Raimon Ares"
+    },
+    {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Ura_Raimon_Emblem.png",
         "EnglishTeam": "Raimon Subs",
         "JapaneseTeam": "Ura Raimon"
@@ -1340,7 +1350,7 @@ var emblems = [
         "JapaneseTeam": "Teikoku Gakuen"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Teikoku_%28Ares%2C_Emblem%29.png",
+        "Sprite": "./images/players/ares/royalacademy/Ecusson.png",
         "EnglishTeam": "Royal Academy (Ares)",
         "JapaneseTeam": "Teikoku Gakuen (Ares)"
     },

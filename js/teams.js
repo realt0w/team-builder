@@ -696,6 +696,18 @@ var teams = [
         "Game": "GO3"
     },
     {
+        "EnglishName": "Alia Academy",
+        "JapaneseName": "Eisei Gakuen",
+        "Sprite": "./images/players/ares/alia/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Alpine",
+        "JapaneseName": "Hakuren",
+        "Sprite": "./images/players/ares/alpin/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
         "EnglishName": "Backwater Raimon",
         "JapaneseName": "Inakuni Raimon",
         "Sprite": "./images/players/ares/raimon/Ecusson.png",
@@ -732,9 +744,39 @@ var teams = [
         "Game": "Ares"
     },
     {
+        "EnglishName": "Royal Academy",
+        "JapaneseName": "Teikoku Gakuen",
+        "Sprite": "./images/players/ares/royalacademy/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
         "EnglishName": "Zeus",
         "JapaneseName": "Zeus",
         "Sprite": "./images/players/ares/zeus/Ecusson.png",
         "Game": "Ares"
+    },
+    {
+        "EnglishName": "Everytown",
+        "JapaneseName": "Tonegawa Tousen",
+        "Sprite": "./images/players/ares/lambda/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Elemental Menace - @Procyon_Net",
+        "JapaneseName": "Elemental Menace - @Procyon_Net",
+        "Sprite": "./images/emblems/fan/Elements.png",
+        "Game": "Fan"
+    },
+    {
+        "EnglishName": "Real Zeus - @Axelrider44",
+        "JapaneseName": "Real Zeus - @Axelrider44",
+        "Sprite": "./images/emblems/fan/RealZeus.png",
+        "Game": "Fan"
+    },
+    {
+        "EnglishName": "Snow Kids",
+        "JapaneseName": "Snow Kids",
+        "Sprite": "./images/emblems/galactikfootball/snowkids.png",
+        "Game": "GF"
     },
 ];
