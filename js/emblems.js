@@ -655,7 +655,7 @@ var emblems = [
         "JapaneseTeam": "GO! GO! Kids"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Akizoura_Challengers_emblem.png",
+        "Sprite": "./images/emblems/go1/Akizoura_Challengers_emblem.png",
         "EnglishTeam": "Golden Oldies",
         "JapaneseTeam": "Akizoura Challengers"
     },
@@ -685,7 +685,7 @@ var emblems = [
         "JapaneseTeam": "Adult Team"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/Guardians_of_Queen_Emblem.png",
+        "Sprite": "./images/emblems/orion/GuardiansofQueen.png",
         "EnglishTeam": "Guardians of Queen",
         "JapaneseTeam": "Guardians of Queen"
     },
@@ -825,7 +825,7 @@ var emblems = [
         "JapaneseTeam": "Inazuma Japan (GO)"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Inazuma_Japan_Orion_Emblem.png",
+        "Sprite": "./images/emblems/orion/Inazuma_Japan.png",
         "EnglishTeam": "Inazuma National (Orion)",
         "JapaneseTeam": "Inazuma Japan (Orion)"
     },
@@ -1018,6 +1018,11 @@ var emblems = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Seidouzan_emblem.png",
         "EnglishTeam": "Mount Olympus",
         "JapaneseTeam": "Seidouzan"
+    },
+    {
+        "Sprite": "./images/emblems/victoryroad/Nagumohara.png",
+        "EnglishTeam": "Nagumohara",
+        "JapaneseTeam": "Nagumohara"
     },
     {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Sazanaara_Emblem.png",

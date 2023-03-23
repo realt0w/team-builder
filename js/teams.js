@@ -440,7 +440,7 @@ var teams = [
     {
         "EnglishName": "Golden Oldies",
         "JapaneseName": "Akizora Challengers",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Akizoura_Challengers_emblem.png/revision/latest?cb=20171126181239",
+        "Sprite": "./images/emblems/go1/Akizoura_Challengers_emblem.png",
         "Game": "GO1"
     },
     {
@@ -760,6 +760,30 @@ var teams = [
         "JapaneseName": "Tonegawa Tousen",
         "Sprite": "./images/players/ares/lambda/Ecusson.png",
         "Game": "Ares"
+    },
+    {
+        "EnglishName": "Inazuma Japan",
+        "JapaneseName": "Inazuma Japan",
+        "Sprite": "./images/emblems/orion/Inazuma_Japan.png",
+        "Game": "Orion"
+    },
+    {
+        "EnglishName": "Guardians of Queen",
+        "JapaneseName": "Guardians of Queen",
+        "Sprite": "./images/emblems/orion/GuardiansofQueen.png",
+        "Game": "Orion"
+    },
+    {
+        "EnglishName": "Nagumohara",
+        "JapaneseName": "Nagumohara",
+        "Sprite": "./images/emblems/victoryroad/Nagumohara.png",
+        "Game": "VR"
+    },
+    {
+        "EnglishName": "Raimon",
+        "JapaneseName": "Raimon",
+        "Sprite": "./images/emblems/ie1/Raimon.png",
+        "Game": "VR"
     },
     {
         "EnglishName": "Elemental Menace - @Procyon_Net",

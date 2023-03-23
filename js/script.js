@@ -21,6 +21,8 @@ function renderPlayers(players, language) {
             'GO2': 'Inazuma Eleven GO Chrono Stones',
             'GO3': 'Inazuma Eleven GO Galaxy',
             'Ares': 'Inazuma Eleven Ares',
+            'Orion': 'Inazuma Eleven Orion',
+            'VR': 'Inazuma Eleven Victory Road',
             'Scouts': 'Scout Characters',
             'Fan': 'Fan Made Teams',
             'GF': 'Galactik Football',

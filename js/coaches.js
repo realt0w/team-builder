@@ -384,4 +384,19 @@ var coaches = [
     "JapaneseName": "Hibiki Seigou",
     "Sprite": "./images/players/ares/lambda/Coach_Lambda_Seymour Hillman.png"
   },
+  {
+    "EnglishName": "Sasanami Unmei",
+    "JapaneseName": "Sasanami Unmei",
+    "Sprite": "./images/coaches/SasanamiUnmei.png"
+  },
+  {
+    "EnglishName": "Kinben Giordani",
+    "JapaneseName": "Kinben Giordani",
+    "Sprite": "./images/coaches/KinbenGiordani.png"
+  },
+  {
+    "EnglishName": "Vladimir",
+    "JapaneseName": "Vladimir",
+    "Sprite": "./images/coaches/Vladimir.png"
+  },
 ];
