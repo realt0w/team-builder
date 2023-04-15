@@ -344,7 +344,7 @@ var teams = [
     {
         "EnglishName": "Raimon",
         "JapaneseName": "Raimon",
-        "Sprite": "/images/Raimon_GO.png",
+        "Sprite": "./images/Raimon_GO.png",
         "Game": "GO1"
     },
     {
@@ -488,7 +488,7 @@ var teams = [
     {
         "EnglishName": "Raimon",
         "JapaneseName": "Raimon",
-        "Sprite": "/images/Raimon_GO.png",
+        "Sprite": "./images/Raimon_GO.png",
         "Game": "GO2"
     },
     {
