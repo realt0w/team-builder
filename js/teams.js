@@ -708,6 +708,12 @@ var teams = [
         "Game": "Ares"
     },
     {
+        "EnglishName": "Raimon",
+        "JapaneseName": "Raimon",
+        "Sprite": "./images/players/ares/raimon/Ecusson2.png",
+        "Game": "Ares"
+    },
+    {
         "EnglishName": "Backwater Raimon",
         "JapaneseName": "Inakuni Raimon",
         "Sprite": "./images/players/ares/raimon/Ecusson.png",
