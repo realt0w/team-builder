@@ -8,13 +8,13 @@ var teams = [
     {
         "EnglishName": "Occult",
         "JapaneseName": "Occult",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png/revision/latest?cb=20200515174438",
+        "Sprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
         "EnglishName": "Wild",
         "JapaneseName": "Nose",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png/revision/latest?cb=20200515175033",
+        "Sprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -86,25 +86,25 @@ var teams = [
     {
         "EnglishName": "Scouts",
         "JapaneseName": "Scouts",
-        "Sprite": "./images/scout.png",
+        "Sprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
         "EnglishName": "Scouts IE1",
         "JapaneseName": "Scouts IE1",
-        "Sprite": "./images/scout.png",
+        "Sprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
         "EnglishName": "Scouts IE2",
         "JapaneseName": "Scouts IE2",
-        "Sprite": "./images/scout.png",
+        "Sprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
         "EnglishName": "Scouts IE3",
         "JapaneseName": "Scouts IE3",
-        "Sprite": "./images/scout.png",
+        "Sprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -662,7 +662,7 @@ var teams = [
     {
         "EnglishName": "Fertilia Eleven",
         "JapaneseName": "Ratoniik Eleven",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "Sprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -686,7 +686,7 @@ var teams = [
     {
         "EnglishName": "Supernova",
         "JapaneseName": "Supernova",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "Sprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {

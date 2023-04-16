@@ -188,7 +188,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Mask.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -200,7 +200,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Franky.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -212,7 +212,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Styx.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -224,7 +224,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Creepy.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -236,7 +236,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Undead.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -248,7 +248,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Grave.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -260,7 +260,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Jiangshi.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -272,7 +272,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Mummy.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -284,7 +284,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Blood.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -296,7 +296,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Wolfy.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -308,7 +308,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Talisman.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -320,7 +320,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Zombie.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -332,7 +332,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Ghost.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -344,7 +344,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Dollman.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -356,7 +356,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Alien.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -368,7 +368,7 @@ var players = [
         "Sprite": "./images/players/ie1/occult/Noir.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Occult.png",
         "Game": "IE1"
     },
     {
@@ -380,7 +380,7 @@ var players = [
         "Sprite": "./images/players/ie1/wild/Boar.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -392,7 +392,7 @@ var players = [
         "Sprite": "./images/players/ie1/wild/Fishman.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -401,10 +401,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/%28N%29_Kaeru.png/revision/latest?cb=20191102211354",
+        "Sprite": "./images/players/ie1/wild/Toad.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -413,10 +413,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/%28N%29_Lion.png/revision/latest?cb=20191102211425",
+        "Sprite": "./images/players/ie1/wild/Lion.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -425,10 +425,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/%28N%29_Chameleon.png/revision/latest?cb=20191102195104",
+        "Sprite": "./images/players/ie1/wild/Chameleon.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -437,10 +437,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/%28N%29_Saru.png/revision/latest?cb=20191102212634",
+        "Sprite": "./images/players/ie1/wild/Monkey.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -449,10 +449,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/%28N%29_Niwatori.png/revision/latest?cb=20191102211446",
+        "Sprite": "./images/players/ie1/wild/Chicken.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -461,10 +461,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/%28N%29_Washi.png/revision/latest?cb=20191102211531",
+        "Sprite": "./images/players/ie1/wild/Eagle.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -473,10 +473,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Cheetah.png/revision/latest?cb=20180728124504",
+        "Sprite": "./images/players/ie1/wild/Cheetah.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -485,10 +485,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/%28N%29_Gorilla.png/revision/latest?cb=20191102211255",
+        "Sprite": "./images/players/ie1/wild/Gorilla.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -497,10 +497,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Hebimaru_Shouma_sprite.png/revision/latest?cb=20170807094429",
+        "Sprite": "./images/players/ie1/wild/Snake.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -509,10 +509,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Chad.png/revision/latest?cb=20160621163600",
+        "Sprite": "./images/players/ie1/wild/Bullford.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -521,10 +521,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Rocky.png/revision/latest?cb=20160621163937",
+        "Sprite": "./images/players/ie1/wild/Raccoon.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -533,10 +533,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Alan.png/revision/latest?cb=20160621163803",
+        "Sprite": "./images/players/ie1/wild/Koala.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -545,10 +545,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Mouseman.png/revision/latest?cb=20160621163956",
+        "Sprite": "./images/players/ie1/wild/Mouseman.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -557,10 +557,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Panda.png/revision/latest?cb=20160621163839",
+        "Sprite": "./images/players/ie1/wild/Panda.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Wild.png",
         "Game": "IE1"
     },
     {
@@ -16988,7 +16988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Longa_Kamicula.png/revision/latest?cb=20170429180035",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17000,7 +17000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Drone_Naboon_sprite.png/revision/latest?cb=20170429181024",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17012,7 +17012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Moth_Gar_sprite.png/revision/latest?cb=20170429180910",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17024,7 +17024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Antwa_Arry.png/revision/latest?cb=20170423120235",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17036,7 +17036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/Tis_Kahma.png/revision/latest?cb=20170429180234",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17048,7 +17048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b3/Putterf_Chocho_sprite.png/revision/latest?cb=20170429175740",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17060,7 +17060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/e/e7/%28LF%29_Banda.png/revision/latest?cb=20170421214728&path-prefix=es",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17072,7 +17072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/Hopper_Bata.png/revision/latest?cb=20170428202214",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17084,7 +17084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Stag_Kwatta_game_avatar.png/revision/latest?cb=20170429180501",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17096,7 +17096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Locus_Inagus.png/revision/latest?cb=20170429180129",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17105,10 +17105,10 @@ var players = [
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Hornet_Harcha_sprite.png/revision/latest?cb=20170429175941",
+        "Sprite": "./images/players/go3/fertilia/Vespa.png",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17120,7 +17120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/6/66/%28LF%29_Komecky.png/revision/latest?cb=20170421214826&path-prefix=es",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17129,10 +17129,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c7/Taran_Tulakumo.png/revision/latest?cb=20170429180333",
+        "Sprite": "./images/players/go3/fertilia/Theraphosi.png",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17144,7 +17144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/e/e7/%28LF%29_Banda.png/revision/latest?cb=20170421214728&path-prefix=es",
         "EnglishTeam": "Fertilia Eleven",
         "JapaneseTeam": "Ratoniik Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ratoniik_Eleven_emblem.png/revision/latest?cb=20171115063633",
+        "TeamSprite": "./images/emblems/go3/FertiliaEleven.png",
         "Game": "GO3"
     },
     {
@@ -17333,7 +17333,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Deimos_Repton_sprite.png/revision/latest?cb=20171016090713",
+        "Sprite": "./images/players/go3/ixar/Deimos.png",
         "EnglishTeam": "Ixar Fleet",
         "JapaneseTeam": "Ixal Fleet",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Ixal_Fleet_Emblem.png/revision/latest?cb=20171115063358",
@@ -17501,7 +17501,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Madison_Barada.png/revision/latest?cb=20171204114542",
+        "Sprite": "./images/players/go3/bigbang/Barada.png",
         "EnglishTeam": "Big Bang",
         "JapaneseTeam": "Big Bang",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Big_Bang_Emblem.png/revision/latest?cb=20171115063223",
@@ -17561,10 +17561,10 @@ var players = [
         "Gender": "Female",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Ashubina_Barany_sprite.png/revision/latest?cb=20190624114624",
+        "Sprite": "./images/players/go3/supernova/Barany.png",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17573,10 +17573,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Haster_Sabital.png/revision/latest?cb=20190624114627",
+        "Sprite": "./images/players/go3/supernova/Sabital.png",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17588,7 +17588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0d/Apas_Muran_sprite.png/revision/latest?cb=20170504122921",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17600,7 +17600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Soma_Roby_sprite.png/revision/latest?cb=20190624114630",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17612,7 +17612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Rudra_Ardo_sprite.png/revision/latest?cb=20190624114629",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17624,7 +17624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Baga_Guny_sprite.png/revision/latest?cb=20190624114624",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17636,7 +17636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Mitora_Jeshuu_sprite.png/revision/latest?cb=20190624114629",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17648,7 +17648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c8/Indra_Vayu_sprite.png/revision/latest?cb=20190624114628",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17657,10 +17657,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ab/Bass_Danish.png/revision/latest?cb=20190624113904",
+        "Sprite": "./images/players/go3/supernova/Danish.png",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17669,10 +17669,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Ashleigh_Salpara.png/revision/latest?cb=20190624114623",
+        "Sprite": "./images/players/go3/supernova/Salpara.png",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17684,7 +17684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/Acrous_Orbies.png/revision/latest?cb=20170504122435",
         "EnglishTeam": "Supernova",
         "JapaneseTeam": "Supernova",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Supernova_Emblem.png/revision/latest?cb=20171115063145",
+        "TeamSprite": "./images/emblems/go3/Supernova.png",
         "Game": "GO3"
     },
     {
@@ -17828,7 +17828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Cap.png/revision/latest?cb=20120623084854",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17840,7 +17840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1b/Endou_Daisuke_sprite.png/revision/latest?cb=20190711114039",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17852,7 +17852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Yashima_soccer_jacket.png/revision/latest?cb=20210911131816",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17864,7 +17864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Hibiki_Seigou_GO_sprite.png/revision/latest?cb=20190711123302",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17876,7 +17876,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bd/Kakuma_Oushou_soccer_uniform.png/revision/latest?cb=20210909192850",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17888,7 +17888,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Junk.png/revision/latest?cb=20190630113748",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17900,7 +17900,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Kamezaki_Kappa_sprite.png/revision/latest?cb=20190624115509",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17912,7 +17912,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Adult_Tachimukai_GO_sprite.png/revision/latest?cb=20190507103917",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17924,7 +17924,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Ryuu_Gentoku_sprite.png/revision/latest?cb=20190711114213",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17936,7 +17936,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/d/d2/%28ED2%29_MARK.png/revision/latest?cb=20200610135610&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17948,7 +17948,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Furukabu_GO_sprite_from_official_site.png/revision/latest?cb=20121031121405",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17960,7 +17960,7 @@ var players = [
         "Sprite": "./images/players/scouts/ie1/Matsubara.png",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17972,7 +17972,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/be/Potomuri_%28clown%29.png/revision/latest?cb=20210911133338",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17984,7 +17984,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Ireid_Obies.png/revision/latest?cb=20210911221009",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -17996,7 +17996,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/UinGO.png/revision/latest?cb=20170121193011",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18008,7 +18008,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/97/Funaki_Hiromasa_Earth_Eleven_jacket.png/revision/latest?cb=20210911221642",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18020,7 +18020,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Aki_soccer_uniform.png/revision/latest?cb=20200529133354",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18032,7 +18032,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/3/30/Silvia_(GO_Adulta_Sprite_Fichable).png/revision/latest?cb=20210116211907&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18044,7 +18044,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/4/41/Skie_%28Fichable%29.png/revision/latest?cb=20200615162257&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18056,7 +18056,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Death_Horn_Sprite_LQ.png/revision/latest?cb=20210911133911",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18068,7 +18068,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/Chairman.png/revision/latest?cb=20190715121753",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18077,10 +18077,10 @@ var players = [
         "Gender": "None",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "./images/Tricera.png",
+        "Sprite": "./images/players/scouts/cs/Tricera.png",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18092,7 +18092,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0e/Tyrano_game.png/revision/latest?cb=20201020153704",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18104,7 +18104,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Kiriya.png/revision/latest?cb=20161013141929",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18116,7 +18116,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Azuma.png/revision/latest?cb=20130511182949",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18128,7 +18128,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Toudou_Heikichi_Earth_Eleven_jacket.png/revision/latest?cb=20210912115151",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18140,7 +18140,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Venom.png/revision/latest?cb=20190715122336",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18152,7 +18152,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Fuyukamugshot.png/revision/latest?cb=20200529145132",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18164,7 +18164,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Adult_Fuyuka_Avatar.png/revision/latest?cb=20140214201118",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18176,7 +18176,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/Sousou_Earth_Eleven_jacket.png/revision/latest?cb=20210912115529",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18188,7 +18188,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d0/Charles_VII_sprite.png/revision/latest?cb=20190711114651",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18200,7 +18200,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Kakuma_Ayumu_soccer_uniform.png/revision/latest?cb=20210909185128",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18212,7 +18212,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Chii-chan.png/revision/latest?cb=20190731120041",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18224,7 +18224,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a4/Jii-san.png/revision/latest?cb=20190715121814",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18236,7 +18236,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/Ei.png/revision/latest?cb=20130515211854",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18248,7 +18248,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Kousaka_Yukie%27s_sprite.png/revision/latest?cb=20210519212154",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18260,7 +18260,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b3/Tetsukado_Tetsu_Earth_Eleven_jacket.png/revision/latest?cb=20210912115915",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18272,7 +18272,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3d/Shinkiri.png/revision/latest?cb=20161013141940",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18284,7 +18284,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/af/Hazekura.png/revision/latest?cb=20130511175329",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18296,7 +18296,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Minel_Eiba_young.png/revision/latest?cb=20210912120256",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18308,7 +18308,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Minel_Eiba_adult.png/revision/latest?cb=20210912120226",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18320,7 +18320,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/a/a7/(R_GO)_Gorota.png/revision/latest?cb=20161018144601&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18332,7 +18332,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Kanu_Earth_Eleven_jacket.png/revision/latest?cb=20210912120614",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18344,7 +18344,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Haniwa_Paolo.png/revision/latest?cb=20190717113847",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18356,7 +18356,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/d/d7/Archer_(GO_Fichable_Adulto).png/revision/latest?cb=20191115152027&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18368,7 +18368,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Hide.png/revision/latest?cb=20121018155203",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18380,7 +18380,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/9/91/(R_GO)_Ichimasa.png/revision/latest?cb=20161018155103&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18392,7 +18392,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/5/54/(R_GO)_Jingo.png/revision/latest?cb=20161018145157&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18404,7 +18404,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Jeanne_d%27Arc_Earth_Eleven_jacket.png/revision/latest?cb=20210912120834",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18416,7 +18416,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/62/Okatsu_Earth_Eleven_jacket.png/revision/latest?cb=20210913113444",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18428,7 +18428,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/9/96/Keenan_%28Ni%C3%B1o_fichable%29.png/revision/latest?cb=20200622222155&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18440,7 +18440,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Kondou_Isami_Earth_Eleven_jacket.png/revision/latest?cb=20210913122716",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18452,7 +18452,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Luke_Triton.png/revision/latest?cb=20190712114804",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18464,7 +18464,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Miyasaki_JPN_version_sprite.png/",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18476,7 +18476,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Tochan_Earth_Eleven_jacket.png/revision/latest?cb=20210913122924",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18488,7 +18488,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Pants.png/revision/latest?cb=20120416172505",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18500,7 +18500,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Tamanoplayer.png/revision/latest?cb=20120404071610",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18509,10 +18509,10 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Pichichi.png/revision/latest?cb=20160911092342",
+        "Sprite": "./images/players/scouts/ie3/Pichichi.png",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18524,7 +18524,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Master_Dragon_Earth_Eleven_jacket.png/revision/latest?cb=20210913123201",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18536,7 +18536,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Kibitsu.png/revision/latest?cb=20160919150620",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18548,7 +18548,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Kuroki_Zenzou.png/revision/latest?cb=20210913123337",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18560,7 +18560,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Minaho_Sakyou_Earth_Eleven_jacket.png/revision/latest?cb=20210913123536",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18572,7 +18572,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/2/27/(R_GO)_Shishimaru.png/revision/latest?cb=20161018145211&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18584,7 +18584,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Shuu%27s_Younger_Sister_sprite.png/revision/latest?cb=20190717114932",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18596,7 +18596,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Matatagi_Yuuta_Earth_Eleven_jacket.png/revision/latest?cb=20210913123839",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18605,10 +18605,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Sasu_K.png/revision/latest?cb=20151030234450",
+        "Sprite": "./images/players/scouts/ie3/Spotter.png",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18620,7 +18620,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Kinoshita_Toukichirou_sprite.png/revision/latest?cb=20190711114533",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18632,7 +18632,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Fuyukai_Suguru_GO_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711121457",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18644,7 +18644,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/Manabe_Kyouko_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711121459",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18656,7 +18656,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Anthony_Feruzen.png/revision/latest?cb=20200529164512",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18668,7 +18668,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4e/Adult_Aphrodi_GO_sprite.png/revision/latest?cb=20190507100700",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18680,7 +18680,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fb/Cs_tenma_young_sprite.png/revision/latest?cb=20210310143134",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18692,7 +18692,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a4/Asurei_soccer_uniform.png/revision/latest?cb=20210909184540",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18704,7 +18704,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/Ootani.png/revision/latest?cb=20120623003356",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18716,7 +18716,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Haruna_Raimon.png/revision/latest?cb=20180806111227",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18728,7 +18728,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/a/ae/Celia_(GO_Adulta_Sprite_Fichable).png/revision/latest?cb=20210116211629&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18740,7 +18740,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/3/3c/Cherise_Ni%C3%B1a_%28Sprite_Fichable%29.png/revision/latest?cb=20200628144709&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18749,10 +18749,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/CHEL.png/revision/latest?cb=20200529164502",
+        "Sprite": "./images/players/scouts/ie1/Chelmey.png",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18764,7 +18764,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Hiroshi.png/revision/latest?cb=20121018154713",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18776,7 +18776,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Ebirina.png/revision/latest?cb=20190725204231",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18788,7 +18788,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4d/Gilles_de_Rais_sprite.png/revision/latest/scale-to-width-down/64?cb=20190713202916",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18800,7 +18800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Adult_Midorikawa_Avatar.png/revision/latest?cb=20140214201119",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18812,7 +18812,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Senguuji_Daigo_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115738",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18824,7 +18824,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/NeoKakuma.png/revision/latest?cb=20120422162650",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18836,7 +18836,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Kazuto_Japan_B_shot.png/revision/latest?cb=20120107082525",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18848,7 +18848,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Doudou.png/revision/latest?cb=20180913180705",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18860,7 +18860,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/9/90/Julia_%28GO_Ni%C3%B1a_Sprite_Fichable%29.png/revision/latest?cb=20210116211753&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18872,7 +18872,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/8/82/Julia_%28GO_Adulta_Sprite_Fichable%29.png/revision/latest?cb=20210116211726&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18884,7 +18884,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Kodama_Fumika.png/revision/latest?cb=20160113010400",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18896,7 +18896,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Hershel_Layton.png/revision/latest?cb=20190712114809",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18908,7 +18908,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Sina_Yuis_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711132645",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18920,7 +18920,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Maa.png/revision/latest?cb=20130515202924",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18932,7 +18932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Mai_Mai.png/revision/latest?cb=20131104204037",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18944,7 +18944,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Tendou.png/revision/latest?cb=20161013200742",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18956,7 +18956,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Nakaoka_Shintarou_sprite.png/revision/latest?cb=20190711115215",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18968,7 +18968,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0d/Amano_Keita.png/revision/latest?cb=20160113010149",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18980,7 +18980,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Ton_Nino.png/revision/latest?cb=20190715123811",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -18992,7 +18992,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/5/5c/Nagahide_Niwa_(Casual,_sprite).jpeg/revision/latest?cb=20180808232513&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19004,7 +19004,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Saginuma_osamu_adult_sprite.png/revision/latest?cb=20190711125549",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19016,7 +19016,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Rishako.png/revision/latest?cb=20190731124105",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19028,7 +19028,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/Young_Lalaya_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115739",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19040,7 +19040,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Lalaya_obies_sprite.jpg/revision/latest?cb=20200807091729",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19052,7 +19052,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/f/f9/Rosie_%28Fichable%29.png/revision/latest?cb=20200617205703&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19064,7 +19064,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Sakamoto_Ryouma_sprite.png/revision/latest?cb=20190506140228",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19076,7 +19076,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/5/5c/Skie_%28Fichable_Galaxy%29.png/revision/latest?cb=20200615162257&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19088,7 +19088,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Sasuke_Mugshot_CS_%28Jacket%29.png/revision/latest?cb=20151031232409",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19100,7 +19100,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d8/Adult_Handa_GO_sprite.png/revision/latest?cb=20190507103524",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19112,7 +19112,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Adult_Touko_GO_sprite.png/revision/latest?cb=20190507103154",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19124,7 +19124,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/8/8e/Travis_(GO_Sprite_Fichable).png/revision/latest?cb=20210116211942&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19133,10 +19133,10 @@ var players = [
         "Gender": "None",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "./images/Troodon.png",
+        "Sprite": "./images/players/scouts/cs/Troodon.png",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19148,7 +19148,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Tentsuru.png/revision/latest?cb=20161013141652",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19160,7 +19160,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Stin.png/revision/latest?cb=20190630113757",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19172,7 +19172,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Shokatsu_Koumei_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711131608",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19184,7 +19184,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/Kira_Hitomiko_GO_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711123303",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19196,7 +19196,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Sena_Arata%27s_sprite.png/revision/latest?cb=20210310132453",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19208,7 +19208,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/King_Arthur_sprite.png/revision/latest?cb=20190711132809",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19220,7 +19220,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/Nozaki_Seiichi_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115736",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19232,7 +19232,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Tsururyuu.png/revision/latest?cb=20210331090946",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19244,7 +19244,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Varview.png/revision/latest/scale-to-width-down/64?cb=20190715123047",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19256,7 +19256,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/05/Big_%28CS_Sprite%29.png/revision/latest?cb=20210829175106&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19268,7 +19268,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Big_Avatar.png/revision/latest?cb=20140214201157",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19280,7 +19280,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Kanon_casual_2.png/revision/latest?cb=20120615203447",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19292,7 +19292,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Young_Katra_sprite.png/revision/latest/scale-to-width-down/64?cb=20190718113141",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19304,7 +19304,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d8/Katra_Paige_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115733",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19316,7 +19316,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Chiquita.png/revision/latest?cb=20130516205952",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19328,7 +19328,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Matatagi_Shun_sprite.png/revision/latest/scale-to-width-down/64?cb=20190717114457",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19340,7 +19340,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Manabe_Jinsuke_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711121459",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19352,7 +19352,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Nakatani.png/revision/latest?cb=20180922095816",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19364,7 +19364,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8c/Dr._Crossword_Arno_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115732",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19376,7 +19376,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Don_Paul.png/revision/latest?cb=20200529164436",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19388,7 +19388,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Rakuda.png/revision/latest?cb=20180519081527",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19400,7 +19400,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Remi_Altava.png/revision/latest?cb=20190712114812",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19412,7 +19412,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Aroma_Reinford.png/revision/latest?cb=20200529164414",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19424,7 +19424,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/b/b7/Glacia_%28Fichable%29.png/revision/latest?cb=20200706213100&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19436,7 +19436,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Sakamaki_Togurou_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115737",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19448,7 +19448,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Hash.png/revision/latest?cb=20190715122439",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19460,7 +19460,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Hazard.png/revision/latest?cb=20190715122517",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19472,7 +19472,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Oozora_Hiro_sprite.png/revision/latest?cb=20210310133048",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19484,7 +19484,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/Adult_Toramaru_Avatar.png/revision/latest?cb=20191218164341",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19496,7 +19496,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/06/Jade_%28Fichable%29.png/revision/latest?cb=20200617205704&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19508,7 +19508,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Satoko_%28Sprite%2C_scout%29.png/revision/latest?cb=20180423223406",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19520,7 +19520,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/KMC.png/revision/latest?cb=20120318181913",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19532,7 +19532,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Hanabayashi_Kyouko_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711123301",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19544,7 +19544,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/La_Hire_sprite.png/revision/latest?cb=20190711132921",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19556,7 +19556,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Rushe_GO_sprite.png/revision/latest/scale-to-width-down/64?cb=20190718115752",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19568,7 +19568,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Mach.png/revision/latest?cb=20180518114903",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19580,7 +19580,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Maeda_Toshiie_sprite.png/revision/latest/scale-to-width-down/64?cb=20190712125503",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19592,7 +19592,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Nozaki_Kaede_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115735",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19604,7 +19604,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e8/Miiya.png/revision/latest?cb=20120707233508",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19616,7 +19616,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Kisaragi_Mako.png/revision/latest?cb=20170705145008",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19628,7 +19628,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/Natsumi_sprite_0.png/revision/latest?cb=20120206171936",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19640,7 +19640,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/4/41/Nelly_(GO_Adulta_Sprite_Fichable).png/revision/latest?cb=20210116211819&path-prefix=es",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19652,7 +19652,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Oda_Nobunaga_sprite.png/revision/latest?cb=20190712125459",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19664,7 +19664,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Okita_Souji_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711125138",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19676,7 +19676,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Potomuri_%28normal%29.png/revision/latest?cb=20210911133210",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19688,7 +19688,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Potomuri_%28fusion%29.png/revision/latest?cb=20210911133258",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19700,7 +19700,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Minaho_Mitsuyo_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711115734",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19712,7 +19712,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Sagamineta.png/revision/latest?cb=20120629171906",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19724,7 +19724,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Shadow_Raimon.png/revision/latest?cb=20180720100116",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19736,7 +19736,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Gousetsuji.png/revision/latest?cb=20180913180601",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19748,7 +19748,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Captain.png/revision/latest?cb=20120702185803",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19760,7 +19760,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/Raimon_Souichirou_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711123305",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19772,7 +19772,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Masato_s_Sprites_IE3-1-.png/revision/latest?cb=20120826100605",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19784,7 +19784,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Hakushu.png/revision/latest?cb=20161013142401",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19796,7 +19796,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/Yamano_Ban_sprite.png/revision/latest?cb=20210310133555",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19808,7 +19808,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Cs_tsurugi_young_sprite.png/revision/latest?cb=20190717114633",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19820,7 +19820,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Young_Yuuichi_sprite.png/revision/latest?cb=20200427202900",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19832,7 +19832,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Megane_Kakeru_GO_sprite.png/revision/latest/scale-to-width-down/64?cb=20190711121500",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19844,7 +19844,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Clark_Wonderbot_sprite.png/revision/latest?cb=20190711115731",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19856,7 +19856,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Yurina.png/revision/latest?cb=20130515202250",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19868,7 +19868,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fe/Ishido's_sprite_(Playable).png/revision/latest?cb=20161022175456",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19880,7 +19880,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Clara_Jane_Avatar.png/revision/latest?cb=20140214201232",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19892,7 +19892,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/11/Chouhi_sprite.png/revision/latest?cb=20190711131607",
         "EnglishTeam": "Scouts",
         "JapaneseTeam": "Scouts",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19904,7 +19904,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Norimatsu.png/revision/latest?cb=20190729120424",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19916,7 +19916,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Kunisada.png/revision/latest?cb=20170128113001",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19928,7 +19928,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Fukushi.png/revision/latest?cb=20160712131319",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19940,7 +19940,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/Yamato.png/revision/latest?cb=20161115095448",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19952,7 +19952,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ad/Machino.png/revision/latest?cb=20160330190158",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19964,7 +19964,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Raiden.png/revision/latest?cb=20190729121344",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19976,7 +19976,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Michiru.png/revision/latest?cb=20190728122924",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -19988,7 +19988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Uryuu.png/revision/latest?cb=20190731125308",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20000,7 +20000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Iruka.png/revision/latest?cb=20190728121135",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20012,7 +20012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6d/Koike.png/revision/latest?cb=20190728121922",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20024,7 +20024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Akadai.png/revision/latest?cb=20190724105546",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20036,7 +20036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Hachisuga.png/revision/latest?cb=20160606165908",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20048,7 +20048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fe/Mikuni.png/revision/latest?cb=20170616093730",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20060,7 +20060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Tabimoto.png/revision/latest?cb=20160712100951",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20072,7 +20072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Tou.png/revision/latest?cb=20170325075250",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20084,7 +20084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Fukushima.png/revision/latest?cb=20170508165047",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20096,7 +20096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Gunma.png/revision/latest?cb=20130622230723",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20108,7 +20108,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Nanahoshi.png/revision/latest?cb=20170127213639",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20120,7 +20120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bd/Shichiya.png/revision/latest?cb=20190731124328",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20132,7 +20132,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/80/Mitsushima.png/revision/latest?cb=20160226132119",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20144,7 +20144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Koshiki.png/revision/latest?cb=20190731122443",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20156,7 +20156,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Oohisa.png/revision/latest?cb=20190729120820",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20168,7 +20168,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Yakushiji.png/revision/latest?cb=20190722123904",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20180,7 +20180,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Kazamukai.png/revision/latest?cb=20121006111441",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20192,7 +20192,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Rajou.png/revision/latest?cb=20160625084942",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20204,7 +20204,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Koima.png/revision/latest?cb=20190728121926",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20216,7 +20216,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Nagasaki.png/revision/latest?cb=20190729120054",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20228,7 +20228,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Nagatsuki.png/revision/latest?cb=20190729120102",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20240,7 +20240,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a4/Saga.png/revision/latest?cb=20170909112520",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20252,7 +20252,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/Yamaguchi.png/revision/latest?cb=20121122182509",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20264,7 +20264,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d9/Chouhi_%28scout_character%29.png/revision/latest?cb=20130425122037",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20276,7 +20276,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/45/Kume.png/revision/latest?cb=20190728122408",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20288,7 +20288,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/Himuro.png/revision/latest?cb=20170824115617",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20300,7 +20300,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Ishimatsu.png/revision/latest?cb=20170706091801",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20312,7 +20312,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Oomichi.png/revision/latest?cb=20190729120834",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20324,7 +20324,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1b/Taka.png/revision/latest?cb=20190729122754",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20336,7 +20336,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Ryuubi.png/revision/latest?cb=20190729121406",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20348,7 +20348,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Maizuru.png/revision/latest?cb=20190728122830",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20360,7 +20360,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/Awashima.png/revision/latest?cb=20190724122838",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20372,7 +20372,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4c/Kurokawa.png/revision/latest?cb=20190728122424",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20384,7 +20384,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Yasukawa.png/revision/latest?cb=20190722123904",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20396,7 +20396,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Inugami.png/revision/latest?cb=20130622211034",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20408,7 +20408,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Hoshimi.png/revision/latest?cb=20160621213027",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20420,7 +20420,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Nanno.png/revision/latest?cb=20161214093716",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20432,7 +20432,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Gari.png/revision/latest?cb=20190728115643",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20444,7 +20444,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Kijihata.png/revision/latest?cb=20170109095524",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20456,7 +20456,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Tanimura.png/revision/latest?cb=20190729123115",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20468,7 +20468,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Fukurosaki.png/revision/latest?cb=20180926081913",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20480,7 +20480,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Yoshinaga.png/revision/latest?cb=20190729124403",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20492,7 +20492,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3a/Urakata.png/revision/latest?cb=20190406144357",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20504,7 +20504,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Shisen.png/revision/latest?cb=20190318230526",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20516,7 +20516,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Tatemori.png/revision/latest?cb=20150526102054",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20528,7 +20528,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fb/Drum.png/revision/latest?cb=20190721122620",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20540,7 +20540,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Aizome.png/revision/latest?cb=20161214092408",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20552,7 +20552,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Higashi.png/revision/latest?cb=20190728120220",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20564,7 +20564,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Imada.png/revision/latest?cb=20190731121457",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20576,7 +20576,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Haniwa.png/revision/latest?cb=20180526153213",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20588,7 +20588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Oodako.png/revision/latest?cb=20170321001849",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20600,7 +20600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/66/Iwata.png/revision/latest?cb=20190731121528",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20612,7 +20612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Ishikura.png/revision/latest?cb=20190728121148",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20624,7 +20624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/24/Ogami.png/revision/latest?cb=20180526082922",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20636,7 +20636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Tsuruta.png/revision/latest?cb=20190729123702",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20648,7 +20648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Masago.png/revision/latest?cb=20161215001613",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20660,7 +20660,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Naya.png/revision/latest?cb=20190731123137",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20672,7 +20672,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Yamanaka.png/revision/latest?cb=20190731125528",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20684,7 +20684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Mouri.png/revision/latest?cb=20130511130011",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20696,7 +20696,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Shunji.png/revision/latest?cb=20190729122328",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20708,7 +20708,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Atago.png/revision/latest?cb=20170215110452",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20720,7 +20720,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Hayato.png/revision/latest?cb=20190728120203",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20732,7 +20732,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Mibu.png/revision/latest?cb=20190728122917",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20741,10 +20741,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e0/Yotto.png/revision/latest?cb=20170517171150",
+        "Sprite": "./images/players/scouts/ie1/Fog.png",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20756,7 +20756,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Shinano.png/revision/latest?cb=20180526083547",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20768,7 +20768,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Kawata.png/revision/latest?cb=20130512192435",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20780,7 +20780,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/41/Reppuu.png/revision/latest?cb=20190731124052",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20792,7 +20792,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Shiden.png/revision/latest?cb=20160320143018",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20804,7 +20804,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/62/Higa.png/revision/latest?cb=20160712103602",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20816,7 +20816,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Samejima.png/revision/latest?cb=20160402220132",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20828,7 +20828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Niigata.png/revision/latest?cb=20160711131209",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20840,7 +20840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Gobou.png/revision/latest?cb=20190728115647",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20852,7 +20852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Naginata.png/revision/latest?cb=20190721132437",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20864,7 +20864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Shiozaki.png/revision/latest?cb=20161217011130",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20876,7 +20876,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d1/Kazama.png/revision/latest?cb=20180922094157",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20888,7 +20888,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Nabe.png/revision/latest?cb=20160609203535",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20900,7 +20900,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Tsuchino.png/revision/latest?cb=20150526152746",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20912,7 +20912,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Hyougo.png/revision/latest?cb=20190731121141",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20924,7 +20924,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Nunomura.png/revision/latest?cb=20160405210746",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20936,7 +20936,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/40/Gifu.png/revision/latest?cb=20190721123415",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20948,7 +20948,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Oosaki.png/revision/latest?cb=20121124101112",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20960,7 +20960,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Tokieda.png/revision/latest?cb=20160711130403",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20972,7 +20972,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/88/Uzuki.png/revision/latest?cb=20190729123833",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20984,7 +20984,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/Hikyaku.png/revision/latest?cb=20160712134305",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -20996,7 +20996,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Kurenai.png/revision/latest?cb=20190728122224",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21008,7 +21008,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/13/Gomi.png/revision/latest?cb=20190728115651",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21020,7 +21020,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Zashiki.png/revision/latest?cb=20170706091850",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21032,7 +21032,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ef/Ikesu.png/revision/latest?cb=20190728121057",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21044,7 +21044,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Hosoi.png/revision/latest?cb=20160621211846",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21056,7 +21056,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Kabocha.png/revision/latest?cb=20130622201506",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21068,7 +21068,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9b/Minamoto.png/revision/latest?cb=20190731122801",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21080,7 +21080,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Isaribi.png/revision/latest?cb=20160624195754",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21092,7 +21092,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Nagaosa.png/revision/latest?cb=20160408152642",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21104,7 +21104,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cd/Yonezawa.png/revision/latest?cb=20161224182640",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21116,7 +21116,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Nunohara.png/revision/latest?cb=20190731113934",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21128,7 +21128,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Moribayashi.png/revision/latest?cb=20190731122812",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21140,7 +21140,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3d/Kikka.png/revision/latest?cb=20170411101928",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21152,7 +21152,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Kawasaki.png/revision/latest?cb=20160712132103",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21164,7 +21164,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Jinno.png/revision/latest?cb=20160321214533",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21176,7 +21176,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c0/Iwabuchi.png/revision/latest?cb=20190731121524",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21188,7 +21188,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9b/Ninomiya.png/revision/latest?cb=20190731123306",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21200,7 +21200,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Roma.png/revision/latest?cb=20170404132533",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21212,7 +21212,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Fujinami.png/revision/latest?cb=20190721123230",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21224,7 +21224,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Rokuta.png/revision/latest?cb=20180526083025",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21236,7 +21236,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Igashira.png/revision/latest?cb=20190728121032",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21248,7 +21248,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Katsu.png/revision/latest?cb=20170104184831",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21260,7 +21260,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/de/Aikata.png/revision/latest?cb=20180922094437",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21272,7 +21272,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Ushihara.png/revision/latest?cb=20170620000035",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21284,7 +21284,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Saibara.png/revision/latest?cb=20170223133925",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21296,7 +21296,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Kongou.png/revision/latest?cb=20170223133853",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21308,7 +21308,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Inkan.png/revision/latest?cb=20180526081801",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21320,7 +21320,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Souno.png/revision/latest?cb=20190729122355",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21332,7 +21332,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ef/Senju.png/revision/latest?cb=20190729121824",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21344,7 +21344,7 @@ var players = [
         "Sprite": "./images/players/scouts/ie1/Matsubara.png",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21356,7 +21356,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Kusabe.png/revision/latest?cb=20190731122515",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21368,7 +21368,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Kahaku.png/revision/latest?cb=20190728121541",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21380,7 +21380,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d4/Kobayashi.png/revision/latest?cb=20190731122437",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21392,7 +21392,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Hotta.png/revision/latest?cb=20190728120601",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21404,7 +21404,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d1/Ooedo.png/revision/latest?cb=20160919150938",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21416,7 +21416,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6d/Shimabukuro.png/revision/latest?cb=20160402212037",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21428,7 +21428,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Etsuma.png/revision/latest?cb=20170706091618",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21440,7 +21440,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Keira.png/revision/latest?cb=20190728121849",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21452,7 +21452,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Iwaki.png/revision/latest?cb=20170209132020",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21464,7 +21464,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Senno.png/revision/latest?cb=20190731114046",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21476,7 +21476,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Ryuuno.png/revision/latest?cb=20170325073437",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21488,7 +21488,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b5/Nanriku.png/revision/latest?cb=20160623205300",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21500,7 +21500,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Tatsumi.png/revision/latest?cb=20190729123138",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21512,7 +21512,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/Tatamida.png/revision/latest?cb=20180926083402",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21524,7 +21524,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Kagerou.png/revision/latest?cb=20180526081856",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21536,7 +21536,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Haritsuji.png/revision/latest?cb=20180513064513",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21548,7 +21548,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Ooigawa.png/revision/latest?cb=20160330181219",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21560,7 +21560,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Umimichi.png/revision/latest?cb=20190731125259",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21572,7 +21572,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Hourai.png/revision/latest?cb=20190728120613",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21584,7 +21584,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b0/Houren.png/revision/latest?cb=20190728120617",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21596,7 +21596,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Kahira.png/revision/latest?cb=20180526082008",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21608,7 +21608,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Eiyoushi.png/revision/latest?cb=20170109094420",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21620,7 +21620,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Shoutoku.png/revision/latest?cb=20190722123112",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21632,7 +21632,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yamagata.png/revision/latest?cb=20150326153729",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21644,7 +21644,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Sujihara.png/revision/latest?cb=20190729122731",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21656,7 +21656,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/63/Hokkai.png/revision/latest?cb=20190728120542",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21668,7 +21668,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Amehiko.png/revision/latest?cb=20161212125409",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21680,7 +21680,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Terano.png/revision/latest?cb=20190731114051",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21692,7 +21692,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/24/Don.png/revision/latest?cb=20170921092407",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21704,7 +21704,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Prince.png/revision/latest?cb=20190729121107",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21716,7 +21716,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Shake.png/revision/latest?cb=20190731124324",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21728,7 +21728,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Danda.png/revision/latest?cb=20170815181600",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21740,7 +21740,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Tsuge.png/revision/latest?cb=20180526083719",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21752,7 +21752,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Hatsushiba.png/revision/latest?cb=20170502154748",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21764,7 +21764,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Tokui.png/revision/latest?cb=20170909103128",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21776,7 +21776,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Shouji.png/revision/latest?cb=20160712100617",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21788,7 +21788,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/Subaru.png/revision/latest?cb=20190731124637",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21800,7 +21800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/UinGO.png/revision/latest?cb=20170121193011",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21812,7 +21812,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/Wataya.png/revision/latest?cb=20160712132954",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21824,7 +21824,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Rikimaru.png/revision/latest?cb=20180926083009",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21836,7 +21836,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cd/Kanjiya.png/revision/latest?cb=20160712134125",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21848,7 +21848,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Kawashima.png/revision/latest?cb=20190414063611",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21860,7 +21860,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Ookubo.png/revision/latest?cb=20170706102138",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21872,7 +21872,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Hiraga.png/revision/latest?cb=20151119095144",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21884,7 +21884,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bd/Ebi.png/revision/latest?cb=20150526100203",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21896,7 +21896,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Wakayama.png/revision/latest?cb=20190729124101",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21908,7 +21908,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Nemui.png/revision/latest?cb=20190731123247",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21920,7 +21920,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Akai.png/revision/latest?cb=20190724122004",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21932,7 +21932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Yamanashi.png/revision/latest?cb=20190729124119",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21944,7 +21944,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/33/Miyachi.png/revision/latest?cb=20160905032854",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21956,7 +21956,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/40/Yamamichi.png/revision/latest?cb=20170915111638",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21968,7 +21968,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0b/Iwasawa.png/revision/latest?cb=20190728121156",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21980,7 +21980,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4e/Katayama.png/revision/latest?cb=20150603153228",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -21992,7 +21992,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Katsuo.png/revision/latest?cb=20121122175522",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22004,7 +22004,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Yagata.png/revision/latest?cb=20160408151610",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22016,7 +22016,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Haitani.png/revision/latest?cb=20190731120956",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22028,7 +22028,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Gou.png/revision/latest?cb=20190413212331",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22040,7 +22040,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Shingo.png/revision/latest?cb=20190729121835",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22052,7 +22052,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Benten.png/revision/latest?cb=20180518133743",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22064,7 +22064,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Bousako.png/revision/latest?cb=20190731115834",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22076,7 +22076,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Saiun.png/revision/latest?cb=20150603150204",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22088,7 +22088,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/Kaitou.png/revision/latest?cb=20161217011511",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22100,7 +22100,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Nishijima.png/revision/latest?cb=20190721132439",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22112,7 +22112,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Nishi.png/revision/latest?cb=20190721132438",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22124,7 +22124,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Obata.png/revision/latest?cb=20190414064524",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22136,7 +22136,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Toshiaki.png/revision/latest?cb=20190729123643",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22148,7 +22148,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Hashi.png/revision/latest?cb=20190728115947",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22157,10 +22157,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9c/Berurin.png/revision/latest?cb=20180922164727",
+        "Sprite": "./images/players/scouts/ie1/Thatcher.png",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22172,7 +22172,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Katsumata.png/revision/latest?cb=20180526082243",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22184,7 +22184,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Daimonji.png/revision/latest?cb=20170802112137",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22196,7 +22196,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Koudou.png/revision/latest?cb=20181014084357",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22208,7 +22208,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Arumi.png/revision/latest?cb=20161207090650",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22220,7 +22220,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Sorahara.png/revision/latest?cb=20190729122339",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22232,7 +22232,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Neo.png/revision/latest?cb=20190729120342",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22244,7 +22244,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Hiroaki.png/revision/latest?cb=20161211195129",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22256,7 +22256,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Takahara.png/revision/latest?cb=20151119004032",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22268,7 +22268,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Sesshuu.png/revision/latest?cb=20190729121828",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22280,7 +22280,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Tokio.png/revision/latest?cb=20190729123207",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22292,7 +22292,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Saigou.png/revision/latest?cb=20180526083135",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22304,7 +22304,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Souzai.png/revision/latest?cb=20190729122359",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22316,7 +22316,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Ino.png/revision/latest?cb=20190728121120",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22328,7 +22328,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ed/Bishamon.png/revision/latest?cb=20190724123734",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22340,7 +22340,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Naruto.png/revision/latest?cb=20190729120324",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22352,7 +22352,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Tamatsuki.png/revision/latest?cb=20190729123102",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22364,7 +22364,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Yuuto.png/revision/latest?cb=20170128111847",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22376,7 +22376,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3a/Tooyama.png/revision/latest?cb=20190729123217",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22388,7 +22388,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Yoroi.png/revision/latest?cb=20190729124350",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22400,7 +22400,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Imamura.png/revision/latest?cb=20170706091620",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22412,7 +22412,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Akabane.png/revision/latest?cb=20180922163743",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22424,7 +22424,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Gum.png/revision/latest?cb=20190728115700",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22436,7 +22436,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Ari.png/revision/latest?cb=20190724122025",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22448,7 +22448,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Kyouichi.png/revision/latest?cb=20181014084414",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22460,7 +22460,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Hijikata.png/revision/latest?cb=20190728120228",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22472,7 +22472,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/Kubota.png/revision/latest?cb=20190728122402",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22484,7 +22484,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Shiga.png/revision/latest?cb=20190729121831",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22496,7 +22496,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Tama.png/revision/latest?cb=20180526155859",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22508,7 +22508,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Kusaka.png/revision/latest?cb=20190731122519",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22520,7 +22520,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Iriki.png/revision/latest?cb=20170602002946",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22532,7 +22532,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Orino.png/revision/latest?cb=20190729121047",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22544,7 +22544,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Enokido.png/revision/latest?cb=20170706091618",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22556,7 +22556,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ef/Puzzle.png/revision/latest?cb=20130417142513",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22568,7 +22568,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Ueki.png/revision/latest?cb=20190731125248",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22580,7 +22580,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7a/Tamagawa.png/revision/latest?cb=20160712110158",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22592,7 +22592,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Naminori.png/revision/latest?cb=20190729120111",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22604,7 +22604,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Chayama.png/revision/latest?cb=20190731120036",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22616,7 +22616,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6d/Tsukazaki.png/revision/latest?cb=20161207092434",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22628,7 +22628,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Fujisaki.png/revision/latest?cb=20190725205232",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22640,7 +22640,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Hiiro.png/revision/latest?cb=20170930195900",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22652,7 +22652,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Hanamura.png/revision/latest?cb=20130515212039",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22664,7 +22664,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Tenzan.png/revision/latest?cb=20190729123145",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22676,7 +22676,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Hidejima.png/revision/latest?cb=20190728120213",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22688,7 +22688,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4b/Neriyama.png/revision/latest?cb=20190729120346",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22700,7 +22700,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Nawate.png/revision/latest?cb=20190731123133",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22712,7 +22712,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Tajikara.png/revision/latest?cb=20190731114050",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22724,7 +22724,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Kouchi.png/revision/latest?cb=20190728122345",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22736,7 +22736,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Iga.png/revision/latest?cb=20180922094315",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22748,7 +22748,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4e/Reizen.png/revision/latest?cb=20190708121730",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22760,7 +22760,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Mamiya.png/revision/latest?cb=20160623183343",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22772,7 +22772,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Urabe.png/revision/latest?cb=20121121071455",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22784,7 +22784,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/Kiwamichi.png/revision/latest?cb=20190728121910",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22796,7 +22796,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Sadao.png/revision/latest?cb=20160623190214",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22808,7 +22808,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Narutaki.png/revision/latest?cb=20190729120321",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22820,7 +22820,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/Zenigata.png/revision/latest?cb=20190731114054",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22832,7 +22832,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Mangetsu.png/revision/latest?cb=20190728122842",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22844,7 +22844,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Kohira.png/revision/latest?cb=20171007101937",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22856,7 +22856,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/Cool.png/revision/latest?cb=20150526093649",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22868,7 +22868,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bf/Karasu.png/revision/latest?cb=20190728121602",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22880,7 +22880,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Mameha.png/revision/latest?cb=20160919150756",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22892,7 +22892,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/50/Kouko.png/revision/latest?cb=20190728122349",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22904,7 +22904,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Dan.png/revision/latest?cb=20170330084809",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22916,7 +22916,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Takasugi.png/revision/latest?cb=20161115091512",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22928,7 +22928,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/Ougiya.png/revision/latest?cb=20151117150253",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22940,7 +22940,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Konpeito.png/revision/latest?cb=20180922094900",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22952,7 +22952,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dc/Nihei.png/revision/latest?cb=20190731123251",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22964,7 +22964,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ad/Ienaga.png/revision/latest?cb=20190731121448",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22976,7 +22976,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Ukegawa.png/revision/latest?cb=20190729123756",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -22988,7 +22988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Usami.png/revision/latest?cb=20190729123819",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23000,7 +23000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Hajime.png/revision/latest?cb=20190728115923",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23012,7 +23012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Sakamoto.png/revision/latest?cb=20170223201637",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23024,7 +23024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Kamado.png/revision/latest?cb=20190731113820",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23036,7 +23036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Kamei.png/revision/latest?cb=20160712104857",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23048,7 +23048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Tezaki.png/revision/latest?cb=20190729123156",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23060,7 +23060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Suehisa.png/revision/latest?cb=20190729122403",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23072,7 +23072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/Ei.png/revision/latest?cb=20130515211854",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23084,7 +23084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Takagi.png/revision/latest?cb=20180526155821",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23096,7 +23096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Tate.png/revision/latest?cb=20190729123129",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23108,7 +23108,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/Iwate.png/revision/latest?cb=20130622204805",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23120,7 +23120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Noborikawa.png/revision/latest?cb=20160712132429",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23132,7 +23132,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/Sakakibara.png/revision/latest?cb=20190731124113",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23144,7 +23144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Sumi.png/revision/latest?cb=20170128120611",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23156,7 +23156,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dc/Kazakiri.png/revision/latest?cb=20121122180834",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23165,10 +23165,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Sanada_%28scout_character%29.png/revision/latest?cb=20190729121806",
+        "Sprite": "./images/players/scouts/ie1/Fortune.png",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23180,7 +23180,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b3/Shimotsuki.png/revision/latest?cb=20160607201151",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23192,7 +23192,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Tenshou.png/revision/latest?cb=20190722123432",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23204,7 +23204,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Suzuka.png/revision/latest?cb=20161217011000",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23216,7 +23216,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Kanezawa.png/revision/latest?cb=20190721130708",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23228,7 +23228,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Harasawa.png/revision/latest?cb=20190721125521",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23240,7 +23240,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Katahata.png/revision/latest?cb=20160622203442",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23252,7 +23252,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Hotoke.png/revision/latest?cb=20190728120557",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23264,7 +23264,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/66/Oizumi.png/revision/latest?cb=20170227090124",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23276,7 +23276,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Kakigawa.png/revision/latest?cb=20190728121550",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23288,7 +23288,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/be/Gurei.png/revision/latest?cb=20161217010908",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23300,7 +23300,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Kaikawa.png/revision/latest?cb=20160712132731",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23312,7 +23312,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/Meguro.png/revision/latest?cb=20190731122753",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23324,7 +23324,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Kudou.png/revision/latest?cb=20160404195348",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23336,7 +23336,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Takota.png/revision/latest?cb=20180525105750",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23348,7 +23348,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Namimura.png/revision/latest?cb=20190729120107",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23360,7 +23360,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Kogane.png/revision/latest?cb=20150903101901",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23372,7 +23372,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Gozu.png/revision/latest?cb=20180925140655",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23384,7 +23384,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4c/Chouno.png/revision/latest?cb=20160622132158",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23396,7 +23396,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Kiriaya.png/revision/latest?cb=20190728121900",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23408,7 +23408,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Machida.png/revision/latest?cb=20190731122745",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23420,7 +23420,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1b/Uga.png/revision/latest?cb=20190731125251",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23432,7 +23432,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Himemiya.png/revision/latest?cb=20190728120235",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23444,7 +23444,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Shibafu.png/revision/latest?cb=20190722123111",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23456,7 +23456,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Kasahara.png/revision/latest?cb=20190728121606",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23468,7 +23468,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Nano.png/revision/latest?cb=20180922093206",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23480,7 +23480,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/Sanshou.png/revision/latest?cb=20170909101920",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23492,7 +23492,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Takuma_Raita.png/revision/latest?cb=20161227182400",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23504,7 +23504,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ed/Nakayama.png/revision/latest?cb=20161224181625",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23516,7 +23516,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Sakata.png/revision/latest?cb=20190729121803",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23528,7 +23528,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Maezono.png/revision/latest?cb=20190728122815",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23540,7 +23540,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/88/Enomoto.png/revision/latest?cb=20180525104715",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23552,7 +23552,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Niimi.png/revision/latest?cb=20151017164538",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23564,7 +23564,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Nara.png/revision/latest?cb=20201002192429",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23576,7 +23576,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/da/Iwanaga.png/revision/latest?cb=20190728121152",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23588,7 +23588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Luke_Triton.png/revision/latest?cb=20190712114804",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23600,7 +23600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Kyuuji.png/revision/latest?cb=20160622130531",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23612,7 +23612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3f/Kururun.png/revision/latest?cb=20180526082603",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23624,7 +23624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/Hatoyama.png/revision/latest?cb=20190728120000",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23636,7 +23636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Kuwahara.png/revision/latest?cb=20130622224641",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23648,7 +23648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Ooba.png/revision/latest?cb=20180526153623",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23660,7 +23660,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Kizamu.png/revision/latest?cb=20190721130710",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23672,7 +23672,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Tentou.png/revision/latest?cb=20170614202808",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23684,7 +23684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dc/Purin.png/revision/latest?cb=20190729121115",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23696,7 +23696,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9b/Aga.png/revision/latest?cb=20170830091334",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23708,7 +23708,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Shiwasu.png/revision/latest?cb=20190731124353",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23720,7 +23720,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Fushiki.png/revision/latest?cb=20170822104340",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23732,7 +23732,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Sadaoka.png/revision/latest?cb=20130418081350",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23744,7 +23744,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Miyasaki_JPN_version_sprite.png/",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23756,7 +23756,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Narumi.png/revision/latest?cb=20190731113933",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23768,7 +23768,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/Yamahiko.png/revision/latest?cb=20190731125524",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23780,7 +23780,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/57/Yaji.png/revision/latest?cb=20160623114120",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23792,7 +23792,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/13/Kanda.png/revision/latest?cb=20170104125737",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23804,7 +23804,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ab/Hayatsu.png/revision/latest?cb=20170831112559",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23816,7 +23816,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Oone.png/revision/latest?cb=20170220215128",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23828,7 +23828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Ichimatsu.png/revision/latest?cb=20160604183550",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23840,7 +23840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Yuugiri.png/revision/latest?cb=20190729124431",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23852,7 +23852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Ogi.png/revision/latest?cb=20190729120752",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23864,7 +23864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Hanamoto.png/revision/latest?cb=20190728115939",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23876,7 +23876,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Onda.png/revision/latest?cb=20190729120813",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23888,7 +23888,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Mukaino.png/revision/latest?cb=20170831111630",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23900,7 +23900,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Mimura.png/revision/latest?cb=20180523075911",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23912,7 +23912,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/be/Nagare.png/revision/latest?cb=20190731123109",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23924,7 +23924,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Hada.png/revision/latest?cb=20190728115919",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23936,7 +23936,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Hosomichi.png/revision/latest?cb=20190721125523",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23948,7 +23948,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Inui.png/revision/latest?cb=20190728121131",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23960,7 +23960,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Yawara.png/revision/latest?cb=20190731125537",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23972,7 +23972,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Kaga.png/revision/latest?cb=20170404125933",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23981,10 +23981,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Sousou.png/revision/latest?cb=20190731124633",
+        "Sprite": "./images/players/scouts/ie1/Pathy.png",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -23996,7 +23996,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Inno.png/revision/latest?cb=20190728121116",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24008,7 +24008,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Soumei.png/revision/latest?cb=20170617111051",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24020,7 +24020,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Tamanoplayer.png/revision/latest?cb=20120404071610",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24032,7 +24032,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Hibihara.png/revision/latest?cb=20190721125522",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24044,7 +24044,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/41/Juuji.png/revision/latest?cb=20190731121535",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24053,10 +24053,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/24/Tento.png/revision/latest?cb=20180922095509",
+        "Sprite": "./images/players/scouts/ie1/Pitcher.png",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24068,7 +24068,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b5/Hakkin.png/revision/latest?cb=20170227090212",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24080,7 +24080,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0b/Flamingo.png/revision/latest?cb=20190710203739",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24092,7 +24092,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Ideta.png/revision/latest?cb=20190728121023",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24104,7 +24104,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Nijino.png/revision/latest?cb=20190731123303",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24116,7 +24116,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Sueno.png/revision/latest?cb=20190729122720",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24128,7 +24128,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6d/Kitou.png/revision/latest?cb=20190728121907",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24140,7 +24140,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Yamaoka.png/revision/latest?cb=20190729124126",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24152,7 +24152,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Ankou.png/revision/latest?cb=20130623000851",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24164,7 +24164,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1b/Jurou.png/revision/latest?cb=20121120172935",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24176,7 +24176,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Baba.png/revision/latest?cb=20190724123724",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24188,7 +24188,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Matsuda.png/revision/latest?cb=20190728122858",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24200,7 +24200,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Miyagi.png/revision/latest?cb=20201002140429",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24212,7 +24212,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Kamai.png/revision/latest?cb=20190731113821",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24224,7 +24224,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Batou.png/revision/latest?cb=20190731113802",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24236,7 +24236,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Banya.png/revision/latest?cb=20190724123729",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24248,7 +24248,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Akae.png/revision/latest?cb=20190724121954",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24260,7 +24260,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d4/Hamasaki.png/revision/latest?cb=20170502154247",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24272,7 +24272,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fb/Yumi.png/revision/latest?cb=20190731125608",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24284,7 +24284,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Mitsuba.png/revision/latest?cb=20151029113621",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24296,7 +24296,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bf/Katsura.png/revision/latest?cb=20190728121613",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24308,7 +24308,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Mitama.png/revision/latest?cb=20190731122805",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24320,7 +24320,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/Haijima.png/revision/latest?cb=20150604110242",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24332,7 +24332,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Ishihara.png/revision/latest?cb=20190728121144",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24344,7 +24344,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/97/Sakai.png/revision/latest?cb=20190729121435",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24356,7 +24356,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Osoreyama.png/revision/latest?cb=20180526153720",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24368,7 +24368,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Nagai.png/revision/latest?cb=20190729120042",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24380,7 +24380,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/13/Kuwagata.png/revision/latest?cb=20170909112056",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24392,7 +24392,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Haruno.png/revision/latest?cb=20170815182735",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24404,7 +24404,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Oowada.png/revision/latest?cb=20170902085941",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24416,7 +24416,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Kumamoto.png/revision/latest?cb=20150908115903",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24428,7 +24428,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ab/Asatsuyu.png/revision/latest?cb=20170617112310",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24440,7 +24440,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Shou.png/revision/latest?cb=20160403181536",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24452,7 +24452,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Meikyou.png/revision/latest?cb=20160608140000",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24464,7 +24464,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Yoichi.png/revision/latest?cb=20180922100256",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24476,7 +24476,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Teppei.png/revision/latest?cb=20150604081605",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24488,7 +24488,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Houba.png/revision/latest?cb=20190731121133",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24500,7 +24500,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Miyazaki.png/revision/latest?cb=20190729115632",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24512,7 +24512,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Yatsuda.png/revision/latest?cb=20160619205644",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24524,7 +24524,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Hashiratani.png/revision/latest?cb=20190728115952",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24536,7 +24536,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/Abe.png/revision/latest?cb=20170619235917",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24548,7 +24548,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Hashiguchi.png/revision/latest?cb=20190731121106",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24560,7 +24560,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Shun.png/revision/latest?cb=20190729122322",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24572,7 +24572,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Okayama.png/revision/latest?cb=20150604091350",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24584,7 +24584,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fe/Akahiko.png/revision/latest?cb=20190724121959",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24596,7 +24596,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4e/Mutsuyama.png/revision/latest?cb=20190729115728",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24608,7 +24608,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Asuka.png/revision/latest?cb=20160620120140",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24620,7 +24620,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Sugawara.png/revision/latest?cb=20190722123113",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24632,7 +24632,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Unno.png/revision/latest?cb=20190729123811",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24644,7 +24644,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Mizuwatari.png/revision/latest?cb=20170128112843",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24656,7 +24656,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Teruyoshi.png/revision/latest?cb=20190731125054",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24668,7 +24668,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shimane.png/revision/latest?cb=20180523080149",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24680,7 +24680,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Morihisa.png/revision/latest?cb=20190729115701",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24692,7 +24692,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Fukikoshi.png/revision/latest?cb=20130121182753",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24704,7 +24704,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Kuribayashi.png/revision/latest?cb=20190731113928",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24716,7 +24716,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Seibu.png/revision/latest?cb=20180922095325",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24728,7 +24728,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Okinawa.png/revision/latest?cb=20190729120801",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24740,7 +24740,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Takayanagi.png/revision/latest?cb=20201002203611",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24752,7 +24752,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Naka.png/revision/latest?cb=20190731113932",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24764,7 +24764,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/Tetsuyama.png/revision/latest?cb=20130201183813",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24776,7 +24776,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Ayumu.png/revision/latest?cb=20170902085233",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24788,7 +24788,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ad/Kazumichi.png/revision/latest?cb=20150908123411",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24800,7 +24800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8c/Mikita.png/revision/latest?cb=20190729115620",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24812,7 +24812,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Tsuizaki.png/revision/latest?cb=20190729123655",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24824,7 +24824,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Nanba.png/revision/latest?cb=20151017163117",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24836,7 +24836,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Anthony_Feruzen.png/revision/latest?cb=20200529164512",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24848,7 +24848,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/da/Ooishi.png/revision/latest?cb=20190729120826",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24860,7 +24860,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Tanaka.png/revision/latest?cb=20190731124853",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24872,7 +24872,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Hideuchi.png/revision/latest?cb=20190728120216",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24884,7 +24884,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/32/Maica.png/revision/latest?cb=20161227182400",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24896,7 +24896,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Gouyuu.png/revision/latest?cb=20190728115656",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24908,7 +24908,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Kitsutsuki.png/revision/latest?cb=20170225015507",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24920,7 +24920,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Tamada.png/revision/latest?cb=20170104125609",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24932,7 +24932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Shinagawa.png/revision/latest?cb=20160604130406",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24944,7 +24944,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Mukuto.png/revision/latest?cb=20190731122820",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24956,7 +24956,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Raimei.png/revision/latest?cb=20180926075115",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24968,7 +24968,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Kijima.png/revision/latest?cb=20160309161946",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24980,7 +24980,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2e/Star.png/revision/latest?cb=20190731114049",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -24992,7 +24992,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8c/Mukuo.png/revision/latest?cb=20130622235955",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25004,7 +25004,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Eiyuu.png/revision/latest?cb=20170706091616",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25016,7 +25016,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Hotohara.png/revision/latest?cb=20190728120553",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25028,7 +25028,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Yokota.png/revision/latest?cb=20190731125545",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25040,7 +25040,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Fukutsu.png/revision/latest?cb=20130622223043",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25052,7 +25052,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Mie.png/revision/latest?cb=20180518125737",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25064,7 +25064,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Udagawa.png/revision/latest?cb=20190729123748",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25076,7 +25076,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Fugaku.png/revision/latest?cb=20190725205219",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25085,10 +25085,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/CHEL.png/revision/latest?cb=20200529164502",
+        "Sprite": "./images/players/scouts/ie1/Chelmey.png",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25100,7 +25100,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/78/Imoko.png/revision/latest?cb=20190728121109",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25112,7 +25112,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a5/Funada.png/revision/latest?cb=20160309182233",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25124,7 +25124,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Kuren.png/revision/latest?cb=20190731122459",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25136,7 +25136,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Koumoto.png/revision/latest?cb=20190728122353",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25148,7 +25148,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Osakabe.png/revision/latest?cb=20190729121051",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25160,7 +25160,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Suetake.png/revision/latest?cb=20160712134945",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25172,7 +25172,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Rui.png/revision/latest?cb=20160512185739",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25184,7 +25184,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/Suzumushi.png/revision/latest?cb=20161212125046",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25196,7 +25196,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Yamagami.png/revision/latest?cb=20170517170208",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25208,7 +25208,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bb/Yuguchi.png/revision/latest?cb=20190729124415",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25220,7 +25220,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Soudan.png/revision/latest?cb=20190729122350",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25232,7 +25232,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Agon.png/revision/latest?cb=20180526153109",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25244,7 +25244,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/52/Igata.png/revision/latest?cb=20190728121037",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25256,7 +25256,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Hiroshi.png/revision/latest?cb=20121018154713",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25268,7 +25268,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7c/Fukawa.png/revision/latest?cb=20160705180330",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25280,7 +25280,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Amamiya.png/revision/latest?cb=20190724122009",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25292,7 +25292,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c0/Nagata.png/revision/latest?cb=20160623194009",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25304,7 +25304,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Inou.png/revision/latest?cb=20190728121127",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25316,7 +25316,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Shinra.png/revision/latest?cb=20150526085603",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25328,7 +25328,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Temizu.png/revision/latest?cb=20190731125046",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25340,7 +25340,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Nekono.png/revision/latest?cb=20190729120338",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25352,7 +25352,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Momotarou.png/revision/latest?cb=20180526153522",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25364,7 +25364,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Tomoya.png/revision/latest?cb=20190729123210",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25376,7 +25376,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/78/Tokugawa.png/revision/latest?cb=20190731125111",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25388,7 +25388,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Matsushita.png/revision/latest?cb=20170324201412",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25400,7 +25400,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Sakashita.png/revision/latest?cb=20160623202121",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25412,7 +25412,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Ide.png/revision/latest?cb=20170706091619",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25424,7 +25424,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Hosoe.png/revision/latest?cb=20171021094041",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25436,7 +25436,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Nagaru.png/revision/latest?cb=20161213125329",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25448,7 +25448,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e4/Aoi.png/revision/latest?cb=20170124132302",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25460,7 +25460,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Hiryuu.png/revision/latest?cb=20190731121115",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25472,7 +25472,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Kotegawa.png/revision/latest?cb=20161218194559",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25484,7 +25484,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Repo.png/revision/latest?cb=20190731113935",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25496,7 +25496,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Okada.png/revision/latest?cb=20160711125809",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25508,7 +25508,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Aono.png/revision/latest?cb=20161003111920",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25520,7 +25520,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Ouda.png/revision/latest?cb=20190729121059",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25532,7 +25532,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b3/Suisei.png/revision/latest?cb=20190729122724",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25544,7 +25544,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Minamishima.png/revision/latest?cb=20130503213123",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25556,7 +25556,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/Ouen.png/revision/latest?cb=20180526155523",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25568,7 +25568,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Akane_scout.png/revision/latest?cb=20170517170452",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25580,7 +25580,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/NeoKakuma.png/revision/latest?cb=20120422162650",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25592,7 +25592,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Fujiwara.png/revision/latest?cb=20170818190117",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25604,7 +25604,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Chiba.png/revision/latest?cb=20190725115530",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25616,7 +25616,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/77/Shinma.png/revision/latest?cb=20190722123112",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25628,7 +25628,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Tottori.png/revision/latest?cb=20190731125119",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25640,7 +25640,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e0/Date.png/revision/latest?cb=20181014084207",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25652,7 +25652,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Yoshino.png/revision/latest?cb=20180519102843",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25664,7 +25664,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Oda.png/revision/latest?cb=20160623001513",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25676,7 +25676,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0d/Hanada.png/revision/latest?cb=20190414064150",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25688,7 +25688,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Oooka.png/revision/latest?cb=20190729121036",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25700,7 +25700,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Suzume.png/revision/latest?cb=20160319201002",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25712,7 +25712,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Aku.png/revision/latest?cb=20160712133622",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25724,7 +25724,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/Fukamichi.png/revision/latest?cb=20190731120758",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25736,7 +25736,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Kintarou.png/revision/latest?cb=20190728121856",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25748,7 +25748,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Makiba.png/revision/latest?cb=20190728122834",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25760,7 +25760,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Akutagawa.png/revision/latest?cb=20170202141532",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25772,7 +25772,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Kunitachi.png/revision/latest?cb=20190728122412",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25784,7 +25784,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Hershel_Layton.png/revision/latest?cb=20190712114809",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25796,7 +25796,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Yumechiyo.png/revision/latest?cb=20190729124427",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25808,7 +25808,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bd/Shiota.png/revision/latest?cb=20190729121749",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25820,7 +25820,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Hikage.png/revision/latest?cb=20190731121111",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25832,7 +25832,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Karuizawa.png/revision/latest?cb=20161224183155",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25844,7 +25844,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Koutetsu.png/revision/latest?cb=20161115091340",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25856,7 +25856,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Nurikabe.png/revision/latest?cb=20121119202626",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25868,7 +25868,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Sharaku.png/revision/latest?cb=20161207205220",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25880,7 +25880,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Usuda.png/revision/latest?cb=20190729123822",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25892,7 +25892,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Nishihara.png/revision/latest?cb=20190729120404",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25904,7 +25904,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Inago.png/revision/latest?cb=20180526153248",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25916,7 +25916,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/10/Ehime.png/revision/latest?cb=20170706091616",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25928,7 +25928,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Kamikiri.png/revision/latest?cb=20190731122242",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25940,7 +25940,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Bart_Neptune.png/revision/latest?cb=20171116012950",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25952,7 +25952,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Ton_Nino.png/revision/latest?cb=20190715123811",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25964,7 +25964,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Furuya.png/revision/latest?cb=20190731120806",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25976,7 +25976,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Bonten.png/revision/latest?cb=20190710205119",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -25988,7 +25988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Akechi.png/revision/latest?cb=20180526153142",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26000,7 +26000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c0/Utada.png/revision/latest?cb=20190729123830",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26012,7 +26012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Tochigi.png/revision/latest?cb=20170223133737",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26024,7 +26024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Fukuoka.png/revision/latest?cb=20150904151253",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26036,7 +26036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Unaki_You.png/revision/latest?cb=20170620000034",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26048,7 +26048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ad/Denkou.png/revision/latest?cb=20161207194151",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26060,7 +26060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Nakazono.png/revision/latest?cb=20161207204135",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26072,7 +26072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Yokohama.png/revision/latest?cb=20130515212327",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26084,7 +26084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ab/Mazume.png/revision/latest?cb=20170830093819",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26096,7 +26096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/Kaiyou.png/revision/latest?cb=20160624202211",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26108,7 +26108,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Chibe.png/revision/latest?cb=20190725115533",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26120,7 +26120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/11/Bobby_Peel.png/revision/latest?cb=20151004212643",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26132,7 +26132,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Takasawa.png/revision/latest?cb=20130622231827",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26144,7 +26144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Sorai.png/revision/latest?cb=20190729122343",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26156,7 +26156,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Midorikawa.png/revision/latest?cb=20190731113930",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26168,7 +26168,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/Koga.png/revision/latest?cb=20190728121918",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26180,7 +26180,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7c/Ueda.png/revision/latest?cb=20170215224751",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26192,7 +26192,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Nanase_%28scout_character%29.png/revision/latest?cb=20190729120312",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26204,7 +26204,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Kaneko.png/revision/latest?cb=20190728121555",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26216,7 +26216,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Miroku.png/revision/latest?cb=20190721131300",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26228,7 +26228,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Ataru.png/revision/latest?cb=20170206174457",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26240,7 +26240,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Yusa.png/revision/latest?cb=20130622234412",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26252,7 +26252,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/32/Kashin.png/revision/latest?cb=20190728121610",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26264,7 +26264,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Akagi.png/revision/latest?cb=20180922094354",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26276,7 +26276,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Kujira.png/revision/latest?cb=20190721130711",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26288,7 +26288,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Karamatsu.png/revision/latest?cb=20170517172242",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26300,7 +26300,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/Kabuto.png/revision/latest?cb=20170815214959",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26312,7 +26312,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4b/Chiuchi.png/revision/latest?cb=20180525104527",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26324,7 +26324,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Imagawa.png/revision/latest?cb=20190731121501",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26336,7 +26336,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Semimoto.png/revision/latest?cb=20150601125257",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26348,7 +26348,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a4/Yamanishi.png/revision/latest?cb=20190729124122",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26360,7 +26360,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Kurahashi.png/revision/latest?cb=20190728122416",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26372,7 +26372,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/Narita.png/revision/latest?cb=20190729120316",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26384,7 +26384,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Kaito.png/revision/latest?cb=20121122173915",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26396,7 +26396,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5d/Konagawa.png/revision/latest?cb=20190731113928",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26408,7 +26408,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Sapporo.png/revision/latest?cb=20190729121810",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26420,7 +26420,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Oobayashi.png/revision/latest?cb=20150604093801",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26432,7 +26432,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/13/Tokushima.png/revision/latest?cb=20190731125114",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26444,7 +26444,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Kaidou.png/revision/latest?cb=20160608170203",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26456,7 +26456,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7a/Ujima.png/revision/latest?cb=20151116201039",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26468,7 +26468,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Jimichi.png/revision/latest?cb=20160712133803",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26480,7 +26480,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Aoba.png/revision/latest?cb=20190724122016",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26492,7 +26492,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Satsuki.png/revision/latest?cb=20190729121817",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26504,7 +26504,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/84/Yousuke.png/revision/latest?cb=20190731125553",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26516,7 +26516,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Yarino.png/revision/latest?cb=20121121072323",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26528,7 +26528,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Hatano.png/revision/latest?cb=20170208104151",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26540,7 +26540,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Hyuuga.png/revision/latest?cb=20190731121145",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26552,7 +26552,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/76/Daitetsu.png/revision/latest?cb=20180926075412",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26564,7 +26564,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3a/Hosoda.png/revision/latest?cb=20180922095936",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26576,7 +26576,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/84/Sakurai.png/revision/latest?cb=20130623000448",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26588,7 +26588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Himawari.png/revision/latest?cb=20170407112728",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26600,7 +26600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Watanabe.png/revision/latest?cb=20190729124108",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26612,7 +26612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Shiraishi.png/revision/latest?cb=20180526083616",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26624,7 +26624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6d/Maitani.png/revision/latest?cb=20190728122826",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26636,7 +26636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Yoshioka.png/revision/latest?cb=20161226213210",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26648,7 +26648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Ise.png/revision/latest?cb=20190728121140",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26660,7 +26660,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Nuritani.png/revision/latest?cb=20181014084517",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26672,7 +26672,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Ejima.png/revision/latest?cb=20170706091617",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26684,7 +26684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Furuhata.png/revision/latest?cb=20190725205246",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26696,7 +26696,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Ponta.png/revision/latest?cb=20190722122634",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26708,7 +26708,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Isuna.png/revision/latest?cb=20170706091801",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26720,7 +26720,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Umiwatari.png/revision/latest?cb=20170306151900",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26732,7 +26732,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5d/Ginwa.png/revision/latest?cb=20170128133601",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26744,7 +26744,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Mizumaki.png/revision/latest?cb=20190729115636",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26756,7 +26756,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Aen.png/revision/latest?cb=20160712105248",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26768,7 +26768,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Mamada.png/revision/latest?cb=20161218200256",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26780,7 +26780,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Noie.png/revision/latest?cb=20190729120419",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26792,7 +26792,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Yaegashi.png/revision/latest?cb=20190722123903",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26804,7 +26804,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Yamamura.png/revision/latest?cb=20190729124116",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26816,7 +26816,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c7/Kujita.png/revision/latest?cb=20180525105303",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26828,7 +26828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Sotoyama.png/revision/latest?cb=20190729122346",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26840,7 +26840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0a/Urashima.png/revision/latest?cb=20190731125303",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26852,7 +26852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/Kitahara.png/revision/latest?cb=20190728121904",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26864,7 +26864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/56/Takizawa.png/revision/latest?cb=20190731124846",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26876,7 +26876,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Shizuya.png/revision/latest?cb=20180922095115",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26888,7 +26888,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/Saitama.png/revision/latest?cb=20160711130717",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26900,7 +26900,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Fudeta.png/revision/latest?cb=20190413212302",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26912,7 +26912,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Douriki.png/revision/latest?cb=20190731120213",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26924,7 +26924,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b3/Hirose.png/revision/latest?cb=20190728120530",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26936,7 +26936,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Kotobuki.png/revision/latest?cb=20190728122341",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26948,7 +26948,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Sawamura.png/revision/latest?cb=20190729121820",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26960,7 +26960,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Mizukami.png/revision/latest?cb=20160622205354",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26972,7 +26972,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0b/Sugi.png/revision/latest?cb=20170123233740",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26984,7 +26984,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Kabe.png/revision/latest?cb=20190728121535",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -26996,7 +26996,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Kawasemi.png/revision/latest?cb=20130516210527",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27008,7 +27008,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/63/Hiko.png/revision/latest?cb=20190728120231",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27020,7 +27020,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Shirana.png/revision/latest?cb=20121119201734",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27032,7 +27032,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Jizou.png/revision/latest?cb=20180922163936",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27044,7 +27044,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d8/Ooya.png/revision/latest?cb=20190729121043",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27056,7 +27056,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Inuhara.png/revision/latest?cb=20160603191508",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27068,7 +27068,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Mani.png/revision/latest?cb=20170617105420",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27080,7 +27080,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bb/Nishio.png/revision/latest?cb=20180112105523",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27092,7 +27092,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d8/Igarashi.png/revision/latest?cb=20190728121028",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27104,7 +27104,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Hakata.png/revision/latest?cb=20180922164336",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27116,7 +27116,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Oogaki.png/revision/latest?cb=20190729120817",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27128,7 +27128,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/Toukyou.png/revision/latest?cb=20190729123651",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27140,7 +27140,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Umisaki.png/revision/latest?cb=20190729123807",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27152,7 +27152,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Shoumei.png/revision/latest?cb=20190729122318",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27164,7 +27164,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Shigeta.png/revision/latest?cb=20180113204527",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27176,7 +27176,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Kondou.png/revision/latest?cb=20180526153317",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27188,7 +27188,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Shiroma.png/revision/latest?cb=20190729121754",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27200,7 +27200,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Numaguchi.png/revision/latest?cb=20160617100254",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27212,7 +27212,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/76/Daikichi.png/revision/latest?cb=20170519173737",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27224,7 +27224,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Maitan.png/revision/latest?cb=20190728122823",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27236,7 +27236,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Inpou.png/revision/latest?cb=20170130180332",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27248,7 +27248,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Mutsu.png/revision/latest?cb=20190729115722",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27260,7 +27260,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Koguruma.png/revision/latest?cb=20170411112740",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27272,7 +27272,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Uesaka.png/revision/latest?cb=20170325073934",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27284,7 +27284,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Yogi.png/revision/latest?cb=20190731125541",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27296,7 +27296,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Shizuoka.png/revision/latest?cb=20161214092205",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27308,7 +27308,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Ittoku.png/revision/latest?cb=20170902091247",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27320,7 +27320,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b0/Hiyama.png/revision/latest?cb=20161214094122",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27332,7 +27332,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Imai.png/revision/latest?cb=20180518125815",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27344,7 +27344,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/Yukiyama.png/revision/latest?cb=20190729124424",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27356,7 +27356,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Jimu.png/revision/latest?cb=20150904152342",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27368,7 +27368,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Kinko.png/revision/latest?cb=20190728121853",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27380,7 +27380,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d3/Takano.png/revision/latest?cb=20190729122757",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27392,7 +27392,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/Aomori.png/revision/latest?cb=20190731115821",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27404,7 +27404,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4e/Kaji.png/revision/latest?cb=20190728121545",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27416,7 +27416,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Horiki.png/revision/latest?cb=20190731121129",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27428,7 +27428,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Sol_Crater_SC.png/revision/latest?cb=20180526081525",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27440,7 +27440,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Kashima.png/revision/latest?cb=20161214091743",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27452,7 +27452,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5d/Sarayama.png/revision/latest?cb=20170306215942",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27464,7 +27464,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Okumura.png/revision/latest?cb=20190729120809",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27476,7 +27476,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/41/Sunakawa.png/revision/latest?cb=20190731124644",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27488,7 +27488,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Toikawa.png/revision/latest?cb=20161214090627",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27500,7 +27500,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Yayoi.png/revision/latest?cb=20150604090154",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27512,7 +27512,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Kagawa.png/revision/latest?cb=20190728121538",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27524,7 +27524,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Kozeki.png/revision/latest?cb=20190731122451",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27536,7 +27536,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Nishiya.png/revision/latest?cb=20190731123311",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27548,7 +27548,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Don_Paul.png/revision/latest?cb=20200529164436",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27560,7 +27560,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Uesugi.png/revision/latest?cb=20190729123752",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27572,7 +27572,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Yakushima.png/revision/latest?cb=20190731125521",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27584,7 +27584,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Fukiishi.png/revision/latest?cb=20160617095127",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27596,7 +27596,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Kanyou.png/revision/latest?cb=20170802145335",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27608,7 +27608,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7a/Daifuku.png/revision/latest?cb=20190725115855",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27620,7 +27620,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/Saitou.png/revision/latest?cb=20190731114045",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27632,7 +27632,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/Wakasugi.png/revision/latest?cb=20190729124056",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27644,7 +27644,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e8/Rokkou.png/revision/latest?cb=20180723110551",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27656,7 +27656,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Nakaizumi.png/revision/latest?cb=20190731123117",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27668,7 +27668,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Tsubasa.png/revision/latest?cb=20180523081601",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27680,7 +27680,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Koeno.png/revision/latest?cb=20190728121914",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27692,7 +27692,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Tachibana.png/revision/latest?cb=20190729122739",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27704,7 +27704,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4d/Shiragiku.png/revision/latest?cb=20161216131401",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27716,7 +27716,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Kanagawa.png/revision/latest?cb=20180525104951",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27728,7 +27728,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Sanpo.png/revision/latest?cb=20190722122634",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27740,7 +27740,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Shirabe.png/revision/latest?cb=20160413200604",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27752,7 +27752,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Aiki.png/revision/latest?cb=20190731115812",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27764,7 +27764,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Aroma_Reinford.png/revision/latest?cb=20200529164414",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27776,7 +27776,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Hananiwa.png/revision/latest?cb=20190721125521",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27788,7 +27788,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Nagano.png/revision/latest?cb=20190729120046",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27800,7 +27800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Negoro.png/revision/latest?cb=20190729120334",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27812,7 +27812,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Carey_Ginu.png/revision/latest?cb=20151004212625",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27824,7 +27824,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/Kanu_%28scout_character%29.png/revision/latest?cb=20190731122246",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27836,7 +27836,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Juubee.png/revision/latest?cb=20161218114950",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27848,7 +27848,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Akita.png/revision/latest?cb=20170616220909",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27860,7 +27860,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d3/Furufumi.png/revision/latest?cb=20190725205240",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27872,7 +27872,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/33/Sekiguchi.png/revision/latest?cb=20160910122215",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27884,7 +27884,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/af/Takaoka.png/revision/latest?cb=20190731124829",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27896,7 +27896,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Fudana.png/revision/latest?cb=20190731120753",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27908,7 +27908,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Shuusui.png/revision/latest?cb=20190729122332",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27920,7 +27920,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3d/Trick.png/revision/latest?cb=20181014084549",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27932,7 +27932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Araya.png/revision/latest?cb=20170215230045",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27944,7 +27944,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/80/Daimaru.png/revision/latest?cb=20190725115900",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27956,7 +27956,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Nagato.png/revision/latest?cb=20190729120058",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27968,7 +27968,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Tasuke_%28scout_character%29.png/revision/latest?cb=20161218111842",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27980,7 +27980,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bb/Medaka.png/revision/latest?cb=20181014084432",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -27992,7 +27992,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Takao.png/revision/latest?cb=20161218104934",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28004,7 +28004,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Kanai.png/revision/latest?cb=20161226213208",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28016,7 +28016,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bf/Itabashi.png/revision/latest?cb=20190731121520",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28028,7 +28028,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0a/Kooriyama.png/revision/latest?cb=20170920085651",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28040,7 +28040,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Eko.png/revision/latest?cb=20161111115502",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28052,7 +28052,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/Oomasa.png/revision/latest?cb=20190731123452",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28064,7 +28064,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Daikoku.png/revision/latest?cb=20190731120200",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28076,7 +28076,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Umihara.png/revision/latest?cb=20190729123803",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28088,7 +28088,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Gokuu.png/revision/latest?cb=20190731120821",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28100,7 +28100,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/07/Jougi.png/revision/latest?cb=20161212111209",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28112,7 +28112,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Kuriyama.png/revision/latest?cb=20190728122419",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28124,7 +28124,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Oodaka.png/revision/latest?cb=20160711125319",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28136,7 +28136,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Hanazono.png/revision/latest?cb=20180529135956",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28148,7 +28148,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/da/Kego.png/revision/latest?cb=20160407124514",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28160,7 +28160,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0a/Furano.png/revision/latest?cb=20121120164033",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28172,7 +28172,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Toyotomi.png/revision/latest?cb=20150326230422",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28184,7 +28184,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Sumimichi.png/revision/latest?cb=20190731124641",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28196,7 +28196,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Kaihou.png/revision/latest?cb=20170809082500",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28208,7 +28208,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Kusunoki.png/revision/latest?cb=20161115091431",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28220,7 +28220,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Tarami.png/revision/latest?cb=20170911192831",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28232,7 +28232,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Sekidou.png/revision/latest?cb=20180922092530",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28244,7 +28244,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Odeishi.png/revision/latest?cb=20190729120749",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28256,7 +28256,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Mach.png/revision/latest?cb=20180518114903",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28268,7 +28268,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Souji.png/revision/latest?cb=20170411194418",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28280,7 +28280,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Konishi.png/revision/latest?cb=20130622231319",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28292,7 +28292,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Seiryou.png/revision/latest?cb=20190722122635",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28304,7 +28304,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/Yuasa.png/revision/latest?cb=20190731125559",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28316,7 +28316,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Yutaka.png/revision/latest?cb=20190731114053",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28328,7 +28328,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9b/Moderaa.png/revision/latest?cb=20190729115657",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28340,7 +28340,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Kata.png/revision/latest?cb=20170614192003",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28352,7 +28352,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/13/Kamo.png/revision/latest?cb=20190721130708",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28364,7 +28364,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Negino.png/revision/latest?cb=20190406141235",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28376,7 +28376,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Monju.png/revision/latest?cb=20170227090430",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28388,7 +28388,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cc/Youhei.png/revision/latest?cb=20190729124410",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28400,7 +28400,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Amakawa.png/revision/latest?cb=20190731115816",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28412,7 +28412,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Ninjin.png/revision/latest?cb=20190729120400",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28424,7 +28424,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Ebata.png/revision/latest?cb=20150903194328",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28436,7 +28436,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Houjou.png/revision/latest?cb=20190728120605",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28448,7 +28448,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/Matsuoka.png/revision/latest?cb=20160618101727",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28460,7 +28460,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d9/Kousei.png/revision/latest?cb=20190728122358",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28472,7 +28472,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Yamori.png/revision/latest?cb=20160712140036",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28484,7 +28484,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Itoo.png/revision/latest?cb=20160319164828",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28496,7 +28496,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Kyouto.png/revision/latest?cb=20130201184630",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28508,7 +28508,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Oosaka.png/revision/latest?cb=20180518125656",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28520,7 +28520,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/56/Adashino.png/revision/latest?cb=20130418100140",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28532,7 +28532,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/80/Horiguchi.png/revision/latest?cb=20190728120546",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28544,7 +28544,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Tezukuri.png/revision/latest?cb=20190729123200",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28556,7 +28556,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Arai.png/revision/latest?cb=20161207212132",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28568,7 +28568,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/Tokitou.png/revision/latest?cb=20190731114051",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28580,7 +28580,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a5/Najima.png/revision/latest?cb=20190731123113",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28592,7 +28592,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Otoshita.png/revision/latest?cb=20160624061008",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28604,7 +28604,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/Ekimichi.png/revision/latest?cb=20170706091617",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28616,7 +28616,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1f/Kusanagi.png/revision/latest?cb=20130617094906",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28628,7 +28628,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/11/Denpou.png/revision/latest?cb=20180529135730",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28640,7 +28640,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7a/Oshii.png/revision/latest?cb=20190729121055",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28652,7 +28652,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Uchizaki.png/revision/latest?cb=20170619235921",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28664,7 +28664,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Orita.png/revision/latest?cb=20161115095519",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28676,7 +28676,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Horitaka.png/revision/latest?cb=20180526081729",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28688,7 +28688,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/05/Sekiei.png/revision/latest?cb=20170805141118",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28700,7 +28700,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/Suisen.png/revision/latest?cb=20190729122727",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28712,7 +28712,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0d/Fujimura.png/revision/latest?cb=20190725205227",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28724,7 +28724,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/Nozawa.png/revision/latest?cb=20180523081201",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28736,7 +28736,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Ogura.png/revision/latest?cb=20151117133015",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28748,7 +28748,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Ikkyuu.png/revision/latest?cb=20190728121101",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28760,7 +28760,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Maruwa.png/revision/latest?cb=20170307092952",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28772,7 +28772,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e0/Mizukusa.png/revision/latest?cb=20190721131301",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28784,7 +28784,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Shoubu.png/revision/latest?cb=20170831111621",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28796,7 +28796,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/Hotei.png/revision/latest?cb=20190728120550",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28808,7 +28808,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Sagamineta.png/revision/latest?cb=20120629171906",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28820,7 +28820,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Habu.png/revision/latest?cb=20190728115915",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28832,7 +28832,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/Hiroshima.png/revision/latest?cb=20190728120535",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28844,7 +28844,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Morishita.png/revision/latest?cb=20190729115709",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28856,7 +28856,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Ogawa.png/revision/latest?cb=20190722122633",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28868,7 +28868,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Hanayama.png/revision/latest?cb=20190728115943",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28880,7 +28880,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Mano.png/revision/latest?cb=20190728122846",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28892,7 +28892,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Shadow_Raimon.png/revision/latest?cb=20180720100116",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28904,7 +28904,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Kojika.png/revision/latest?cb=20170825152828",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28916,7 +28916,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Ryou.png/revision/latest?cb=20190729121359",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28928,7 +28928,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Kamakiri.png/revision/latest?cb=20170508093627",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28940,7 +28940,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/Kadogami.png/revision/latest?cb=20190721130707",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28952,7 +28952,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Toshizou.png/revision/latest?cb=20190729123647",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28964,7 +28964,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Mozu.png/revision/latest?cb=20190731113931",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28976,7 +28976,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Takeda.png/revision/latest?cb=20190731124834",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -28988,7 +28988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8c/Iwasa.png/revision/latest?cb=20160404201606",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29000,7 +29000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Mikio.png/revision/latest?cb=20190729115612",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29012,7 +29012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/Ryuuzou.png/revision/latest?cb=20190729121414",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29024,7 +29024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/Takkyuu.png/revision/latest?cb=20190704091430",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29036,7 +29036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Goggle.png/revision/latest?cb=20160712102930",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29048,7 +29048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Tantei.png/revision/latest?cb=20170930201643",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29060,7 +29060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Ooita.png/revision/latest?cb=20190729120829",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29072,7 +29072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/Semimaru.png/revision/latest?cb=20161212124852",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29084,7 +29084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/Kodama.png/revision/latest?cb=20190731122440",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29096,7 +29096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Urata.png/revision/latest?cb=20190729123815",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29108,7 +29108,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Ichigo.png/revision/latest?cb=20160403144522",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29120,7 +29120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/Kuji.png/revision/latest?cb=20190721130710",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29132,7 +29132,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Nakadate.png/revision/latest?cb=20180525105422",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29144,7 +29144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Ibaraki.png/revision/latest?cb=20150604102805",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29156,7 +29156,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/76/Miki.png/revision/latest?cb=20190728122929",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29168,7 +29168,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/Koizumi.png/revision/latest?cb=20190728121929",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29180,7 +29180,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Mizuhara.png/revision/latest?cb=20161212125634",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29192,7 +29192,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Terai.png/revision/latest?cb=20190731125050",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29204,7 +29204,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/62/Chikai.png/revision/latest?cb=20190721122034",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29216,7 +29216,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Igawa.png/revision/latest?cb=20170706091619",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29228,7 +29228,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Atsui.png/revision/latest?cb=20180526081634",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29240,7 +29240,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Okano.png/revision/latest?cb=20190731123444",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29252,7 +29252,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Ryuukou.png/revision/latest?cb=20190731113936",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29264,7 +29264,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Nanairo.png/revision/latest?cb=20190729120308",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29276,7 +29276,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Aikou.png/revision/latest?cb=20160712131120",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29288,7 +29288,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0e/Arakawa.png/revision/latest?cb=20170227090316",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29300,7 +29300,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Iguchi.png/revision/latest?cb=20190728121048",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29312,7 +29312,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ef/Ashura.png/revision/latest?cb=20170619235920",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29324,7 +29324,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Tefuda.png/revision/latest?cb=20190729123142",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29336,7 +29336,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Kajiwara.png/revision/latest?cb=20170909105019",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29348,7 +29348,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Kaburagi.png/revision/latest?cb=20170517102456",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29360,7 +29360,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Ooniwa.png/revision/latest?cb=20190731123457",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29372,7 +29372,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Tatsumaki.png/revision/latest?cb=20190729123134",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29384,7 +29384,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Kanshin.png/revision/latest?cb=20190728121559",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29396,7 +29396,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Ikuta.png/revision/latest?cb=20190728121105",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29408,7 +29408,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1f/Komamame.png/revision/latest?cb=20190406141320",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29420,7 +29420,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3d/Inami.png/revision/latest?cb=20190728121113",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29432,7 +29432,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Utaba.png/revision/latest?cb=20190729123826",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29444,7 +29444,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Fuurai.png/revision/latest?cb=20190725205258",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29456,7 +29456,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Genbu.png/revision/latest?cb=20120623171049",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29468,7 +29468,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Mito.png/revision/latest?cb=20180922163354",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29480,7 +29480,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/78/Hayabusa.png/revision/latest?cb=20190728120159",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29492,7 +29492,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Taira.png/revision/latest?cb=20190729122750",
         "EnglishTeam": "Scouts IE1",
         "JapaneseTeam": "Scouts IE1",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29504,7 +29504,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/07/Byakko.png/revision/latest?cb=20120629171708",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29516,7 +29516,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Satan.png/revision/latest?cb=20130417140701",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29528,7 +29528,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Yanoura.png/revision/latest?cb=20190406143903",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29540,7 +29540,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Force.png/revision/latest?cb=20190731120749",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29552,7 +29552,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Sasayama.png/revision/latest?cb=20130129133815",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29564,7 +29564,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Toriyama.png/revision/latest?cb=20201002204727",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29576,7 +29576,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Namie.png/revision/latest?cb=20190731113933",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29588,7 +29588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Shinya.png/revision/latest?cb=20160919151114",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29600,7 +29600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Kakumaru.png/revision/latest?cb=20150603154905",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29612,7 +29612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Konjiki.png/revision/latest?cb=20150526101033",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29624,7 +29624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/da/Nobayashi.png/revision/latest?cb=20190721132439",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29636,7 +29636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Wada.png/revision/latest?cb=20130203054217",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29648,7 +29648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Anesan.png/revision/latest?cb=20120622235735",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29660,7 +29660,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Melon.png/revision/latest?cb=20190728122906",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29672,7 +29672,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4b/Wanchan.png/revision/latest?cb=20190729124105",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29684,7 +29684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/76/Miyamaru.png/revision/latest?cb=20180926082733",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29696,7 +29696,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Ubagai.png/revision/latest?cb=20170313113145",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29708,7 +29708,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Masukawa.png/revision/latest?cb=20190707123553",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29720,7 +29720,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/63/Tetsukita.png/revision/latest?cb=20190729123152",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29732,7 +29732,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Bonnie.png/revision/latest?cb=20150908131558",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29744,7 +29744,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Chihara.png/revision/latest?cb=20190721121741",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29756,7 +29756,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Shigeno.png/revision/latest?cb=20150526094448",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29768,7 +29768,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/Nushino.png/revision/latest?cb=20180526153552",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29780,7 +29780,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Ooshika.png/revision/latest?cb=20190729121039",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29792,7 +29792,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ef/Tokunaga.png/revision/latest?cb=20190530115225",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29804,7 +29804,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Shida.png/revision/latest?cb=20120624073634",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29816,7 +29816,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Yokoyama.png/revision/latest?cb=20190729124134",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29828,7 +29828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/Taemi.png/revision/latest?cb=20190710203858",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29840,7 +29840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Danno.png/revision/latest?cb=20130622203405",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29852,7 +29852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Zach.png/revision/latest?cb=20170706091849",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29864,7 +29864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/61/Robot.png/revision/latest?cb=20190729121354",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29876,7 +29876,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Furuichi.png/revision/latest?cb=20190725205250",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29888,7 +29888,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Passhon.png/revision/latest?cb=20190729121104",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29900,7 +29900,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Fukukawa.png/revision/latest?cb=20190725205235",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29912,7 +29912,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Nodatta.png/revision/latest?cb=20190721132440",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29924,7 +29924,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Masuda.png/revision/latest?cb=20170909043018",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29936,7 +29936,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ef/Hijii.png/revision/latest?cb=20160608155850",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29948,7 +29948,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Taniki.png/revision/latest?cb=20130622232504",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29960,7 +29960,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Iida.png/revision/latest?cb=20160402212936",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29972,7 +29972,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Nakao.png/revision/latest?cb=20160706095333",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29984,7 +29984,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4e/12HL_player12.png/revision/latest?cb=20120417032739",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -29996,7 +29996,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Saori.png/revision/latest?cb=20120623162902",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30008,7 +30008,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/Furuyama.png/revision/latest?cb=20190725205254",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30020,7 +30020,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Shimogawara.png/revision/latest?cb=20160604124720",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30032,7 +30032,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Herikawa.png/revision/latest?cb=20190728120207",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30044,7 +30044,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/05/Takatsu.png/revision/latest?cb=20190722123430",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30056,7 +30056,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Higuchi.png/revision/latest?cb=20190728120224",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30068,7 +30068,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Sumika.png/revision/latest?cb=20190710204655",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30080,7 +30080,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Raika.png/revision/latest?cb=20190710204712",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30092,7 +30092,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Abby.png/revision/latest?cb=20170818173824",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30104,7 +30104,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Shouzu.png/revision/latest?cb=20190710205115",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30116,7 +30116,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Aki_soccer_uniform.png/revision/latest?cb=20200529133354",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30128,7 +30128,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Kanbe.png/revision/latest?cb=20161226213209",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30140,7 +30140,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Katsuramoto.png/revision/latest?cb=20190728121617",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30152,7 +30152,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Noguchi.png/revision/latest?cb=20121126142417",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30164,7 +30164,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Gyaraku.png/revision/latest?cb=20160622181036",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30176,7 +30176,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Kawakami.png/revision/latest?cb=20190721130709",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30188,7 +30188,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Tsunamori.png/revision/latest?cb=20190710203854",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30200,7 +30200,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Fumizuki.png/revision/latest?cb=20151117142347",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30212,7 +30212,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Tamami.png/revision/latest?cb=20190707130416",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30224,7 +30224,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/61/Kanno.png/revision/latest?cb=20130203052003",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30236,7 +30236,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Nitta.png/revision/latest?cb=20150603151232",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30248,7 +30248,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/32/Butchii.png/revision/latest?cb=20190724123739",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30260,7 +30260,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cd/Tortoise.png/revision/latest?cb=20150908130744",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30272,7 +30272,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Kadooka.png/revision/latest?cb=20201002125712",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30284,7 +30284,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Kenta.png/revision/latest?cb=20150603145315",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30296,7 +30296,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Chidori.png/revision/latest?cb=20190708121240",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30308,7 +30308,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Ashida.png/revision/latest?cb=20190731115830",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30320,7 +30320,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Nakura.png/revision/latest?cb=20180922095705",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30332,7 +30332,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Yellow.png/revision/latest?cb=20160905100119",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30344,7 +30344,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/Yellow_D.png/revision/latest?cb=20160905100120",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30356,7 +30356,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5d/Yellow_S.png/revision/latest?cb=20160905100120",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30368,7 +30368,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/af/Morikoshi.png/revision/latest?cb=20190731122817",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30380,7 +30380,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/be/Kyuusei.png/revision/latest?cb=20180925123200",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30392,7 +30392,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5d/Tsugumi.png/revision/latest?cb=20170307091950",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30404,7 +30404,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Oketani.png/revision/latest?cb=20150514184910",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30416,7 +30416,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d4/Matsutani.png/revision/latest?cb=20170420115603",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30428,7 +30428,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Blue_D.png/revision/latest?cb=20160905100017",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30440,7 +30440,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/Blue_S.png/revision/latest?cb=20160905100017",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30452,7 +30452,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/88/Hirobe.png/revision/latest?cb=20170809082452",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30464,7 +30464,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Yoshimi.png/revision/latest?cb=20190731114053",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30476,7 +30476,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Nimura.png/revision/latest?cb=20190729120355",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30488,7 +30488,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d9/Hine.png/revision/latest?cb=20190728120239",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30500,7 +30500,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Noemi.png/revision/latest?cb=20130507002050",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30512,7 +30512,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Hosoya.png/revision/latest?cb=20180523080807",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30524,7 +30524,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Matsuura.png/revision/latest?cb=20150907175244",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30536,7 +30536,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Kameishi.png/revision/latest?cb=20190731122237",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30548,7 +30548,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Skull.png/revision/latest?cb=20190729122336",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30560,7 +30560,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Nakashima.png/revision/latest?cb=20170202104208",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30572,7 +30572,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Etsuoo.png/revision/latest?cb=20190721123038",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30584,7 +30584,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/The_Card_player_13.png/revision/latest?cb=20120612212631",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30596,7 +30596,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Juli.png/revision/latest?cb=20120624074433",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30608,7 +30608,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Bian.png/revision/latest?cb=20181014084129",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30620,7 +30620,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5d/Niwayama.png/revision/latest?cb=20190715101714",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30632,7 +30632,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Hiura.png/revision/latest?cb=20180529135935",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30644,7 +30644,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Murayama.png/revision/latest?cb=20190729115716",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30656,7 +30656,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0b/Nozomi.png/revision/latest?cb=20190729120435",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30668,7 +30668,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Hanabuki.png/revision/latest?cb=20190728115935",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30680,7 +30680,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Yuiko.png/revision/latest?cb=20130515235303",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30692,7 +30692,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Jack.png/revision/latest?cb=20190710205056",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30704,7 +30704,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Tao.png/revision/latest?cb=20190731124859",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30716,7 +30716,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Andou.png/revision/latest?cb=20170619235920",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30728,7 +30728,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Kaotetsu.png/revision/latest?cb=20130209112021",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30740,7 +30740,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Shika.png/revision/latest?cb=20180526083512",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30752,7 +30752,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e0/Okuizumi.png/revision/latest?cb=20190729120804",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30764,7 +30764,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/be/Kaizuka.png/revision/latest?cb=20190731122139",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30776,7 +30776,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Tokika.png/revision/latest?cb=20160407164127",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30788,7 +30788,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c7/Dragon.png/revision/latest?cb=20190725115908",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30800,7 +30800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Sasaki.png/revision/latest?cb=20160331211143",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30812,7 +30812,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4b/Yamamoto.png/revision/latest?cb=20190729124113",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30824,7 +30824,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/Katsunobu.png/revision/latest?cb=20190721130709",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30836,7 +30836,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/Asamizu.png/revision/latest?cb=20190724122828",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30848,7 +30848,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Mochikoo.png/revision/latest?cb=20190729115640",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30860,7 +30860,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/78/Yoshitake.png/revision/latest?cb=20190729124407",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30872,7 +30872,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Ogino.png/revision/latest?cb=20160712135501",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30884,7 +30884,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/07/Tia.png/revision/latest?cb=20190729123203",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30896,7 +30896,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Tada.png/revision/latest?cb=20190729122743",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30908,7 +30908,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/af/Hazekura.png/revision/latest?cb=20130511175329",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30920,7 +30920,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Maruo.png/revision/latest?cb=20120622230341",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30932,7 +30932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Green.png/revision/latest?cb=20180922094610",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30944,7 +30944,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a5/Green_D.png/revision/latest?cb=20160905100018",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30956,7 +30956,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Okumiya.png/revision/latest?cb=20190710204059",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30968,7 +30968,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Hiramatsu.png/revision/latest?cb=20160131210134",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30980,7 +30980,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Koohee.png/revision/latest?cb=20190728122333",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -30992,7 +30992,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Oowaki.png/revision/latest?cb=20180518125600",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31004,7 +31004,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Hide.png/revision/latest?cb=20121018155203",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31016,7 +31016,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Piraruku.png/revision/latest?cb=20130622235450",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31028,7 +31028,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Tanno.png/revision/latest?cb=20190722123432",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31040,7 +31040,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Kodera.png/revision/latest?cb=20121124102137",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31052,7 +31052,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cc/Hound.png/revision/latest?cb=20190728120609",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31064,7 +31064,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Kumimura.png/revision/latest?cb=20170128122020",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31076,7 +31076,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Muraabe.png/revision/latest?cb=20190731122824",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31088,7 +31088,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/Ramoto.png/revision/latest?cb=20150601124422",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31100,7 +31100,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Touka.png/revision/latest?cb=20131030211835",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31112,7 +31112,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cc/Kanaya.png/revision/latest?cb=20170307132356",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31124,7 +31124,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/Yoshi.png/revision/latest?cb=20190729124353",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31136,7 +31136,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Tamoto.png/revision/latest?cb=20180925123704",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31148,7 +31148,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Fuyuma2.png/revision/latest?cb=20130430195307",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31160,7 +31160,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Hayashi.png/revision/latest?cb=20160623120814",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31172,7 +31172,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/13/Yamada.png/revision/latest?cb=20160712104046",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31184,7 +31184,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Chihiro.png/revision/latest?cb=20190731113803",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31196,7 +31196,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b3/Kuramochi.png/revision/latest?cb=20120623085559",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31208,7 +31208,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/Nemuko.png/revision/latest?cb=20190721132437",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31220,7 +31220,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fb/Hiraiwa.png/revision/latest?cb=20151017173154",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31232,7 +31232,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Kokona.png/revision/latest?cb=20120623100508",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31244,7 +31244,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Satake.png/revision/latest?cb=20150610172037",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31256,7 +31256,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Yokochi.png/revision/latest?cb=20130503212141",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31268,7 +31268,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Yoda.png/revision/latest?cb=20190729124130",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31280,7 +31280,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Sekiyan.png/revision/latest?cb=20160919151032",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31292,7 +31292,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Nakato.png/revision/latest?cb=20190731123126",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31304,7 +31304,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Holly.png/revision/latest?cb=20190731121118",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31316,7 +31316,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Nakasato.png/revision/latest?cb=20180525105528",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31328,7 +31328,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Yukari.png/revision/latest?cb=20150608144741",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31340,7 +31340,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Fukudome.png/revision/latest?cb=20170324210602",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31352,7 +31352,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Yamazaki.png/revision/latest?cb=20130515235929",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31364,7 +31364,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/88/Kamui.png/revision/latest?cb=20180523080037",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31376,7 +31376,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Kamizuru.png/revision/latest?cb=20120623083539",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31388,7 +31388,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Sakota.png/revision/latest?cb=20120623163810",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31400,7 +31400,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Kosaka.png/revision/latest?cb=20190728122336",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31412,7 +31412,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Kunigami.png/revision/latest?cb=20150903201514",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31424,7 +31424,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ad/Kajima.png/revision/latest?cb=20120623003857",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31436,7 +31436,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Nayu.png/revision/latest?cb=20160919150913",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31448,7 +31448,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a5/Pink_D.png/revision/latest?cb=20160905100019",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31460,7 +31460,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Kanae.png/revision/latest?cb=20180526082048",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31472,7 +31472,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Ootsuki.png/revision/latest?cb=20190530115329",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31484,7 +31484,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Platinum.png/revision/latest?cb=20120605174249",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31496,7 +31496,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Yui.png/revision/latest?cb=20130515234927",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31508,7 +31508,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Saruwatari.png/revision/latest?cb=20190710203948",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31520,7 +31520,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Nagasaka.png/revision/latest?cb=20190729120051",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31532,7 +31532,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/Erisa.png/revision/latest?cb=20190406143946",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31544,7 +31544,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5b/Warashi.png/revision/latest?cb=20120707234751",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31556,7 +31556,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/78/Daigami.png/revision/latest?cb=20170307131422",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31568,7 +31568,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dc/Shimizu.png/revision/latest?cb=20190731114047",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31580,7 +31580,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/66/Suwa.png/revision/latest?cb=20170828161541",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31592,7 +31592,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d1/Kanatsu.png/revision/latest?cb=20180529140104",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31604,7 +31604,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Takegami.png/revision/latest?cb=20130622234849",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31616,7 +31616,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d9/Zaihou.png/revision/latest?cb=20120605173044",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31628,7 +31628,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Yamauchi.png/revision/latest?cb=20190731125532",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31640,7 +31640,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Terukawa.png/revision/latest?cb=20190729123149",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31652,7 +31652,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Murakami.png/revision/latest?cb=20120707234315",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31664,7 +31664,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Mao.png/revision/latest?cb=20161213123407",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31676,7 +31676,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Matsumura.png/revision/latest?cb=20170319192451",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31688,7 +31688,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Ikeda.png/revision/latest?cb=20190728121052",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31700,7 +31700,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Suda.png/revision/latest?cb=20150908121349",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31712,7 +31712,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/June.png/revision/latest?cb=20120624073634",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31724,7 +31724,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Umami.png/revision/latest?cb=20190729123759",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31736,7 +31736,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Nozac.png/revision/latest?cb=20150903094502",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31748,7 +31748,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Aki_%28scout_character%29.png/revision/latest?cb=20120622235227",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31760,7 +31760,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/Masa.png/revision/latest?cb=20180922100058",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31772,7 +31772,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Waji.png/revision/latest?cb=20190729124053",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31784,7 +31784,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Wakui.png/revision/latest?cb=20120707234751",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31796,7 +31796,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Suzaku.png/revision/latest?cb=20190710205110",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31808,7 +31808,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Tomochan.png/revision/latest?cb=20160411200717",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31820,7 +31820,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Aichan.png/revision/latest?cb=20181014084115",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31832,7 +31832,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Nagakura.png/revision/latest?cb=20170510074800",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31844,7 +31844,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Clown.png/revision/latest?cb=20190731120051",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31856,7 +31856,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Saekkii.png/revision/latest?cb=20190729121421",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31868,7 +31868,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Kureno.png/revision/latest?cb=20120623085559",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31880,7 +31880,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Hanachan.png/revision/latest?cb=20180525104821",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31892,7 +31892,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Nakatsuji.png/revision/latest?cb=20130418092736",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31904,7 +31904,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c8/Shimoya.png/revision/latest?cb=20120624073635",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31916,7 +31916,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Caprico.png/revision/latest?cb=20190725115526",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31928,7 +31928,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9b/Shieri.png/revision/latest?cb=20120624072956",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31940,7 +31940,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Shiichan.png/revision/latest?cb=20120623202055",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31952,7 +31952,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Rendai.png/revision/latest?cb=20190710204610",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31964,7 +31964,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e0/Nojima.png/revision/latest?cb=20170306210132",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31976,7 +31976,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d9/Miyanaga.png/revision/latest?cb=20190729115628",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -31988,7 +31988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Ogasawara.png/revision/latest?cb=20190731123437",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32000,7 +32000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/05/Shibareru.png/revision/latest?cb=20171116035705",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32012,7 +32012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Hakusan.png/revision/latest?cb=20190728115930",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32024,7 +32024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Wakaizumi.png/revision/latest?cb=20190722123902",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32036,7 +32036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Nylon.png/revision/latest?cb=20190721132441",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32048,7 +32048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Seira.png/revision/latest?cb=20190722122635",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32060,7 +32060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Monma.png/revision/latest?cb=20170824132410",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32072,7 +32072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ab/Queen.png/revision/latest?cb=20180922162751",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32084,7 +32084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Ringo.png/revision/latest?cb=20180523081710",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32096,7 +32096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/Ootani.png/revision/latest?cb=20120623003356",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32108,7 +32108,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bf/Iroha.png/revision/latest?cb=20120623000737",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32120,7 +32120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Taiga_%28scout_character%29.png/revision/latest?cb=20190722123429",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32132,7 +32132,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Manji.png/revision/latest?cb=20150904154729",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32144,7 +32144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Chisaka.png/revision/latest?cb=20190731113806",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32156,7 +32156,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/24/Arisawa.png/revision/latest?cb=20120623000131",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32168,7 +32168,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Mitsuki.png/revision/latest?cb=20190729115623",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32180,7 +32180,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/The_Card_player_14.png/revision/latest?cb=20120612211803",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32192,7 +32192,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Pieroo.png/revision/latest?cb=20160219130939",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32204,7 +32204,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Nishii.png/revision/latest?cb=20190729120407",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32216,7 +32216,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Blue.png/revision/latest?cb=20160905100016",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32228,7 +32228,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Daida.png/revision/latest?cb=20190725115851",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32240,7 +32240,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Fujita.png/revision/latest?cb=20160623201132",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32252,7 +32252,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6d/Shizuchan.png/revision/latest?cb=20180922095018",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32264,7 +32264,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Haruna_Raimon.png/revision/latest?cb=20180806111227",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32276,7 +32276,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Tsuneya.png/revision/latest?cb=20190729123658",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32288,7 +32288,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Murakoshi.png/revision/latest?cb=20201002141005",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32300,7 +32300,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Imazaki.png/revision/latest?cb=20150608145421",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32312,7 +32312,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Yukako.png/revision/latest?cb=20190729124419",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32324,7 +32324,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Rie.png/revision/latest?cb=20160623192455",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32336,7 +32336,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Daruma.png/revision/latest?cb=20190414063847",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32348,7 +32348,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Taneda.png/revision/latest?cb=20190729123107",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32360,7 +32360,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Takuma.png/revision/latest?cb=20190722123431",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32372,7 +32372,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Sonoka.png/revision/latest?cb=20180730084617",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32384,7 +32384,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Moritaki.png/revision/latest?cb=20190729115712",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32396,7 +32396,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Goshou.png/revision/latest?cb=20121126135517",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32408,7 +32408,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Ebirina.png/revision/latest?cb=20190725204231",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32420,7 +32420,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cb/Hakuou.png/revision/latest?cb=20190728115927",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32432,7 +32432,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/62/Unamoto_Giichi.png/revision/latest?cb=20170620022715",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32444,7 +32444,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Kimishima.png/revision/latest?cb=20190710203826",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32456,7 +32456,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cc/Natchan.png/revision/latest?cb=20170510080217",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32468,7 +32468,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Saita.png/revision/latest?cb=20190729121432",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32480,7 +32480,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ca/Bach.png/revision/latest?cb=20190710204414",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32492,7 +32492,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Saihiiro.png/revision/latest?cb=20190729121425",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32504,7 +32504,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Hejima.png/revision/latest?cb=20190710203744",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32516,7 +32516,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Emoto.png/revision/latest?cb=20190725204236",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32528,7 +32528,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/Koyori.png/revision/latest?cb=20120623155906",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32540,7 +32540,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2e/Katsutake.png/revision/latest?cb=20160604111446",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32552,7 +32552,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/10/Gold.png/revision/latest?cb=20130512195004",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32564,7 +32564,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Green_S.png/revision/latest?cb=20160905100018",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32576,7 +32576,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Matsukura.png/revision/latest?cb=20121120072454",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32588,7 +32588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Hirasawa.png/revision/latest?cb=20150608121228",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32600,7 +32600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/Makiguchi.png/revision/latest?cb=20190728122838",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32612,7 +32612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Tokisa.png/revision/latest?cb=20130511175025",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32624,7 +32624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/97/Nunoka.png/revision/latest?cb=20190729120440",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32636,7 +32636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Takasaki.png/revision/latest?cb=20190729122801",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32648,7 +32648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9b/Sunago.png/revision/latest?cb=20190729122735",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32660,7 +32660,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Horie.png/revision/latest?cb=20190731113816",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32672,7 +32672,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/Torihara.png/revision/latest?cb=20150604084413",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32684,7 +32684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a5/Hitomi.png/revision/latest?cb=20170614084432",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32696,7 +32696,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Yashiro.png/revision/latest?cb=20130417142835",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32708,7 +32708,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Jet.png/revision/latest?cb=20190728121420",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32720,7 +32720,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/da/Udou.png/revision/latest?cb=20170620000034",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32732,7 +32732,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/Inomata.png/revision/latest?cb=20190728121123",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32744,7 +32744,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Motoki.png/revision/latest?cb=20190731113931",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32756,7 +32756,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/40/Sarasa.png/revision/latest?cb=20120623163810",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32768,7 +32768,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Ueno.png/revision/latest?cb=20120623000737",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32780,7 +32780,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/Teshima.png/revision/latest?cb=20190710204615",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32792,7 +32792,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Tsubasa_Shouryuu.png/revision/latest?cb=20190413213246",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32804,7 +32804,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0e/Miyakita.png/revision/latest?cb=20170828153541",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32816,7 +32816,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Kawara.png/revision/latest?cb=20120626110929",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32828,7 +32828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Mai_Mai.png/revision/latest?cb=20131104204037",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32840,7 +32840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Shintaku.png/revision/latest?cb=20180526155713",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32852,7 +32852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Hanagata.png/revision/latest?cb=20190613130709",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32864,7 +32864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Araki.png/revision/latest?cb=20190724122020",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32876,7 +32876,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Taguchi.png/revision/latest?cb=20190729122746",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32888,7 +32888,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Genji.png/revision/latest?cb=20120623100508",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32900,7 +32900,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/Saeri.png/revision/latest?cb=20120623162901",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32912,7 +32912,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Higasa.png/revision/latest?cb=20130209113255",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32924,7 +32924,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/14/Mikan.png/revision/latest?cb=20120707233508",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32936,7 +32936,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Nihora.png/revision/latest?cb=20190731123255",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32948,7 +32948,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Nasshii.png/revision/latest?cb=20190729120327",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32960,7 +32960,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Phoenix.png/revision/latest?cb=20130330160545",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32972,7 +32972,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/50/Pink.png/revision/latest?cb=20160905100018",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32984,7 +32984,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Masaoka.png/revision/latest?cb=20190728122854",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -32996,7 +32996,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Takenaka.png/revision/latest?cb=20190729123059",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33008,7 +33008,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Yoshikawa.png/revision/latest?cb=20190729124359",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33020,7 +33020,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3a/Takioo.png/revision/latest?cb=20190731124843",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33032,7 +33032,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Yasumori.png/revision/latest?cb=20161227182401",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33044,7 +33044,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/32/Maika.png/revision/latest?cb=20190728122819",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33056,7 +33056,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Asakura.png/revision/latest?cb=20120803051149",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33068,7 +33068,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Sase.png/revision/latest?cb=20190729121814",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33080,7 +33080,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Fujimoto.png/revision/latest?cb=20190725205223",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33092,7 +33092,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/Imoto.png/revision/latest?cb=20120623000441",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33104,7 +33104,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Hisamoto.png/revision/latest?cb=20190728120539",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33116,7 +33116,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Pieron.png/revision/latest?cb=20190731123506",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33128,7 +33128,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Kiba.png/revision/latest?cb=20160919150508",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33140,7 +33140,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fe/Seven.png/revision/latest?cb=20180922095216",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33152,7 +33152,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Shigyou.png/revision/latest?cb=20180526083441",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33164,7 +33164,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Kotoha.png/revision/latest?cb=20120623155906",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33176,7 +33176,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/10/Iitani.png/revision/latest?cb=20170706091620",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33188,7 +33188,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9c/Seiryuu.png/revision/latest?cb=20120623213013",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33200,7 +33200,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cd/Asakubo.png/revision/latest?cb=20190724122821",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33212,7 +33212,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Yamaryuu.png/revision/latest?cb=20170706102139",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33224,7 +33224,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Tamura.png/revision/latest?cb=20190731124850",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33236,7 +33236,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Kamimaru.png/revision/latest?cb=20190413205732",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33248,7 +33248,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/Fukuda.png/revision/latest?cb=20170617180237",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33260,7 +33260,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Kitagata.png/revision/latest?cb=20120623084855",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33272,7 +33272,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/Tsukamoto.png/revision/latest?cb=20130622232915",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33284,7 +33284,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Hatakeyama.png/revision/latest?cb=20190728115956",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33296,7 +33296,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/07/Kugiya.png/revision/latest?cb=20190728122405",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33308,7 +33308,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Chikuma.png/revision/latest?cb=20190414063635",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33320,7 +33320,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Tagashira.png/revision/latest?cb=20160609201249",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33332,7 +33332,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Fukao.png/revision/latest?cb=20190731120802",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33344,7 +33344,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Ishige.png/revision/latest?cb=20121119200744",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33356,7 +33356,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Saeka.png/revision/latest?cb=20120623162901",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33368,7 +33368,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/50/Kiminami.png/revision/latest?cb=20160325171215",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33380,7 +33380,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Hashimoto.png/revision/latest?cb=20190731113809",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33392,7 +33392,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Miwa.png/revision/latest?cb=20180523080257",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33404,7 +33404,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/33/Niina.png/revision/latest?cb=20190729120351",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33416,7 +33416,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Keito.png/revision/latest?cb=20120623085558",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33428,7 +33428,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Head.png/revision/latest?cb=20150529113749",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33440,7 +33440,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/King.png/revision/latest?cb=20181014084322",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33452,7 +33452,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Yokomichi.png/revision/latest?cb=20130515212406",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33464,7 +33464,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Tennen.png/revision/latest?cb=20120705061123",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33476,7 +33476,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Kazuo.png/revision/latest?cb=20190731122257",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33488,7 +33488,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/52/Moriya.png/revision/latest?cb=20200524192542",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33500,7 +33500,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Fumio.png/revision/latest?cb=20160712133932",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33512,7 +33512,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Ichimonji.png/revision/latest?cb=20190413213011",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33524,7 +33524,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Ishida.png/revision/latest?cb=20170706091800",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33536,7 +33536,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Yuge.png/revision/latest?cb=20160331205344",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33548,7 +33548,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Nishikawa.png/revision/latest?cb=20150524200422",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33560,7 +33560,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Maanyan.png/revision/latest?cb=20150903200451",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33572,7 +33572,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/Tsuya.png/revision/latest?cb=20190729123707",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33584,7 +33584,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Toorugawa.png/revision/latest?cb=20161213124230",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33596,7 +33596,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e4/Nakane.png/revision/latest?cb=20190731123122",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33608,7 +33608,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d0/Saki.png/revision/latest?cb=20120623163810",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33620,7 +33620,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Kanon_casual_2.png/revision/latest?cb=20120615203447",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33632,7 +33632,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Masaike.png/revision/latest?cb=20190728122850",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33644,7 +33644,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Umikawa.png/revision/latest?cb=20190731125326",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33656,7 +33656,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1f/Lulu.png/revision/latest?cb=20150524204956",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33668,7 +33668,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Miu.png/revision/latest?cb=20120707233508",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33680,7 +33680,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Chiquita.png/revision/latest?cb=20130516205952",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33692,7 +33692,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Wakaba.png/revision/latest?cb=20130511171554",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33704,7 +33704,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Nakatani.png/revision/latest?cb=20180922095816",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33716,7 +33716,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0b/Shin_Shin.png/revision/latest?cb=20190731124335",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33728,7 +33728,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Soda.png/revision/latest?cb=20150604085237",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33740,7 +33740,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8c/Yoshikuni.png/revision/latest?cb=20160407144612",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33752,7 +33752,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Koro.png/revision/latest?cb=20170614195544",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33764,7 +33764,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Yumeka.png/revision/latest?cb=20190710204703",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33776,7 +33776,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4b/Sada.png/revision/latest?cb=20190729121418",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33788,7 +33788,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Naomi.png/revision/latest?cb=20201002142513",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33800,7 +33800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Araba.png/revision/latest?cb=20151116194850",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33812,7 +33812,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1b/Onoda.png/revision/latest?cb=20150903191945",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33824,7 +33824,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Musou.png/revision/latest?cb=20190721131301",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33836,7 +33836,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Setsuka.png/revision/latest?cb=20190710203017",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33848,7 +33848,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Nakahara.png/revision/latest?cb=20170614120853",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33860,7 +33860,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Beast.png/revision/latest?cb=20160402203121",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33872,7 +33872,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Yuukyi.png/revision/latest?cb=20190722123905",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33884,7 +33884,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Ranbashi.png/revision/latest?cb=20190729121350",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33896,7 +33896,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Shuuhou.png/revision/latest?cb=20190707125917",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33908,7 +33908,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Yoshimoto.png/revision/latest?cb=20170128214445",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33920,7 +33920,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Komatsu.png/revision/latest?cb=20130512194445",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33932,7 +33932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3f/Yurika.png/revision/latest?cb=20130501231113",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33944,7 +33944,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3a/Kurobuta.png/revision/latest?cb=20190731122508",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33956,7 +33956,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Koyama.png/revision/latest?cb=20120623155906",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33968,7 +33968,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/Hiramoto.png/revision/latest?cb=20190728120243",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33980,7 +33980,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Marimu.png/revision/latest?cb=20150907130201",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -33992,7 +33992,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cd/Akimoto.png/revision/latest?cb=20170619235919",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34004,7 +34004,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Devil.png/revision/latest?cb=20150608143019",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34016,7 +34016,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Kawaguchi.png/revision/latest?cb=20150903202748",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34028,7 +34028,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Umechan.png/revision/latest?cb=20120623001507",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34040,7 +34040,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Abeshima.png/revision/latest?cb=20190710205100",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34052,7 +34052,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Kento.png/revision/latest?cb=20160309184525",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34064,7 +34064,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d4/Harudora.png/revision/latest?cb=20190721125522",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34076,7 +34076,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Haine.png/revision/latest?cb=20190731120950",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34088,7 +34088,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Mery.png/revision/latest?cb=20190728122913",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34100,7 +34100,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Sae.png/revision/latest?cb=20180525105642",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34112,7 +34112,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/66/Nishimura.png/revision/latest?cb=20190731113934",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34124,7 +34124,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/Natsumi_sprite_0.png/revision/latest?cb=20120206171936",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34136,7 +34136,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Yoshida.png/revision/latest?cb=20190729124356",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34148,7 +34148,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/41/Kishikawa.png/revision/latest?cb=20120623084854",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34160,7 +34160,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Okamuro.png/revision/latest?cb=20190729120757",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34172,7 +34172,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/11/Tanokura.png/revision/latest?cb=20190729123119",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34184,7 +34184,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Pink_S.png/revision/latest?cb=20160905100019",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34196,7 +34196,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Dougami.png/revision/latest?cb=20190721122423",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34208,7 +34208,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Nanbu.png/revision/latest?cb=20150907172658",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34220,7 +34220,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Sasamoto.png/revision/latest?cb=20121120165128",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34232,7 +34232,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/The_Card_player_15.png/revision/latest?cb=20120613001434",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34244,7 +34244,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Watari.png/revision/latest?cb=20190710205106",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34256,7 +34256,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Noto.png/revision/latest?cb=20190710204807",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34268,7 +34268,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Funayama.png/revision/latest?cb=20150904153555",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34280,7 +34280,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Red.png/revision/latest?cb=20160905100118",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34292,7 +34292,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a5/Red_D.png/revision/latest?cb=20160905100119",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34304,7 +34304,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Red_S.png/revision/latest?cb=20160905100119",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34316,7 +34316,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Somemiya.png/revision/latest?cb=20170324211449",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34328,7 +34328,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bf/Kumagai.png/revision/latest?cb=20170909091716",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34340,7 +34340,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Towa.png/revision/latest?cb=20150608170201",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34352,7 +34352,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Ryuuyou.png/revision/latest?cb=20190729121410",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34364,7 +34364,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Taketani.png/revision/latest?cb=20150608143616",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34376,7 +34376,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Toujou.png/revision/latest?cb=20170128101902",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34388,7 +34388,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Kawataka.png/revision/latest?cb=20150903195146",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34400,7 +34400,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0b/Eruza.png/revision/latest?cb=20120623001834",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34412,7 +34412,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Futase.png/revision/latest?cb=20131102042707",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34424,7 +34424,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/Mayumi.png/revision/latest?cb=20190728122902",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34436,7 +34436,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Mary.png/revision/latest?cb=20120707234314",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34448,7 +34448,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Captain.png/revision/latest?cb=20120702185803",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34460,7 +34460,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Saho.png/revision/latest?cb=20120716204135",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34472,7 +34472,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Mochizuki.png/revision/latest?cb=20180925131129",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34484,7 +34484,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Bison.png/revision/latest?cb=20150526091909",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34496,7 +34496,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b5/Kayaato.png/revision/latest?cb=20170128111033",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34508,7 +34508,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Dou.png/revision/latest?cb=20190725115904",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34520,7 +34520,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Takeba.png/revision/latest?cb=20160607193030",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34532,7 +34532,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Ishidou.png/revision/latest?cb=20190731121508",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34544,7 +34544,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Sawada.png/revision/latest?cb=20120623163810",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34556,7 +34556,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8c/Nakki.png/revision/latest?cb=20190710203022",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34568,7 +34568,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Saku.png/revision/latest?cb=20150903193326",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34580,7 +34580,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Masato_s_Sprites_IE3-1-.png/revision/latest?cb=20120826100605",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34592,7 +34592,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Princess.png/revision/latest?cb=20190729121111",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34604,7 +34604,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Hongou.png/revision/latest?cb=20190731121122",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34616,7 +34616,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Nairu.png/revision/latest?cb=20190710204749",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34628,7 +34628,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Tomiyama.png/revision/latest?cb=20160712140413",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34640,7 +34640,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Tiger.png/revision/latest?cb=20150529133142",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34652,7 +34652,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Akari.png/revision/latest?cb=20120622234619",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34664,7 +34664,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Manaka.png/revision/latest?cb=20160325214105",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34676,7 +34676,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Tadokoro.png/revision/latest?cb=20180526155745",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34688,7 +34688,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Wani.png/revision/latest?cb=20150907173904",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34700,7 +34700,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Tsumugi.png/revision/latest?cb=20150529114820",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34712,7 +34712,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4d/Kishi.png/revision/latest?cb=20190731122428",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34724,7 +34724,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Tina.png/revision/latest?cb=20190731125103",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34736,7 +34736,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bf/Yabuki.png/revision/latest?cb=20130516210313",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34748,7 +34748,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Risa.png/revision/latest?cb=20150908125630",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34760,7 +34760,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Kairi.png/revision/latest?cb=20120623003857",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34772,7 +34772,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Shirobe.png/revision/latest?cb=20170324201021",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34784,7 +34784,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Oshio.png/revision/latest?cb=20150526092758",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34796,7 +34796,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Apple.png/revision/latest?cb=20120622235735",
         "EnglishTeam": "Scouts IE2",
         "JapaneseTeam": "Scouts IE2",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34808,7 +34808,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5b/Beater.png/revision/latest?cb=20150517101847",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34820,7 +34820,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/Sonkun.png/revision/latest?cb=20190731124605",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34832,7 +34832,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Circus.png/revision/latest?cb=20160709215713",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34844,7 +34844,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Nanjou.png/revision/latest?cb=20170706091803",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34856,7 +34856,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Mogami.png/revision/latest?cb=20190731122808",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34868,7 +34868,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Kanaru.png/revision/latest?cb=20180526082142",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34880,7 +34880,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Cap.png/revision/latest?cb=20120623084854",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34892,7 +34892,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Sanba.png/revision/latest?cb=20120623202054",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34904,7 +34904,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/24/Katchan.png/revision/latest?cb=20151118120009",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34916,7 +34916,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Iwakiyama.png/revision/latest?cb=20161226213207",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34928,7 +34928,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/de/Shirasagi.png/revision/latest?cb=20190710202824",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34940,7 +34940,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/The_Card_player_1.png/revision/latest?cb=20120612210015",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34952,7 +34952,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Rio.png/revision/latest?cb=20190731124101",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34964,7 +34964,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Race.png/revision/latest?cb=20151108211815",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34976,7 +34976,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/07/Sakitori.png/revision/latest?cb=20190731124124",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -34988,7 +34988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Aguchi.png/revision/latest?cb=20190729132435",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35000,7 +35000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/eb/Hurricanes_player_1.png/revision/latest?cb=20120613182841",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35012,7 +35012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Nobekun.png/revision/latest?cb=20190731123315",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35024,7 +35024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Bunchan.png/revision/latest?cb=20190710203944",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35036,7 +35036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ed/Hyakki.png/revision/latest?cb=20190731121137",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35048,7 +35048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/12HL_player4.png/revision/latest?cb=20120417031836",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35060,7 +35060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/6/6c/Hector_%28Ni%C3%B1o_Sprite%2C_AO%29.png/revision/latest?cb=20180619232625&path-prefix=es",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35072,7 +35072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Harinezumi.png/revision/latest?cb=20131005181744",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35084,7 +35084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Yonkitou.png/revision/latest?cb=20160623150559",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35096,7 +35096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/76/Ookami.png/revision/latest?cb=20131115125905",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35108,7 +35108,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Sahara.png/revision/latest?cb=20181014084532",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35120,7 +35120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/Kamezaki_Kappa_sprite.png/revision/latest?cb=20190624115509",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35132,7 +35132,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Arii.png/revision/latest?cb=20120623000003",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35144,7 +35144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8f/Sniper.png/revision/latest?cb=20190731114048",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35156,7 +35156,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Eba.png/revision/latest?cb=20120623001507",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35168,7 +35168,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a4/Minami.png/revision/latest?cb=20190710203704",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35180,7 +35180,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Kamen.png/revision/latest?cb=20131101002408",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35192,7 +35192,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/Shinta.png/revision/latest?cb=20190731124339",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35204,7 +35204,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c8/Shian.png/revision/latest?cb=20120623202055",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35216,7 +35216,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b5/Zodiacs_player_12.png/revision/latest?cb=20120610003710",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35228,7 +35228,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Power.png/revision/latest?cb=20160920083950",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35240,7 +35240,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Ginhai.png/revision/latest?cb=20151119005713",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35252,7 +35252,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Souryo.png/revision/latest?cb=20131104224822",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35264,7 +35264,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Rex.png/revision/latest?cb=20190731124057",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35276,7 +35276,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Yanagawa.png/revision/latest?cb=20170614192932",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35288,7 +35288,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Raa.png/revision/latest?cb=20130421190056",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35300,7 +35300,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Akagiri.png/revision/latest?cb=20180526081327",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35312,7 +35312,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/57/Komagata.png/revision/latest?cb=20190731113927",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35324,7 +35324,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Raayu.png/revision/latest?cb=20190708121825",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35336,7 +35336,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/41/The_Card_player_12.png/revision/latest?cb=20120613003705",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35348,7 +35348,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/41/Gosho.png/revision/latest?cb=20181014084224",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35360,7 +35360,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Taji.png/revision/latest?cb=20190731124825",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35372,7 +35372,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/All.png/revision/latest?cb=20190731113800",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35384,7 +35384,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/af/Tachikiri.png/revision/latest?cb=20130511175622",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35396,7 +35396,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/52/Densanki.png/revision/latest?cb=20190731120205",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35408,7 +35408,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Tomoka.png/revision/latest?cb=20120703180734",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35420,7 +35420,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Sanzou.png/revision/latest?cb=20120623202054",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35432,7 +35432,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Zodiacs_player_1.png/revision/latest?cb=20120610001408",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35444,7 +35444,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Shakou.png/revision/latest?cb=20190708122006",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35456,7 +35456,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Totem.png/revision/latest?cb=20170128132631",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35468,7 +35468,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Sunao.png/revision/latest?cb=20150523000307",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35480,7 +35480,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Natani.png/revision/latest?cb=20190731123130",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35492,7 +35492,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Robotekusu.png/revision/latest?cb=20190731113936",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35504,7 +35504,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Azuma.png/revision/latest?cb=20130511182949",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35516,7 +35516,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Zodiacs_player_3.png/revision/latest?cb=20120610001910",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35528,7 +35528,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Watatsumi.png/revision/latest?cb=20190731125312",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35540,7 +35540,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/66/Isagawa.png/revision/latest?cb=20170706091800",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35552,7 +35552,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/Keisei.png/revision/latest?cb=20150602152019",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35564,7 +35564,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/Kusato.png/revision/latest?cb=20160707144650",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35576,7 +35576,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Kuromame.png/revision/latest?cb=20170809082535",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35588,7 +35588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/Hurricanes_player_3.png/revision/latest?cb=20120613183048",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35600,7 +35600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Hana_%28scout_character%29.png/revision/latest?cb=20190731121103",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35612,7 +35612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Chinou.png/revision/latest?cb=20190731113804",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35624,7 +35624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Fuyukamugshot.png/revision/latest?cb=20200529145132",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35636,7 +35636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Zodiacs_player_2.png/revision/latest?cb=20200606165636",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35648,7 +35648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Chii-chan.png/revision/latest?cb=20190731120041",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35660,7 +35660,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1f/Akarin.png/revision/latest?cb=20120622234734",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35672,7 +35672,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/21/12HL_player3.png/revision/latest?cb=20120417031807",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35684,7 +35684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Souda.png/revision/latest?cb=20190710204214",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35696,7 +35696,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cb/Hariyama.png/revision/latest?cb=20190731113808",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35708,7 +35708,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Noroi_%28scout_character%29.png/revision/latest?cb=20190710205124",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35720,7 +35720,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/63/Marume.png/revision/latest?cb=20180518125445",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35732,7 +35732,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3b/Kamonohashi.png/revision/latest?cb=20130903190428",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35744,7 +35744,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4d/Zensui.png/revision/latest?cb=20161226213206",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35756,7 +35756,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Amaho.png/revision/latest?cb=20170619235919",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35768,7 +35768,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Namazu.png/revision/latest?cb=20160919150852",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35780,7 +35780,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/Turban.png/revision/latest?cb=20180523081338",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35792,7 +35792,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Jiyuu.png/revision/latest?cb=20190731113817",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35804,7 +35804,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Fuki.png/revision/latest?cb=20170902090939",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35816,7 +35816,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/The_Card_player_3.png/revision/latest?cb=20120612213909",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35828,7 +35828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Makibishi.png/revision/latest?cb=20151109002941",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35840,7 +35840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Chousen.png/revision/latest?cb=20161226213207",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35852,7 +35852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/61/Saiban.png/revision/latest?cb=20180922094739",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35864,7 +35864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Lantern.png/revision/latest?cb=20151119014008",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35876,7 +35876,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Marussia.png/revision/latest?cb=20120707233508",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35888,7 +35888,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/Midorimage.png/revision/latest?cb=20180526153401",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35900,7 +35900,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/56/Kangaroo.png/revision/latest?cb=20120623083539",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35912,7 +35912,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Top.png/revision/latest?cb=20130511164733",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35924,7 +35924,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Shitou.png/revision/latest?cb=20180526083645",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35936,7 +35936,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Open.png/revision/latest?cb=20180922093905",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35948,7 +35948,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Kunai.png/revision/latest?cb=20190731122455",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35960,7 +35960,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Akazukin.png/revision/latest?cb=20120622234356",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35972,7 +35972,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Rucha.png/revision/latest?cb=20160920074123",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35984,7 +35984,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c8/Shirei.png/revision/latest?cb=20190731114047",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -35996,7 +35996,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Nabeman.png/revision/latest?cb=20190731123032",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36008,7 +36008,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/52/Gokuki.png/revision/latest?cb=20190731120814",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36020,7 +36020,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Matorin.png/revision/latest?cb=20130417145634",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36032,7 +36032,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Niiya.png/revision/latest?cb=20190731123259",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36044,7 +36044,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Asari.png/revision/latest?cb=20190731115826",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36056,7 +36056,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Karasaki.png/revision/latest?cb=20190731113822",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36068,7 +36068,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/Kiki.png/revision/latest?cb=20120623083540",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36080,7 +36080,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Motocross.png/revision/latest?cb=20151108204530",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36092,7 +36092,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Anazawa.png/revision/latest?cb=20180926074511",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36104,7 +36104,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Zousen.png/revision/latest?cb=20180523081446",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36116,7 +36116,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Pants.png/revision/latest?cb=20120416172505",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36125,10 +36125,10 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Pichichi.png/revision/latest?cb=20160911092342",
+        "Sprite": "./images/players/scouts/ie3/Pichichi.png",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36140,7 +36140,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2e/Hurricanes_player_4.png/revision/latest?cb=20120613183312",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36152,7 +36152,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9c/Sano.png/revision/latest?cb=20180526155558",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36164,7 +36164,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Tado.png/revision/latest?cb=20160201133526",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36176,7 +36176,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Thief.png/revision/latest?cb=20190731125058",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36188,7 +36188,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Cauca.png/revision/latest?cb=20180519081201",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36200,7 +36200,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Douki.png/revision/latest?cb=20190731120209",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36212,7 +36212,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Nyaa.png/revision/latest?cb=20131104213017",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36224,7 +36224,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Saaya.png/revision/latest?cb=20120623155906",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36236,7 +36236,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Amahisa.png/revision/latest?cb=20151206014440",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36248,7 +36248,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Kounomiya.png/revision/latest?cb=20190731122447",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36260,7 +36260,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Kibitsu.png/revision/latest?cb=20160919150620",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36272,7 +36272,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Chopper.png/revision/latest?cb=20181014084149",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36284,7 +36284,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Sagojou.png/revision/latest?cb=20151110201610",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36296,7 +36296,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Wakasa.png/revision/latest?cb=20190710204605",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36308,7 +36308,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Semai.png/revision/latest?cb=20170706091803",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36320,7 +36320,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Mage.png/revision/latest?cb=20190731122749",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36332,7 +36332,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7c/Nagara.png/revision/latest?cb=20170831113550",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36344,7 +36344,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Ishidoko.png/revision/latest?cb=20190710204410",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36356,7 +36356,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Ichihata.png/revision/latest?cb=20190731121440",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36368,7 +36368,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Tomahawk.png/revision/latest?cb=20190731114052",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36380,7 +36380,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Martha.png/revision/latest?cb=20130203052354",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36392,7 +36392,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/56/Sasa.png/revision/latest?cb=20190731124128",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36404,7 +36404,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Firen.png/revision/latest?cb=20190731120746",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36416,7 +36416,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Inbe.png/revision/latest?cb=20170706091759",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36428,7 +36428,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Kazama1.png/revision/latest?cb=20120418180704",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36440,7 +36440,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Sousa.png/revision/latest?cb=20160912153116",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36452,7 +36452,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/The_Card_player_2.png/revision/latest?cb=20120612215554",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36464,7 +36464,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bb/Ikumi.png/revision/latest?cb=20120623000246",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36476,7 +36476,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d1/Sasabue.png/revision/latest?cb=20170614090152",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36488,7 +36488,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Butouka.png/revision/latest?cb=20190731115838",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36500,7 +36500,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Hakkai.png/revision/latest?cb=20190731121059",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36512,7 +36512,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c7/Fukuroguma.png/revision/latest?cb=20131003223655",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36524,7 +36524,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Aburada.png/revision/latest?cb=20180519081338",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36536,7 +36536,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Rongu.png/revision/latest?cb=20190731124109",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36548,7 +36548,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Ideishi.png/revision/latest?cb=20190731121444",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36560,7 +36560,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/de/Iwato.png/revision/latest?cb=20180922195525",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36572,7 +36572,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Hurricanes_player_5.png/revision/latest?cb=20120613183531",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36584,7 +36584,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Zodiacs_player_7.png/revision/latest?cb=20120610002736",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36596,7 +36596,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Milk.png/revision/latest?cb=20120707233945",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36608,7 +36608,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Chiasa.png/revision/latest?cb=20190708121105",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36620,7 +36620,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3f/The_Card_player_5.png/revision/latest?cb=20120612220158",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36632,7 +36632,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Shoes.png/revision/latest?cb=20170816114106",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36644,7 +36644,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d8/Umaji.png/revision/latest?cb=20160705180905",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36656,7 +36656,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Tousou.png/revision/latest?cb=20190731114052",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36668,7 +36668,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Tulle.png/revision/latest?cb=20130511170216",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36680,7 +36680,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/40/Shiwa.png/revision/latest?cb=20160425130123",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36692,7 +36692,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Iki.png/revision/latest?cb=20190731121453",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36704,7 +36704,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/27/12HL_player5.png/revision/latest?cb=20120417031904",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36716,7 +36716,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Kawawa.png/revision/latest?cb=20180926073802",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36728,7 +36728,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/The_Card_player_7.png/revision/latest?cb=20120612210251",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36740,7 +36740,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/Hurricanes_player_16.png/revision/latest?cb=20120613192203",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36752,7 +36752,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/Taikyuu.png/revision/latest?cb=20190731124820",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36764,7 +36764,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Hurricanes_player_7_sprite.png/revision/latest?cb=20120613183945",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36776,7 +36776,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d8/Ushimado.png/revision/latest?cb=20170620000035",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36788,7 +36788,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/40/Iwanari.png/revision/latest?cb=20170706091802",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36800,7 +36800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Shiramine.png/revision/latest?cb=20190731124345",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36812,7 +36812,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Zodiacs_player_5.png/revision/latest?cb=20120610002337",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36824,7 +36824,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/88/Lonely.png/revision/latest?cb=20190710204132",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36836,7 +36836,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/The_Card_player_6.png/revision/latest?cb=20120612214818",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36848,7 +36848,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3d/Kaginawa.png/revision/latest?cb=20180922094238",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36860,7 +36860,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0a/Met.png/revision/latest?cb=20181014084454",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36872,7 +36872,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Koshiga.png/revision/latest?cb=20181014084340",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36884,7 +36884,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6a/Neck.png/revision/latest?cb=20180526082806",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36896,7 +36896,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Zodiacs_player_4.png/revision/latest?cb=20120610002106",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36908,7 +36908,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d3/Heitai.png/revision/latest?cb=20190731113813",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36920,7 +36920,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Kazuto_Japan_B_shot.png/revision/latest?cb=20120107082525",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36932,7 +36932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Coffee.png/revision/latest?cb=20190731120055",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36944,7 +36944,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Fuuji.png/revision/latest?cb=20190731120810",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36956,7 +36956,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f1/Seigi.png/revision/latest?cb=20160920074906",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36968,7 +36968,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/52/Nagewa.png/revision/latest?cb=20190710204030",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36980,7 +36980,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Zodiacs_player_6.png/revision/latest?cb=20120610002533",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -36992,7 +36992,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Ako.png/revision/latest?cb=20120622235216",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37004,7 +37004,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Sagara.png/revision/latest?cb=20160919161806",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37016,7 +37016,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Maa.png/revision/latest?cb=20130515202924",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37028,7 +37028,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Hurricanes_player_9.png/revision/latest?cb=20120613190228",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37040,7 +37040,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Sukematsu.png/revision/latest?cb=20190731114049",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37052,7 +37052,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Milan.png/revision/latest?cb=20190710203011",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37064,7 +37064,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fe/Kasai.png/revision/latest?cb=20190731113823",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37076,7 +37076,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Koumei.png/revision/latest?cb=20151108204501",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37088,7 +37088,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8a/Hikun.png/revision/latest?cb=20181014084237",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37100,7 +37100,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Rindou.png/revision/latest?cb=20151119005423",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37112,7 +37112,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/72/Shimoma.png/revision/latest?cb=20170212154632",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37124,7 +37124,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/78/Palm.png/revision/latest?cb=20190731113935",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37136,7 +37136,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Hitoyanagi.png/revision/latest?cb=20190710204026",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37148,7 +37148,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Tobihiro.png/revision/latest?cb=20190731125106",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37160,7 +37160,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/Ootami.png/revision/latest?cb=20151117130325",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37172,7 +37172,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Porute.png/revision/latest?cb=20130511170215",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37184,7 +37184,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0e/Ube.png/revision/latest?cb=20170619235921",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37196,7 +37196,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/05/Pauwau.png/revision/latest?cb=20170128132157",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37208,7 +37208,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/07/Rally.png/revision/latest?cb=20190731124048",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37220,7 +37220,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4d/Nakame_Shiori.png/revision/latest?cb=20120616215140",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37232,7 +37232,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Rishako.png/revision/latest?cb=20190731124105",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37244,7 +37244,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Ryuu.png/revision/latest?cb=20151118120127",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37256,7 +37256,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Sazare.png/revision/latest?cb=20190731124135",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37268,7 +37268,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/The_Card_player_4.png/revision/latest?cb=20120612220736",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37280,7 +37280,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/The_Card_player_10.png/revision/latest?cb=20120612211003",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37292,7 +37292,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3f/Hurricanes_player_6.png/revision/latest?cb=20120613183747",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37304,7 +37304,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3a/Iso.png/revision/latest?cb=20151116200158",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37316,7 +37316,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Poteto.png/revision/latest?cb=20160608144810",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37328,7 +37328,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Yuirii.png/revision/latest?cb=20190731125603",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37340,7 +37340,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Kurushima.png/revision/latest?cb=20190731113929",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37352,7 +37352,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e4/Toki.png/revision/latest?cb=20171116040213",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37364,7 +37364,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Tajin.png/revision/latest?cb=20190731114050",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37376,7 +37376,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bd/Kate.png/revision/latest?cb=20130622222500",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37388,7 +37388,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/Yaito.png/revision/latest?cb=20190731114053",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37400,7 +37400,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/de/Kuromajo.png/revision/latest?cb=20120623085559",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37412,7 +37412,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ef/Yura.png/revision/latest?cb=20130521095306",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37424,7 +37424,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Kunika.png/revision/latest?cb=20120623085558",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37436,7 +37436,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0e/Ishitsukuri.png/revision/latest?cb=20190731121516",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37448,7 +37448,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Yuusha.png/revision/latest?cb=20130417143443",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37460,7 +37460,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bd/Aosori.png/revision/latest?cb=20180526081426",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37472,7 +37472,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Mummy.png/revision/latest?cb=20131103015305",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37484,7 +37484,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/33/Manase.png/revision/latest?cb=20190731113929",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37496,7 +37496,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b3/Ouki.png/revision/latest?cb=20190731123502",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37508,7 +37508,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Kairiki.png/revision/latest?cb=20180925141138",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37520,7 +37520,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Abaya.png/revision/latest?cb=20120622235734",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37532,7 +37532,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Murou.png/revision/latest?cb=20190731113932",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37544,7 +37544,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Ankokuji.png/revision/latest?cb=20180518125031",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37556,7 +37556,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Hurricanes_player_13.png/revision/latest?cb=20200606184705",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37568,7 +37568,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Opera.png/revision/latest?cb=20120623003355",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37580,7 +37580,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Suzuna.png/revision/latest?cb=20120624074434",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37592,7 +37592,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Isa.png/revision/latest?cb=20181014084308",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37604,7 +37604,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0d/Katatagae.png/revision/latest?cb=20180525105110",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37616,7 +37616,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4b/The_Card_player_9.png/revision/latest?cb=20120612211425",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37628,7 +37628,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Natsuka.png/revision/latest?cb=20160617100742",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37640,7 +37640,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f3/Book.png/revision/latest?cb=20160907094335",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37652,7 +37652,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/61/Canoe.png/revision/latest?cb=20190710204103",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37664,7 +37664,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/Hitodasuke.png/revision/latest?cb=20180518125220",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37676,7 +37676,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Kobana.png/revision/latest?cb=20190715103001",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37688,7 +37688,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Kouriki.png/revision/latest?cb=20161227182359",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37700,7 +37700,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Sasshii.png/revision/latest?cb=20190731124132",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37712,7 +37712,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/90/Parasol.png/revision/latest?cb=20160608172710",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37724,7 +37724,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b5/Inaba.png/revision/latest?cb=20170706091758",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37736,7 +37736,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Hayaboshi.png/revision/latest?cb=20180518134044",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37748,7 +37748,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Kawase.png/revision/latest?cb=20190731122252",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37760,7 +37760,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/ce/Momozome.png/revision/latest?cb=20190731113930",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37772,7 +37772,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5f/Shiogama.png/revision/latest?cb=20160101120349",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37784,7 +37784,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Ishizu.png/revision/latest?cb=20161227182359",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37796,7 +37796,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/Knight.png/revision/latest?cb=20190731122433",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37808,7 +37808,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Tsugaru.png/revision/latest?cb=20130515202741",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37820,7 +37820,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Jouki.png/revision/latest?cb=20190731121532",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37832,7 +37832,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Kotochan.png/revision/latest?cb=20120623155906",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37844,7 +37844,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0d/Gungirl.png/revision/latest?cb=20120623083539",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37856,7 +37856,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Samukawa.png/revision/latest?cb=20180529140450",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37868,7 +37868,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Toukei.png/revision/latest?cb=20161227182400",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37880,7 +37880,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/The_Card_player_8.png/revision/latest?cb=20120612211214",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37892,7 +37892,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Dream.png/revision/latest?cb=20130423103133",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37904,7 +37904,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Rakuda.png/revision/latest?cb=20180519081527",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37916,7 +37916,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/Maihime.png/revision/latest?cb=20190708121520",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37928,7 +37928,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/be/Hatome.png/revision/latest?cb=20190731113810",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37940,7 +37940,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/Jouhou.png/revision/latest?cb=20190731113819",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37952,7 +37952,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Choukun.png/revision/latest?cb=20190731120045",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37964,7 +37964,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Fan.png/revision/latest?cb=20190731120739",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37976,7 +37976,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/Kaoru.png/revision/latest?cb=20120623192601",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -37988,7 +37988,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Hurricanes_player_15.png/revision/latest?cb=20120613191513",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38000,7 +38000,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fe/Shirowashi.png/revision/latest?cb=20190710204649",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38012,7 +38012,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Takami.png/revision/latest?cb=20160907092535",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38024,7 +38024,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/33/Shirayuu.png/revision/latest?cb=20190731124350",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38036,7 +38036,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Heel.png/revision/latest?cb=20160920075712",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38048,7 +38048,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b6/Kakutou.png/revision/latest?cb=20190731122144",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38060,7 +38060,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Hijiri.png/revision/latest?cb=20190731113814",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38072,7 +38072,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/11/Hurricanes_player_14.png/revision/latest?cb=20200529173858",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38084,7 +38084,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Shoukou.png/revision/latest?cb=20160909172311",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38096,7 +38096,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/Satoukibi.png/revision/latest?cb=20190715093751",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38108,7 +38108,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Kafuraa.png/revision/latest?cb=20190731122111",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38120,7 +38120,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Kufu.png/revision/latest?cb=20120702191138",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38132,7 +38132,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/KMC.png/revision/latest?cb=20120318181913",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38144,7 +38144,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/Iko.png/revision/latest?cb=20120623000246",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38156,7 +38156,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Andon.png/revision/latest?cb=20160604194255",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38168,7 +38168,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Tenki.png/revision/latest?cb=20151110000545",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38180,7 +38180,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Jakku.png/revision/latest?cb=20160909000440",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38192,7 +38192,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Ashitsu.png/revision/latest?cb=20190710202828",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38204,7 +38204,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8c/Gender.png/revision/latest?cb=20190709110441",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38216,7 +38216,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/61/Koukai.png/revision/latest?cb=20120623100508",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38228,7 +38228,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/Daikaku.png/revision/latest?cb=20190731120156",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38240,7 +38240,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Oogimori.png/revision/latest?cb=20170706102137",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38252,7 +38252,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Zodiacs_player_11.png/revision/latest?cb=20120610003352",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38264,7 +38264,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/da/Shiki.png/revision/latest?cb=20190731124331",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38276,7 +38276,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Shikina.png/revision/latest?cb=20190731114046",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38288,7 +38288,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Menkaura.png/revision/latest?cb=20190731122757",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38300,7 +38300,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e8/Miiya.png/revision/latest?cb=20120707233508",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38312,7 +38312,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/Fez.png/revision/latest?cb=20161226213208",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38324,7 +38324,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9c/Fudouyama.png/revision/latest?cb=20171115151123",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38336,7 +38336,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Hitsuji.png/revision/latest?cb=20190710204552",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38348,7 +38348,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/Rakkasan.png/revision/latest?cb=20190710202834",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38360,7 +38360,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Rinnouji.png/revision/latest?cb=20160709215138",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38372,7 +38372,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Headphone.png/revision/latest?cb=20190731113812",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38384,7 +38384,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Kokoperi.png/revision/latest?cb=20190709111853",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38396,7 +38396,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Bianca.png/revision/latest?cb=20120623170140",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38408,7 +38408,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Ribon.png/revision/latest?cb=20190731113935",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38420,7 +38420,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a9/Rodeo_%28scout_character%29.png/revision/latest?cb=20150602172604",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38432,7 +38432,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fb/Ukita.png/revision/latest?cb=20180518133654",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38444,7 +38444,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Zodiacs_player_8.png/revision/latest?cb=20120610002933",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38456,7 +38456,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Fuuko.png/revision/latest?cb=20190710204217",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38468,7 +38468,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Mahoujin.png/revision/latest?cb=20130209113105",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38480,7 +38480,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/Oishi_IE3.png/revision/latest?cb=20180705200046",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38492,7 +38492,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/63/Kishiki.png/revision/latest?cb=20190731113824",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38504,7 +38504,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/38/12HL_player2.png/revision/latest?cb=20120417031711",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38516,7 +38516,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Speed_Star_9.png/revision/latest?cb=20160624091810",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38528,7 +38528,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ac/Shuriken.png/revision/latest?cb=20160608180646",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38540,7 +38540,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7c/Hurricanes_player_11.png/revision/latest?cb=20120613184336",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38552,7 +38552,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Karen_Juuni_Tennou.png/revision/latest?cb=20120417010709",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38564,7 +38564,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Gal.png/revision/latest?cb=20120623084854",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38576,7 +38576,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Shoukan.png/revision/latest?cb=20190731124357",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38588,7 +38588,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/96/Super.png/revision/latest?cb=20190731124650",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38600,7 +38600,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Azuho.png/revision/latest?cb=20120622235438",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38612,7 +38612,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3d/Zodiacs_player_9.png/revision/latest?cb=20120610003138",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38624,7 +38624,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e1/Irikiin.png/revision/latest?cb=20190731121505",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38636,7 +38636,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0d/Trial.png/revision/latest?cb=20190731125124",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38648,7 +38648,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Keta.png/revision/latest?cb=20151117134127",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38660,7 +38660,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/58/Touring.png/revision/latest?cb=20180523081809",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38672,7 +38672,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Sogou.png/revision/latest?cb=20190731124520",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38684,7 +38684,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Turquoise.png/revision/latest?cb=20190710202848",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38696,7 +38696,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Sayama.png/revision/latest?cb=20190731114045",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38708,7 +38708,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Imizu.png/revision/latest?cb=20130622221936",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38720,7 +38720,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/41/Virgo.png/revision/latest?cb=20120623001013",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38732,7 +38732,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiho.png/revision/latest?cb=20180526155641",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38744,7 +38744,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/Maiko.png/revision/latest?cb=20160919150637",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38756,7 +38756,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/af/Miai.png/revision/latest?cb=20120707233508",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38768,7 +38768,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Ousei.png/revision/latest?cb=20151117125609",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38780,7 +38780,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Soukun.png/revision/latest?cb=20190731114048",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38792,7 +38792,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Kaizu.png/revision/latest?cb=20190731122134",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38804,7 +38804,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a2/Hurricanes_player_10.png/revision/latest?cb=20120613184135",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38816,7 +38816,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Shijin.png/revision/latest?cb=20170324201119",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38828,7 +38828,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Sarukun.png/revision/latest?cb=20151117140612",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38840,7 +38840,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Yurina.png/revision/latest?cb=20130515202250",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38852,7 +38852,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Yuuta.png/revision/latest?cb=20130706064249",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {
@@ -38864,7 +38864,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1a/Dino.png/revision/latest?cb=20120623201048",
         "EnglishTeam": "Scouts IE3",
         "JapaneseTeam": "Scouts IE3",
-        "TeamSprite": "./images/scout.png",
+        "TeamSprite": "./images/emblems/scout.png",
         "Game": "Scouts"
     },
     {

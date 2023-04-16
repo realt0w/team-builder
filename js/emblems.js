@@ -1105,7 +1105,7 @@ var emblems = [
         "JapaneseTeam": "O・T・A・K・U"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png",
+        "Sprite": "./images/emblems/ie1/Occult.png",
         "EnglishTeam": "Occult",
         "JapaneseTeam": "Occult"
     },
@@ -2030,7 +2030,7 @@ var emblems = [
         "JapaneseTeam": "White Team"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png",
+        "Sprite": "./images/emblems/ie1/Wild.png",
         "EnglishTeam": "Wild",
         "JapaneseTeam": "Nose"
     },
