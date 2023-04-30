@@ -774,6 +774,12 @@ var teams = [
         "Game": "Orion"
     },
     {
+        "EnglishName": "Perfect Spark",
+        "JapaneseName": "Perfect Spark",
+        "Sprite": "./images/players/orion/perfectspark/Perfect Spark Logo.png",
+        "Game": "Orion"
+    },
+    {
         "EnglishName": "Guardians of Queen",
         "JapaneseName": "Guardians of Queen",
         "Sprite": "./images/emblems/orion/GuardiansofQueen.png",
