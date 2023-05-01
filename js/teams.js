@@ -773,6 +773,12 @@ var teams = [
         "Sprite": "./images/emblems/orion/Inazuma_Japan.png",
         "Game": "Orion"
     },
+{
+        "EnglishName": "Shining Satans",
+        "JapaneseName": "Shining Satans",
+        "Sprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
+        "Game": "Orion"
+    },
     {
         "EnglishName": "Perfect Spark",
         "JapaneseName": "Perfect Spark",
@@ -780,9 +786,21 @@ var teams = [
         "Game": "Orion"
     },
     {
+        "EnglishName": "Ole de Samba",
+        "JapaneseName": "Ole de Samba",
+        "Sprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
+        "Game": "Orion"
+    },
+    {
         "EnglishName": "Guardians of Queen",
         "JapaneseName": "Guardians of Queen",
         "Sprite": "./images/emblems/orion/GuardiansofQueen.png",
+        "Game": "Orion"
+    },
+    {
+        "EnglishName": "Shadow of Orion",
+        "JapaneseName": "Shadow of Orion",
+        "Sprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
     },
     {
