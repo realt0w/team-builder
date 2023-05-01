@@ -389,6 +389,21 @@ var coaches = [
     "JapaneseName": "Sasanami Unmei",
     "Sprite": "./images/coaches/SasanamiUnmei.png"
   },
+    {
+    "EnglishName": "Diabo Los",
+    "JapaneseName": "Diabo Los",
+    "Sprite": "./images/players/orion/shiningsatans/Diabo Los.png"
+  },
+      {
+    "EnglishName": "Livin Drisco",
+    "JapaneseName": "Livin Drisco",
+    "Sprite": "./images/players/orion/perfectspark/Livin Drisco.png"
+  },
+        {
+    "EnglishName": "Leoneilla Camion",
+    "JapaneseName": "Leoneilla Camion",
+    "Sprite": "./images/players/orion/oledesamba/Leoneilla Camion.png"
+  },
   {
     "EnglishName": "Kinben Giordani",
     "JapaneseName": "Kinben Giordani",
