@@ -1174,6 +1174,11 @@ var emblems = [
         "EnglishTeam": "Perfect Cascade",
         "JapaneseTeam": "Perfect Cascade"
     },
+        {
+        "Sprite": "./images/players/orion/perfectspark/Perfect Spark Logo.png",
+        "EnglishTeam": "Perfect Spark",
+        "JapaneseTeam": "Perfect Spark"
+    },
     {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Pierrot_symbol.png",
         "EnglishTeam": "Pierrot Team",
