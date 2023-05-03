@@ -41063,7 +41063,6 @@ var players = [
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
-    },
     {
         "EnglishName": "Ricardo",
         "JapaneseName": "Ricardo",
@@ -41526,7 +41525,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "None",
-        "Sprite": "./images/players/orion/shadowoforion/Batelgeuse.png",
+        "Sprite": "./images/players/orion/shadowoforion/Betelgeuse.png",
         "EnglishTeam": "Shadow of Orion",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
