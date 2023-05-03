@@ -40667,7 +40667,7 @@ var players = [
         "TeamSprite": "./images/emblems/orion/Inazuma_Japan.png",
         "Game": "Orion"
     },
- {
+    {
         "EnglishName": "Pazuzu",
         "JapaneseName": "Pazuzu",
         "Gender": "Male",
@@ -40960,7 +40960,7 @@ var players = [
         "JapaneseName": "Froy",
         "Gender": "Male",
         "Position": "MF",
-        "Element": "None",
+        "Element": "Wind",
         "Sprite": "./images/players/orion/perfectspark/Froy Girikanan.png",
         "EnglishTeam": "Perfect Spark",
         "JapaneseTeam": "Perfect Spark",
@@ -41513,7 +41513,7 @@ var players = [
         "JapaneseName": "Yurika",
         "Gender": "Female",
         "Position": "FW",
-        "Element": "None",
+        "Element": "Wood",
         "Sprite": "./images/players/orion/shadowoforion/Yurika Beor.png",
         "EnglishTeam": "Shadow of Orion",
         "JapaneseTeam": "Shadow of Orion",
