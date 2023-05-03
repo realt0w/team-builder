@@ -38880,7 +38880,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Ganymede",
+        "EnglishName": "Grant",
         "JapaneseName": "Kanime",
         "Gender": "Male",
         "Position": "DF",
@@ -38892,7 +38892,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Clear",
+        "EnglishName": "Claire",
         "JapaneseName": "Kurakake",
         "Gender": "Female",
         "Position": "DF",
@@ -38904,7 +38904,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Baller",
+        "EnglishName": "Bonnie",
         "JapaneseName": "Barazono",
         "Gender": "Female",
         "Position": "DF",
@@ -38916,7 +38916,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Janus",
+        "EnglishName": "Jordan",
         "JapaneseName": "Midorikawa",
         "Gender": "Male",
         "Position": "MF",
@@ -38928,7 +38928,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Bomber",
+        "EnglishName": "Blowton",
         "JapaneseName": "Honba",
         "Gender": "Male",
         "Position": "MF",
@@ -38940,7 +38940,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Bellatrix",
+        "EnglishName": "Isabelle",
         "JapaneseName": "Yagami",
         "Gender": "Female",
         "Position": "MF",
@@ -38952,7 +38952,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Neppten",
+        "EnglishName": "Nigel",
         "JapaneseName": "Netsuha",
         "Gender": "Male",
         "Position": "MF",
@@ -38964,7 +38964,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Torch",
+        "EnglishName": "Claude",
         "JapaneseName": "Nagumo",
         "Gender": "Male",
         "Position": "FW",
@@ -38976,7 +38976,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Gazelle",
+        "EnglishName": "Bryce",
         "JapaneseName": "Suzuno",
         "Gender": "Male",
         "Position": "FW",
@@ -38988,7 +38988,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Xene",
+        "EnglishName": "Hunter",
         "JapaneseName": "Kiyama",
         "Gender": "Male",
         "Position": "FW",
@@ -39012,7 +39012,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Metron",
+        "EnglishName": "Metcalf",
         "JapaneseName": "Mutou",
         "Gender": "Male",
         "Position": "MF",
@@ -39024,7 +39024,7 @@ var players = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Zell",
+        "EnglishName": "Zeke",
         "JapaneseName": "Segata",
         "Gender": "Male",
         "Position": "FW",
@@ -40620,6 +40620,18 @@ var players = [
         "Game": "Ares"
     },
     {
+        "EnglishName": "Silvia",
+        "JapaneseName": "Aki",
+        "Gender": "Female",
+        "Position": "GK",
+        "Element": "Earth",
+        "Sprite": "./images/players/ares/lambda/Arès_Lambda_Silvia Woods.png",
+        "EnglishTeam": "Everytown",
+        "JapaneseTeam": "Tonegawa Tousen",
+        "TeamSprite": "./images/players/ares/lambda/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
         "EnglishName": "Fischer",
         "JapaneseName": "Norika",
         "Gender": "Female",
@@ -41046,8 +41058,8 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Macero.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41058,8 +41070,8 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Ricardo.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41070,8 +41082,8 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Matheus.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41082,8 +41094,8 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Marcelo.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41094,8 +41106,8 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Lucian.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41106,8 +41118,8 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Renato.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41118,8 +41130,8 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Daninho.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41130,8 +41142,8 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Rolan.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41142,8 +41154,8 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Samuel.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41154,8 +41166,8 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Arthur.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41166,8 +41178,8 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Miguel.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41178,8 +41190,8 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Raymond.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
@@ -41190,8 +41202,8 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/oledesamba/Paulo.png",
-        "EnglishTeam": "Ole De Samba",
-        "JapaneseTeam": "Ole De Samba",
+        "EnglishTeam": "Olé de Samba",
+        "JapaneseTeam": "Olé de Samba",
         "TeamSprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
