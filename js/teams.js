@@ -786,8 +786,8 @@ var teams = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Ole de Samba",
-        "JapaneseName": "Ole de Samba",
+        "EnglishName": "Ole De Samba",
+        "JapaneseName": "Ole De Samba",
         "Sprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
         "Game": "Orion"
     },
