@@ -696,18 +696,6 @@ var teams = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Alia Academy",
-        "JapaneseName": "Eisei Gakuen",
-        "Sprite": "./images/players/ares/alia/Ecusson.png",
-        "Game": "Ares"
-    },
-    {
-        "EnglishName": "Alpine",
-        "JapaneseName": "Hakuren",
-        "Sprite": "./images/players/ares/alpin/Ecusson.png",
-        "Game": "Ares"
-    },
-    {
         "EnglishName": "Raimon",
         "JapaneseName": "Raimon",
         "Sprite": "./images/players/ares/raimon/Ecusson2.png",
@@ -720,27 +708,9 @@ var teams = [
         "Game": "Ares"
     },
     {
-        "EnglishName": "Lunar Prime Academy",
-        "JapaneseName": "Ōtei Tsukinomiya",
-        "Sprite": "./images/players/ares/selene/Ecusson.png",
-        "Game": "Ares"
-    },
-    {
         "EnglishName": "Rampart",
         "JapaneseName": "Minodouzan",
         "Sprite": "./images/players/ares/bastion/Ecusson.png",
-        "Game": "Ares"
-    },
-    {
-        "EnglishName": "Polestar Academy",
-        "JapaneseName": "Seishou Gakuen",
-        "Sprite": "./images/players/ares/polaris/Ecusson.png",
-        "Game": "Ares"
-    },
-    {
-        "EnglishName": "Anima Sana",
-        "JapaneseName": "Mikage Sennou",
-        "Sprite": "./images/players/ares/animasana/Ecusson.png",
         "Game": "Ares"
     },
     {
@@ -750,9 +720,21 @@ var teams = [
         "Game": "Ares"
     },
     {
+        "EnglishName": "Anima Sana",
+        "JapaneseName": "Mikage Sennou",
+        "Sprite": "./images/players/ares/animasana/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
         "EnglishName": "Royal Academy",
         "JapaneseName": "Teikoku Gakuen",
         "Sprite": "./images/players/ares/royalacademy/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Polestar Academy",
+        "JapaneseName": "Seishou Gakuen",
+        "Sprite": "./images/players/ares/polaris/Ecusson.png",
         "Game": "Ares"
     },
     {
@@ -762,9 +744,27 @@ var teams = [
         "Game": "Ares"
     },
     {
+        "EnglishName": "Alpine",
+        "JapaneseName": "Hakuren",
+        "Sprite": "./images/players/ares/alpin/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Alia Academy",
+        "JapaneseName": "Eisei Gakuen",
+        "Sprite": "./images/players/ares/alia/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
         "EnglishName": "Everytown",
         "JapaneseName": "Tonegawa Tousen",
         "Sprite": "./images/players/ares/lambda/Ecusson.png",
+        "Game": "Ares"
+    },
+    {
+        "EnglishName": "Lunar Prime Academy",
+        "JapaneseName": "Ōtei Tsukinomiya",
+        "Sprite": "./images/players/ares/selene/Ecusson.png",
         "Game": "Ares"
     },
     {
@@ -773,10 +773,34 @@ var teams = [
         "Sprite": "./images/emblems/orion/Inazuma_Japan.png",
         "Game": "Orion"
     },
+{
+        "EnglishName": "Shining Satans",
+        "JapaneseName": "Shining Satans",
+        "Sprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
+        "Game": "Orion"
+    },
+    {
+        "EnglishName": "Perfect Spark",
+        "JapaneseName": "Perfect Spark",
+        "Sprite": "./images/players/orion/perfectspark/Perfect Spark Logo.png",
+        "Game": "Orion"
+    },
+    {
+        "EnglishName": "Olé de Samba",
+        "JapaneseName": "Olé de Samba",
+        "Sprite": "./images/players/orion/oledesamba/Ole de Samba Logo.png",
+        "Game": "Orion"
+    },
     {
         "EnglishName": "Guardians of Queen",
         "JapaneseName": "Guardians of Queen",
         "Sprite": "./images/emblems/orion/GuardiansofQueen.png",
+        "Game": "Orion"
+    },
+    {
+        "EnglishName": "Shadow of Orion",
+        "JapaneseName": "Shadow of Orion",
+        "Sprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
     },
     {
