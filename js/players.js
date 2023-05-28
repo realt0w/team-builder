@@ -14743,8 +14743,8 @@ var players = [
         "Element": "Earth",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/Gazen_Norimaru_avatar.png/revision/latest?cb=20170805094222",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14755,8 +14755,8 @@ var players = [
         "Element": "Fire",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Kitagami_Soukichi_sprite.png/revision/latest?cb=20190621114955",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14767,8 +14767,8 @@ var players = [
         "Element": "Earth",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8d/Ashiguro_Houichirou.png/revision/latest?cb=20170430141902",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14779,8 +14779,8 @@ var players = [
         "Element": "Fire",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Yabe_Hanbe_sprite.png/revision/latest?cb=20171204134756",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14791,8 +14791,8 @@ var players = [
         "Element": "Earth",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ab/Kanou_Ikkatsu_sprite.png/revision/latest?cb=20190621114955",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14803,8 +14803,8 @@ var players = [
         "Element": "Wind",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Asama_Denbei_sprite.png/revision/latest?cb=20190621114952",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14815,8 +14815,8 @@ var players = [
         "Element": "Wood",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Santetsu_Ginji_sprite.png/revision/latest?cb=20190621114957",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14827,8 +14827,8 @@ var players = [
         "Element": "Earth",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Ochimura_Denrai_avatar.png/revision/latest?cb=20171116083013",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14839,8 +14839,8 @@ var players = [
         "Element": "Fire",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c0/Kutou_Senji_sprite.png/revision/latest?cb=20190621114956",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14851,8 +14851,8 @@ var players = [
         "Element": "Wood",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/Maebayashi_Kourin_sprite.png/revision/latest?cb=20190621114956",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14863,8 +14863,8 @@ var players = [
         "Element": "Wind",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Inaba_Taian_sprite.png/revision/latest?cb=20190621114954",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14875,8 +14875,8 @@ var players = [
         "Element": "Wood",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bb/Ujiki_Mikimaru.png/revision/latest?cb=20190621114957",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14887,8 +14887,8 @@ var players = [
         "Element": "Fire",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a6/Yomoyama_Doushin.png/revision/latest?cb=20190621114959",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14899,8 +14899,8 @@ var players = [
         "Element": "Wind",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Yazu_Tenkei.png/revision/latest?cb=20190621114958",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14911,8 +14911,8 @@ var players = [
         "Element": "Fire",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e8/Ayabe_Houkurou.png/revision/latest?cb=20190621114953",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
@@ -14923,8 +14923,8 @@ var players = [
         "Element": "Wind",
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/Hayama_Kaburou.png/revision/latest?cb=20190621114953",
         "EnglishTeam": "White Deer",
-        "JapaneseTeam": "Shiroshika",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseTeam": "Shiroshika Gumi",
+        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
