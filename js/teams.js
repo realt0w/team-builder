@@ -559,8 +559,8 @@ var teams = [
     },
     {
         "EnglishName": "White Deer",
-        "JapaneseName": "Shiroshika",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/87/Shiroshika_emblem.png/revision/latest?cb=20171126230148",
+        "JapaneseName": "Shiroshika Gumi",
+        "Sprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
         "Game": "GO2"
     },
     {
