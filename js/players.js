@@ -797,7 +797,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "./images/players/ie1/Otaku/Robo
+        "Sprite": "./images/players/ie1/Otaku/Robo.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
