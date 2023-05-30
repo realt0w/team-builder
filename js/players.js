@@ -14729,7 +14729,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "./images/players/go/Raimon GO/Zanark MM.png",
+        "Sprite": "./images/players/go/Raimon GO/Zanark MM Super.png",
         "EnglishTeam": "Chrono Storm",
         "JapaneseTeam": "Chrono Storm",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Chrono_Storm_emblem.png/revision/latest?cb=20171126225651",
