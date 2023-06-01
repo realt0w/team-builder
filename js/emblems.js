@@ -850,6 +850,11 @@ var emblems = [
         "JapaneseTeam": "Sekai Daihyou"
     },
     {
+        "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
+        "EnglishTeam": "Invincible Giant",
+        "JapaneseTeam": "Muteki no Giant"
+    },
+    {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba"
