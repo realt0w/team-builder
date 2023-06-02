@@ -780,6 +780,12 @@ var teams = [
         "Game": "Orion"
     },
 {
+        "EnglishName": "Soccer Acrobatic Troupe",
+        "JapaneseName": "Soccer Zatsugidan",
+        "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
+        "Game": "Orion"
+    },
+{
         "EnglishName": "Invincible Giant",
         "JapaneseName": "Muteki no Giant",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
