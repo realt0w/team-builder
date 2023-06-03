@@ -115,11 +115,6 @@ var emblems = [
         "JapaneseTeam": "Tenkuu no Shito"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Phoenix_Army_of_Arab_emblem.png",
-        "EnglishTeam": "Arab no Hinotori Gundan",
-        "JapaneseTeam": "Arab no Hinotori Gundan"
-    },
-    {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Ixal_Fleet_Emblem.png",
         "EnglishTeam": "Armada Ixar",
         "JapaneseTeam": "Ixal Fleet"
@@ -450,7 +445,7 @@ var emblems = [
         "JapaneseTeam": "Epsilon Remastered"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/Eternal_Dancers_emblem.png",
+        "Sprite": "./images/players/orion/EternalDancers/Eternal_Dancers_emblem.png",
         "EnglishTeam": "Eternal Dancers",
         "JapaneseTeam": "Eternal Dancers"
     },
@@ -850,6 +845,11 @@ var emblems = [
         "JapaneseTeam": "Sekai Daihyou"
     },
     {
+        "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
+        "EnglishTeam": "Invincible Giant",
+        "JapaneseTeam": "Muteki no Giant"
+    },
+    {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba"
@@ -1180,6 +1180,11 @@ var emblems = [
         "JapaneseTeam": "Perfect Spark"
     },
     {
+        "Sprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
+        "EnglishTeam": "Phoenix Army of Arab",
+        "JapaneseTeam": "Arab no Hinotori Gundan"
+    },
+    {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Pierrot_symbol.png",
         "EnglishTeam": "Pierrot Team",
         "JapaneseTeam": "Pierrot Team"
@@ -1295,7 +1300,7 @@ var emblems = [
         "JapaneseTeam": "Real Aliea"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/10/Red_Bison_Emblem.png",
+        "Sprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "EnglishTeam": "Red Bison",
         "JapaneseTeam": "Red Bison"
     },
@@ -1440,8 +1445,8 @@ var emblems = [
         "JapaneseTeam": "Smiley Cosmos"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Soccer_Acrobatic_Troupe_emblem.png",
-        "EnglishTeam": "Soccer Zatsugidan",
+        "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
+        "EnglishTeam": "Soccer Acrobatic Troupe",
         "JapaneseTeam": "Soccer Zatsugidan"
     },
     {
@@ -1495,7 +1500,7 @@ var emblems = [
         "JapaneseTeam": "Star Sisters"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Star_Unicorn_Emblem.png",
+        "Sprite": "./images/players/orion/StarUnicorn/Star_Unicorn_Emblem.png",
         "EnglishTeam": "Star Unicorn",
         "JapaneseTeam": "Star Unicorn"
     },

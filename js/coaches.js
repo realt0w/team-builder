@@ -78,7 +78,12 @@ var coaches = [
     "EnglishName": "Cloister Divinity's coach",
     "JapaneseName": "Manyuuji's coach",
     "Sprite": "https://i.imgur.com/JowymXG.png"
-  },
+    },
+    {
+        "EnglishName": "Sue's mum",
+        "JapaneseName": "Rikamama",
+        "Sprite": "./images/coaches/Rikamama.png"
+    },
   {
     "EnglishName": "Fauxshore's coach",
     "JapaneseName": "Yokato's coach",
@@ -325,6 +330,61 @@ var coaches = [
     "Sprite": "./images/coaches/tile031.png"
   },
   {
+    "EnglishName": "Astero Black",
+    "JapaneseName": "Kuroiwa Ryuusei",
+    "Sprite": "./images/coaches/Kuroiwa.png"
+  },
+    {
+        "EnglishName": "Changsu Choi",
+        "JapaneseName": "Choi Chang-soo",
+        "Sprite": "./images/coaches/Choi.png"
+    },
+    {
+        "EnglishName": "Orlando Sherman",
+        "JapaneseName": "Orlando Sherman",
+        "Sprite": "./images/coaches/Orlando.png"
+    },
+    {
+        "EnglishName": "Murshid Amir",
+        "JapaneseName": "Murshid Amir",
+        "Sprite": "./images/coaches/Murshid.png"
+    },
+    {
+        "EnglishName": "Rasiree Saranyu",
+        "JapaneseName": "Rasiree Saranyu",
+        "Sprite": "./images/coaches/Rasiree.png"
+    },
+    {
+        "EnglishName": "Nikolay Gagarin",
+        "JapaneseName": "Nikolay Gagarin",
+        "Sprite": "./images/coaches/Nikolay.png"
+    },
+    {
+        "EnglishName": "Caleb Stonewall",
+        "JapaneseName": "Fudou Akio",
+        "Sprite": "./images/coaches/Fudou.png"
+    },
+    {
+        "EnglishName": "Zundal Zand",
+        "JapaneseName": "Zundal Zand",
+        "Sprite": "./images/coaches/Zundal.png"
+    },
+    {
+        "EnglishName": "Porco Umil",
+        "JapaneseName": "Porco Umil",
+        "Sprite": "./images/coaches/Porco.png"
+    },
+    {
+        "EnglishName": "Caldera Dawn",
+        "JapaneseName": "Caldera Dawn",
+        "Sprite": "./images/coaches/Caldera.png"
+    },
+    {
+        "EnglishName": "Sect Pheromona",
+        "JapaneseName": "Shimur Pheromona",
+        "Sprite": "./images/coaches/Shimur.png"
+    },
+  {
     "EnglishName": "Mister Yi",
     "JapaneseName": "Zhao Jinyun",
     "Sprite": "./images/players/ares/raimon/Coach_Raimon_MisterYi.png"
@@ -365,11 +425,6 @@ var coaches = [
     "Sprite": "./images/players/ares/alpin/Alpin_Coach_Monsieur_Cottontail.png"
   },
   {
-    "EnglishName": "Zoe Haumea",
-    "JapaneseName": "Zoe Haumea",
-    "Sprite": "./images/players/fan/elements/Zoe_Haumea.png"
-  },
-  {
     "EnglishName": "Aquilina Schiller",
     "JapaneseName": "Kira Hitomiko",
     "Sprite": "./images/players/ares/alia/Coach_Ecole Alia_Lina Schiller.png"
@@ -394,6 +449,16 @@ var coaches = [
     "JapaneseName": "Diabo Los",
     "Sprite": "./images/players/orion/shiningsatans/Diabo Los.png"
   },
+    {
+    "EnglishName": "Xiao Longbao",
+    "JapaneseName": "Xiao Longbao",
+    "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Xiao_Longbao.png"
+  },
+    {
+    "EnglishName": "Pepe Banderas",
+    "JapaneseName": "Pepe Banderas",
+    "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png"
+  },
       {
     "EnglishName": "Livin Drisco",
     "JapaneseName": "Livin Drisco",
@@ -413,5 +478,10 @@ var coaches = [
     "EnglishName": "Vladimir",
     "JapaneseName": "Vladimir",
     "Sprite": "./images/coaches/Vladimir.png"
+  },
+  {
+    "EnglishName": "Zoe Haumea",
+    "JapaneseName": "Zoe Haumea",
+    "Sprite": "./images/players/fan/elements/Zoe_Haumea.png"
   },
 ];
