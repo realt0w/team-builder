@@ -774,9 +774,27 @@ var teams = [
         "Game": "Orion"
     },
 {
+        "EnglishName": "Red Bison",
+        "JapaneseName": "Red Bison",
+        "Sprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
+        "Game": "Orion"
+    },
+{
         "EnglishName": "Shining Satans",
         "JapaneseName": "Shining Satans",
         "Sprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
+        "Game": "Orion"
+    },
+{
+        "EnglishName": "Eternal Dancers",
+        "JapaneseName": "Eternal Dancers",
+        "Sprite": "./images/players/orion/EternalDancers/Eternal_Dancers_emblem.png",
+        "Game": "Orion"
+    },
+{
+        "EnglishName": "Phoenix Army of Arab",
+        "JapaneseName": "Arab no Hinotori Gundan",
+        "Sprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
     },
 {
