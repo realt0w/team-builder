@@ -41177,7 +41177,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "./images/players/orion/StarUnicorn/BillyRapid.png",
+        "Sprite": "./images/players/orion/StarUnicorn/Billy_Rapid.png",
         "EnglishTeam": "Star Unicorn",
         "JapaneseTeam": "Star Unicorn",
         "TeamSprite": "./images/players/orion/StarUnicorn/Star_Unicorn_Emblem.png",
