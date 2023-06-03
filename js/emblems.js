@@ -1445,8 +1445,8 @@ var emblems = [
         "JapaneseTeam": "Smiley Cosmos"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Soccer_Acrobatic_Troupe_emblem.png",
-        "EnglishTeam": "Soccer Zatsugidan",
+        "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
+        "EnglishTeam": "Soccer Acrobatic Troupe",
         "JapaneseTeam": "Soccer Zatsugidan"
     },
     {
@@ -1500,7 +1500,7 @@ var emblems = [
         "JapaneseTeam": "Star Sisters"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Star_Unicorn_Emblem.png",
+        "Sprite": "./images/players/orion/StarUnicorn/Star_Unicorn_Emblem.png",
         "EnglishTeam": "Star Unicorn",
         "JapaneseTeam": "Star Unicorn"
     },
