@@ -791,6 +791,12 @@ var teams = [
         "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
     },
+{
+        "EnglishName": "Star Unicorn",
+        "JapaneseName": "Star Unicorn",
+        "Sprite": "./images/players/orion/StarUnicorn/Star_Unicorn_Emblem.png",
+        "Game": "Orion"
+    },
     {
         "EnglishName": "Perfect Spark",
         "JapaneseName": "Perfect Spark",
