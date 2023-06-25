@@ -12689,7 +12689,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/a1/Fei_CS_Raimon_Mugshot.png/revision/latest?cb=20230211165616",
+        "Sprite": "./images/players/go/Raimon GO/Fei_Rune.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
         "TeamSprite": "./images/Raimon_GO.png",
