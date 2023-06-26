@@ -4295,6 +4295,7 @@ var players = [
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
         "Game": "IE2"
     },
+    {
         "EnglishName": "King²",
         "JapaneseName": "Genou²",
         "Gender": "Male",
