@@ -449,6 +449,16 @@ var coaches = [
     "JapaneseName": "Diabo Los",
     "Sprite": "./images/players/orion/shiningsatans/Diabo Los.png"
   },
+    {
+    "EnglishName": "Xiao Longbao",
+    "JapaneseName": "Xiao Longbao",
+    "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Xiao_Longbao.png"
+  },
+    {
+    "EnglishName": "Pepe Banderas",
+    "JapaneseName": "Pepe Banderas",
+    "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png"
+  },
       {
     "EnglishName": "Livin Drisco",
     "JapaneseName": "Livin Drisco",
