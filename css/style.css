@@ -1647,7 +1647,7 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
     position: absolute;
     bottom: 16px;
     right: 20px;
-    background-image: url("/team-builder/images/player-name-background.png");
+    background-image: url("/images/player-name-background.png");
     background-size: cover;
     color: white;
     padding: 0px 5px;
@@ -1691,7 +1691,7 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
 
 .player-info-container, .sub-info-container {
     position: absolute;
-    background-image: url('/team-builder/images/player-name-background.png');
+    background-image: url('../images/player-name-background.png');
     background-size: cover;
     width: 173px;
     height: 28px;
@@ -2194,7 +2194,7 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
     #watermark {
         bottom: 7px;
         right: 10px;
-        background-image: url("/team-builder/images/player-name-background.png");
+        background-image: url("/images/player-name-background.png");
         background-size: cover;
         color: white;
         padding: 0px 5px;
