@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de confidentialité - Inazuma Eleven Team Builder</title>
+    <link rel="stylesheet" href="./css/privacy.css">
+</head>
+<body>
+    <header>
+        <h1>Politique de confidentialité</h1>
+        <p>Dernière mise à jour : 17/08/2023</p>
+        <div class="language-dropdown">
+            <label for="language">Sélectionner la langue :</label>
+            <select id="language">
+                <option value="fr">Français</option>
+                <option value="en">English</option>
+                <option value="es">Español</option>
+            </select>
+        </div>
+    </header>
+    <section class="content">
+        <h2>Introduction</h2>
+        <p>Own Studio a créé l'application Inazuma Eleven Team Builder en tant qu'outil. Ce SERVICE est fourni par Own Studio sans frais et est destiné à être utilisé tel quel.</br></br>Cette page est utilisée pour informer les visiteurs de nos politiques en matière de collecte, d'utilisation et de divulgation des informations personnelles si quelqu'un décide d'utiliser notre service.</br></br>Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation des informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec quiconque, sauf tel que décrit dans cette politique de confidentialité.</p>
+        <!-- Ajouter d'autres sections au besoin -->
+    </section>
+    <section class="content">
+        <h2>Collecte et utilisation des informations</h2>
+        <p>Pour une meilleure expérience, nous ne collectons ni n'utilisons de données.</br></br>L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.</p>
+        <!-- Ajouter d'autres sections au besoin -->
+    </section>
+    <section class="content">
+        <h2>Lien vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'application</h2>
+        <p>
+            <li><a target="_blank" href="https://policies.google.com/privacy">Services Play</a></li>
+            <li><a target="_blank" href="https://firebase.google.com/policies/analytics">Google Analytics pour Firebase</a></li>
+        </p>
+        <!-- Ajouter d'autres sections au besoin -->
+    </section>
+    <footer>
+        <p>&copy; 2023 Own Studio. Tous droits réservés.</p>
+        <a class="home-button" href="./index.html">Retour à l'accueil</a>
+    </footer>
+    <script>
+        const languageDropdown = document.getElementById('language');
+    
+        languageDropdown.addEventListener('change', function() {
+            const selectedLanguage = this.value;
+            
+            // Remplacez les URL par des URL spécifiques à chaque langue
+            const languageUrls = {
+                en: './privacy-policy.html',
+                fr: './privacy-policy-fr.html', // Remplacez par votre URL de politique de confidentialité en français
+                es: './privacy-policy-es.html'  // Remplacez par votre URL de politique de confidentialité en néerlandais
+            };
+    
+            window.location.href = languageUrls[selectedLanguage];
+        });
+    </script>    
+</body>
+</html>
