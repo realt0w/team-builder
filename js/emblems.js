@@ -790,7 +790,7 @@ var emblems = [
         "JapaneseTeam": "Inazuma Best Eleven"
     },
     {
-        "Sprite": "./images/emblems/ie1/Inazuma_Eleven.png,
+        "Sprite": "./images/emblems/ie1/Inazuma_Eleven.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven"
     },
