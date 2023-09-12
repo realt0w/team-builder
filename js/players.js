@@ -5933,7 +5933,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "./images/players/ie3/Fire Dragon/Ko Sung-hwan sprite.png",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Ko Sung-hwan sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
