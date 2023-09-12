@@ -2,7 +2,7 @@ var teams = [
     {
         "EnglishName": "Raimon",
         "JapaneseName": "Raimon",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Raimon_emblem_new.png/revision/latest?cb=20171115062613",
+        "Sprite": "./images/emblems/ie1/Raimon.png",
         "Game": "IE1"
     },
     {
@@ -26,13 +26,13 @@ var teams = [
     {
         "EnglishName": "Otaku",
         "JapaneseName": "Shuuyou Meito",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png/revision/latest?cb=20200515175311",
+        "Sprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
         "EnglishName": "Royal Academy",
         "JapaneseName": "Teikoku Gakuen",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "Sprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -44,7 +44,7 @@ var teams = [
     {
         "EnglishName": "Farm",
         "JapaneseName": "Senbayama",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png/revision/latest?cb=20200515175728",
+        "Sprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -56,25 +56,25 @@ var teams = [
     {
         "EnglishName": "Zeus",
         "JapaneseName": "Zeus",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "Sprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
         "EnglishName": "Inazuma Eleven",
         "JapaneseName": "Inazuma Eleven",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png/revision/latest?cb=20200515174751",
+        "Sprite": "./images/emblems/ie1/Inazuma_Eleven.png",
         "Game": "IE1"
     },
     {
         "EnglishName": "Street Sally's",
         "JapaneseName": "Ichibangai",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png/revision/latest?cb=20200515180319",
+        "Sprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
         "EnglishName": "Inazuma Kids FC",
         "JapaneseName": "Inazuma KFC",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png/revision/latest?cb=20200515180441",
+        "Sprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -128,7 +128,7 @@ var teams = [
     {
         "EnglishName": "Super Triple C",
         "JapaneseName": "Osaka Gals CCC",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "Sprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -158,19 +158,19 @@ var teams = [
     {
         "EnglishName": "Epsilon Prime",
         "JapaneseName": "Epsilon Kai",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "Sprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
         "EnglishName": "Royal Academy Redux",
         "JapaneseName": "Shin Teikoku Gakuen",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "Sprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
         "EnglishName": "Prominence",
         "JapaneseName": "Prominence",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "Sprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -188,19 +188,19 @@ var teams = [
     {
         "EnglishName": "Dark Emperors",
         "JapaneseName": "Dark Emperors",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "Sprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
         "EnglishName": "Robot Guards",
         "JapaneseName": "Keibi Machines",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "Sprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
         "EnglishName": "Forest Team",
         "JapaneseName": "Jukai Team",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "Sprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -218,13 +218,13 @@ var teams = [
     {
         "EnglishName": "Inazuma National",
         "JapaneseName": "Inazuma Japan",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+        "Sprite": "./images/emblems/ie3/Inazuma_Japan.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Neo National",
         "JapaneseName": "Neo Japan",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/Neo_Japan_Emblem.png",
+        "Sprite": "./images/emblems/ie3/Neo_Japan_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -266,37 +266,37 @@ var teams = [
     {
         "EnglishName": "Unicorns",
         "JapaneseName": "Unicorn",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "Sprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Orpheus",
         "JapaneseName": "Orpheus",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "Sprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "The Kingdom",
         "JapaneseName": "The Kingdom",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "Sprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Team Zoolan",
         "JapaneseName": "Team Garshield",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "Sprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Little Gigantes",
         "JapaneseName": "Little Gigant",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "Sprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Rose Griffons",
         "JapaneseName": "Rose Griffon",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Rose_Griffon_symbol.png",
+        "Sprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -308,7 +308,7 @@ var teams = [
     {
         "EnglishName": "Brocken Brigade",
         "JapaneseName": "Brockenborg",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "Sprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -320,7 +320,7 @@ var teams = [
     {
         "EnglishName": "Team Ogre",
         "JapaneseName": "Ogre",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "Sprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -350,7 +350,7 @@ var teams = [
     {
         "EnglishName": "Raimon Reserves",
         "JapaneseName": "Raimon 2gun",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "Sprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -410,7 +410,7 @@ var teams = [
     {
         "EnglishName": "Mirage Academy",
         "JapaneseName": "Genei Gakuen",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "Sprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
