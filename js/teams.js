@@ -296,13 +296,13 @@ var teams = [
     {
         "EnglishName": "Rose Griffons",
         "JapaneseName": "Rose Griffon",
-        "Sprite": "./images/emblems/ie3/Red Matador.png",
+        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Rose_Griffon_symbol.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Red Matador",
         "JapaneseName": "Red Matador",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "Sprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
