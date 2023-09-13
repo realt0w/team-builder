@@ -349,7 +349,7 @@ var players = [
     },
     {
         "EnglishName": "Alien",
-        "JapaneseName": "Tsubaraya",
+        "JapaneseName": "Tsuburaya",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
@@ -764,7 +764,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Idol.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -776,7 +776,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Tetchan.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -788,7 +788,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Cosplay.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -800,7 +800,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Robo.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -812,7 +812,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Hero.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -824,7 +824,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Novel.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -836,7 +836,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Arcade.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -848,7 +848,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Gameki.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -860,7 +860,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Jisakuha.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -872,7 +872,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Mangaka.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -884,7 +884,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Online.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -896,7 +896,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Touma.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -908,7 +908,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Figure.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -920,7 +920,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Seiyuu.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -932,7 +932,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Net.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -944,7 +944,7 @@ var players = [
         "Sprite": "./images/players/ie1/Otaku/Kiuchi.png",
         "EnglishTeam": "Otaku",
         "JapaneseTeam": "Shuuyou Meito",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Otaku.png",
         "Game": "IE1"
     },
     {
@@ -956,7 +956,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Genda_Koujirou.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -968,7 +968,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Oono_Densuke.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -980,7 +980,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Banjou_Kazumichi.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -992,7 +992,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Gojou_Masaru.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1004,7 +1004,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Narukami_Kenya.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1016,7 +1016,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Henmi_Wataru.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1028,7 +1028,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Sakiyama_Shuuji.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1040,7 +1040,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Doumen_Shuuichirou.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1052,7 +1052,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Kidou_Yuuto.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1064,7 +1064,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Jimon Daiki.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1076,7 +1076,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Sakuma_Jirou.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1088,7 +1088,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Hyoudou_Yuuhei.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1100,7 +1100,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Shibuki_Shoudai.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1112,7 +1112,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Ena_Kazuki.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1124,7 +1124,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Mukumoto_Kei.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1136,7 +1136,7 @@ var players = [
         "Sprite": "./images/players/ie1/Teikoku/Ookusu_Seiji.png",
         "EnglishTeam": "Royal Academy",
         "JapaneseTeam": "Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+        "TeamSprite": "./images/emblems/ie1/Teikoku_Gakuen_Emblem.png",
         "Game": "IE1"
     },
     {
@@ -1340,7 +1340,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Ayano Yuuichi.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1352,7 +1352,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Serizawa Kazunori.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1364,7 +1364,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Makiya Hiroshi.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1376,7 +1376,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Shiotani Hiro.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1388,7 +1388,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Sumino Eisuke.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1400,7 +1400,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Oogoi Noboru.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1412,7 +1412,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Yamane You.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1424,7 +1424,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/Ikui Shouji.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1436,7 +1436,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/NegamiDaichi.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1448,7 +1448,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/HaranoTooru.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1460,7 +1460,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/TanushimaruShigeki.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1472,7 +1472,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/KusaoHisashi.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1484,7 +1484,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/FukuiSakuhei.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1496,7 +1496,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/YoneyamaUehito.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1508,7 +1508,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/FujiChihiro.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1520,7 +1520,7 @@ var players = [
         "Sprite": "./images/players/ie1/Farm/InukaiShigeki.png",
         "EnglishTeam": "Farm",
         "JapaneseTeam": "Senbayama",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Senbayama.png",
         "Game": "IE1"
     },
     {
@@ -1724,7 +1724,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Posei_Donichi.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1736,7 +1736,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Aresu_Ran.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1748,19 +1748,19 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Deio_Geki.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
         "EnglishName": "Apollo",
-        "JapaneseName": "Apollo",
+        "JapaneseName": "Apollon",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
         "Sprite": "./images/players/ie1/Zeus/Aporo_Hikaru.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1772,7 +1772,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Hepai_En.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1784,7 +1784,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Herume_Matsuaki.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1796,7 +1796,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Arute_Saneki.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1808,7 +1808,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Atena_Tomo.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1820,7 +1820,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Hera_Tadashi.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1832,7 +1832,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Afuro_Terumi.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1844,7 +1844,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Demete_Yutaka.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1856,7 +1856,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Ika_Michiyuki.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1868,7 +1868,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Heraku_Resu.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1880,7 +1880,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Kurono_Tokio.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1892,7 +1892,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Medo_Usa.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1904,7 +1904,7 @@ var players = [
         "Sprite": "./images/players/ie1/Zeus/Aki_Tamamatsu.png",
         "EnglishTeam": "Zeus",
         "JapaneseTeam": "Zeus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie1/Zeus.png",
         "Game": "IE1"
     },
     {
@@ -1916,7 +1916,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Hibiki.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -1928,7 +1928,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Ukishima.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -1940,7 +1940,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Kamimura.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -1952,7 +1952,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Aida.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -1964,7 +1964,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Butler.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -1976,7 +1976,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Nakama.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -1988,7 +1988,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Sugata.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2000,7 +2000,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Ikari.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2012,7 +2012,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Tailor.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2024,7 +2024,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Master.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2036,7 +2036,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Builder.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2048,7 +2048,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Atsuta.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2060,7 +2060,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Kakeyama.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2072,7 +2072,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Kouji.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2084,7 +2084,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Michiba.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2096,7 +2096,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Haijin.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2108,7 +2108,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Kageyama.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2120,7 +2120,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma Eleven/Furukabu.png",
         "EnglishTeam": "Inazuma Eleven",
         "JapaneseTeam": "Inazuma Eleven",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma Eleven.png",
         "Game": "IE1"
     },
     {
@@ -2132,7 +2132,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Yaono Sumiko.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2144,7 +2144,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Fudeyama Tome.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2156,7 +2156,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Ootama Konomi.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2168,7 +2168,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Honemaru Hitoshi.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2180,7 +2180,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Shittou Nao.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2192,7 +2192,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Tachimi Ritsuko.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2204,7 +2204,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Mikawaya Saburou.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2216,7 +2216,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Misemachi Yasunori.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2228,7 +2228,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Utagawa Makoto.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2240,7 +2240,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Purogure Iwao.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2252,7 +2252,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Kisaragi Sarina.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2264,7 +2264,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Iemori Yuuji.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2276,7 +2276,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Tanabe Sayaka.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2288,7 +2288,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Ikuji Kamao.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2300,7 +2300,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Ebisu Masayoshi.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2312,7 +2312,7 @@ var players = [
         "Sprite": "./images/players/ie1/Street Sallys/Eji Nobuya.png",
         "EnglishTeam": "Street Sally's",
         "JapaneseTeam": "Ichibangai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png",
+        "TeamSprite": "./images/emblems/ie1/Street_Sallys.png",
         "Game": "IE1"
     },
     {
@@ -2324,7 +2324,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Munakata Hiroto.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2336,7 +2336,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Hideyama Kaito.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2348,7 +2348,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Kitagaki Ryouta.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2360,7 +2360,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Sejima Itsuki.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2372,7 +2372,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Shintake Souta.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2384,7 +2384,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Ikejiri Haru.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2396,7 +2396,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Morimoto Rikuto.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2408,7 +2408,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Terasaka Hibiki.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2420,7 +2420,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Kouzu Sora.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2432,7 +2432,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Hazama Ryuusuke.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2444,7 +2444,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Kisaragi Mako.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2456,7 +2456,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Ooshima Yuuichi.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2468,7 +2468,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Hasebe Seiji.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2480,7 +2480,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Aoshima Kaoru.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2492,7 +2492,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Amai Kazuya.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2504,7 +2504,7 @@ var players = [
         "Sprite": "./images/players/ie1/Inazuma KFC/Hirata Ken.png",
         "EnglishTeam": "Inazuma Kids FC",
         "JapaneseTeam": "Inazuma KFC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png",
+        "TeamSprite": "./images/emblems/ie1/Inazuma_KFC.png",
         "Game": "IE1"
     },
     {
@@ -2705,7 +2705,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "./images/players/ie2/SPFixers/Ironwall.png",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Tetsukabe Ken sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2717,7 +2717,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "./images/players/ie2/SPFixers/Western.png",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Goyou Takeshi sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2729,7 +2729,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "./images/players/ie2/SPFixers/Hammond.png",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Hayate Hayato sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2741,7 +2741,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "./images/players/ie2/SPFixers/Stevens.png",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Sakura Tamon sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2753,7 +2753,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "./images/players/ie2/SPFixers/Smith.png",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Sumisu Eiji sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2765,7 +2765,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "./images/players/ie2/SPFixers/Firepool.png",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Gokuhi Tsutomu sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2777,7 +2777,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Sp_player10.png/revision/latest?cb=20120529165428",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Zaizen Touko sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2789,7 +2789,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Sp_player7.png/revision/latest?cb=20120612090145",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Tateno Mai sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2801,7 +2801,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Sp_player8.png/revision/latest?cb=20120612090217",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Sakite Masaru sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2813,7 +2813,7 @@ var players = [
         "Gender": "Female",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Kagami_Houko.png/revision/latest?cb=20200613181948",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Kagami Houko sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2825,7 +2825,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Sp_player11.png/revision/latest?cb=20120612090408",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Kisoku Jun sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2837,7 +2837,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/2/23/%28SS%29_Sights.png/revision/latest?cb=20140913003520&path-prefix=es",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Tamakura Geki sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2849,7 +2849,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "./images/players/ie2/SPFixers/Tokube Nariyuki.png",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Tokube Nariyuki sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2861,7 +2861,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Tamotsu_Fixers.png/revision/latest?cb=20130216161050",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Minobe Tamotsu sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2873,7 +2873,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Sp_player14.png/revision/latest?cb=20120612090605",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Denju Atsumu sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2885,7 +2885,7 @@ var players = [
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Linda_Fixers.png/revision/latest?cb=20130216161059",
+        "Sprite": "./images/players/ie2/SPFixers/(SPF) Hikage Rinda sprite.png",
         "EnglishTeam": "Secret Service",
         "JapaneseTeam": "SP Fixers",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/SP_Fixers_emblem.png",
@@ -2897,7 +2897,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/HK_player_1.png/revision/latest?cb=20120429061133",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Hakoda Tetsu sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2909,7 +2909,7 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/HK_player_2.png/revision/latest?cb=20120429061708",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Matoro Juka sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2921,7 +2921,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/11/HK_player_3.png/revision/latest?cb=20120503083017",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Oshiya Manbe sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2929,11 +2929,11 @@ var players = [
     },
     {
         "EnglishName": "Gleeson",
-        "JapaneseName": "Makuba",
+        "JapaneseName": "Mabuka",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/HK_player_4.png/revision/latest?cb=20120503083233",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Mabuka Souji sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2945,7 +2945,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/HK_player_5.png/revision/latest?cb=20120503083141",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Yukino Seiya sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2957,7 +2957,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/57/Froste%27s_Alpine_Sprite.png/revision/latest?cb=20120421084704",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Fubuki Shirou sprite (unmerged).png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2969,7 +2969,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/HK_player_6.png/revision/latest?cb=20120503083339",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Araya Konko sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2981,7 +2981,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9c/HK_player_7.png/revision/latest?cb=20120503083409",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Iya Mafuru sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -2993,7 +2993,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cf/HK_player_8.png/revision/latest?cb=20120503083554",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Sorano Rebun sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3005,7 +3005,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Hyoujyou_Retsuto_mugshot.png/revision/latest?cb=20120407071928",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Hyoujou Retsuto sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3017,7 +3017,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/75/HK_player_11.png/revision/latest?cb=20120503083700",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Kitami Ryuu sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3029,7 +3029,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Atsuya_Hakuren.png/revision/latest?cb=20180727230837",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Fubuki Shirou sprite (Atsuya).png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3041,7 +3041,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1f/FubukiHakurensprite.png/revision/latest?cb=20120125235316",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Fubuki Shirou sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3053,7 +3053,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/0f/%28A%29_Peggs.png/revision/latest?cb=20140914011106&path-prefix=es",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Sumitani Tatsumaro sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3065,7 +3065,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/28/HK_player_13.png/revision/latest?cb=20120529144856",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Shirokuma Hyouji sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3077,7 +3077,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Goryou_Takeaki.png/revision/latest?cb=20120627190621",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Goryou Takeaki sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3089,7 +3089,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4a/HK_player_14.png/revision/latest?cb=20120503083738",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Shitsuhara Zen sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3101,7 +3101,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/HK_player_16.png/revision/latest?cb=20120503083900",
+        "Sprite": "./images/players/ie2/Hakuren/(H) Chihira Koudai sprite.png",
         "EnglishTeam": "Alpine",
         "JapaneseTeam": "Hakuren",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hakuren_emblem.png",
@@ -3113,7 +3113,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Manyuuji_player1.png/revision/latest?cb=20181027181348",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Kakita Taishou sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3125,7 +3125,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b5/Manyuuji_player_2.png/revision/latest?cb=20130518172419",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Satori Kai sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3137,7 +3137,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/HougyokuHikaruSprite.png/revision/latest?cb=20120620144143",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Hougyoku Hikaru sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3149,7 +3149,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Manyuuji_player_4.PNG/revision/latest?cb=20130518173348",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Fukumi Miou sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3161,7 +3161,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Manyuuji_player_5.png/revision/latest?cb=20130518174548",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Makanai Shou sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3173,7 +3173,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6d/Manyuuji_player_6.png/revision/latest?cb=20130518175055",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Takayume Souichi sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3185,7 +3185,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d4/Manyuuji_player7.png/revision/latest?cb=20120426090306",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Manabiya Ikkin sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3197,7 +3197,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Manyuuji_player_8.PNG/revision/latest?cb=20130518175836",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Ichikawa Taemon sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3209,7 +3209,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e2/Manyuuji_player10.png/revision/latest?cb=20120426090026",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Kageta Meguru sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3221,7 +3221,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/20/Manyuuji_player9.png/revision/latest?cb=20120426090422",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Tenjin Atarou sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3233,7 +3233,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7a/Manyuuji_player11.png/revision/latest?cb=20120426090506",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Tenjin Usuke sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3245,7 +3245,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Manyuuji_player_12.PNG/revision/latest?cb=20130518190558",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Itsushige Manabu sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3257,7 +3257,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Manyuuji_player_14.PNG/revision/latest?cb=20130518192515",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Kamo Yoshiyuki sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3269,7 +3269,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/77/Manyuuji_player12.png/revision/latest?cb=20120426085841",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Kogure Yuuya sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3281,7 +3281,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/57/Evil_kogure.png/revision/latest?cb=20200614162614",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Kogure Yuuya sprite (CC).png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3293,7 +3293,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Manyuuji_player_15.PNG/revision/latest?cb=20130606234151",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Gozan Sou sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3305,7 +3305,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Manyuuji_player_13.PNG/revision/latest?cb=20130518184827",
+        "Sprite": "./images/players/ie2/Manyuuji/(M) Osamoto Gou sprite.png",
         "EnglishTeam": "Cloister Divinity",
         "JapaneseTeam": "Manyuuji",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9d/Manyuuji_emblem.png",
@@ -3317,10 +3317,10 @@ var players = [
         "Gender": "Female",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Osaka_player1.png/revision/latest?cb=20120630011622",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Dosu Koi sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3329,10 +3329,10 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Kouka.png/revision/latest?cb=20200623153058",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Torahama Kouko sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3341,10 +3341,10 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Hori_Michiko_Sprite.PNG/revision/latest?cb=20130625205910",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Hori Michiko sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3353,10 +3353,10 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Umeda_Harumi.PNG/revision/latest?cb=20130625211501",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Umeda Harumi sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3365,10 +3365,10 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/30/Kushida_Katsuyo_Sprite.PNG/revision/latest?cb=20130625212557",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Kushida Katsuyo sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3377,10 +3377,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Yorozu_Hiromi_Sprite.PNG/revision/latest?cb=20130625231510",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Yorozu Hiromi sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3389,10 +3389,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Takoya_Noriko_Sprite.PNG/revision/latest?cb=20130625233054",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Takoya Noriko sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3401,10 +3401,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/84/Namikawa_Hanako_Sprite.PNG/revision/latest?cb=20130626005051",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Namikawa Hanako sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3413,10 +3413,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Tennouji_Mari_Sprite.PNG/revision/latest?cb=20130626013606",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Tennouji Mari sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3425,22 +3425,22 @@ var players = [
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/Midou_Reika_Sprite.PNG/revision/latest?cb=20130626233533",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Midou Reika sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
         "EnglishName": "Sue",
-        "JapaneseName": "Rica",
+        "JapaneseName": "Rika",
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9c/Urabeosakashot.PNG/revision/latest?cb=20130626015906",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Urabe Rika sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3449,10 +3449,10 @@ var players = [
         "Gender": "Female",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/78/Negiri_Tomoe_Sprite.PNG/revision/latest?cb=20130626235751",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Negiri Tomoe sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3461,10 +3461,10 @@ var players = [
         "Gender": "Female",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Hanae_CCC.PNG/revision/latest?cb=20130627222747",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Nanba Hanae sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3473,10 +3473,10 @@ var players = [
         "Gender": "Female",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Tsuuten_Hikari_Sprite.PNG/revision/latest?cb=20130627005440",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Tsuuten Hikari sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3485,10 +3485,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/Senba_Ginko_Sprite.PNG/revision/latest?cb=20130627012308",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Senba Ginko sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3497,10 +3497,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Kishiwada_Matsuri_Sprite.PNG/revision/latest?cb=20130627220236",
+        "Sprite": "./images/players/ie2/Osaka Gals CCC/(OGCCC) Kishiwada Matsuri sprite.png",
         "EnglishTeam": "Super Triple C",
         "JapaneseTeam": "Osaka Gals CCC",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Osaka Gals CCC.png",
         "Game": "IE2"
     },
     {
@@ -3509,7 +3509,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/0b/%28F%29_Darren.png/revision/latest?cb=20140916022820&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Tachimukai Yuuki sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3521,7 +3521,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/c/c1/%28F%29_Fake.png/revision/latest?cb=20140916023347&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Chikushi Kunimitsu sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3533,7 +3533,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/2/27/%28F%29_Mishap.png/revision/latest?cb=20140916024301&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Oohori Michitoshi sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3545,7 +3545,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/c/c8/%28F%29_Leave.png/revision/latest?cb=20140916023842&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Genkai Namito sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3557,7 +3557,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/0b/%28F%29_Badgame.png/revision/latest?cb=20140916022319&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Ishiyama Morihito sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3569,7 +3569,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/0e/%28F%29_Random.png/revision/latest?cb=20140916024733&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Shika Kaneaki sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3581,7 +3581,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/2/25/%28F%29_Richmen.png/revision/latest?cb=20140916024902&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Michihata Utau sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3593,7 +3593,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/d/d5/%28F%29_Destiny.png/revision/latest?cb=20140916022908&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Kasayama Sou sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3605,7 +3605,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/02/%28F%29_Duskplay.png/revision/latest?cb=20140916023003&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Kuroda Yarimichi sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3617,7 +3617,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/1/15/%28F%29_Fate.png/revision/latest?cb=20140916023750&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Matsurida Wasshoi sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3629,7 +3629,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/d/d8/%28F%29_Poker.png/revision/latest?cb=20140916024543&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Matsubayashi Yuu sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3641,7 +3641,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/7/75/%28F%29_Luckyman.png/revision/latest?cb=20140916024133&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Toda Yuuichirou sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3653,7 +3653,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Sou_Game_Sprite.png/revision/latest?cb=20130406045409",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Niwaka Yoshitomo sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3665,7 +3665,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/4/4f/%28F%29_Failing.png/revision/latest?cb=20140916023517&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Oyatomi Takashi sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3677,7 +3677,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/e/e8/%28F%29_Cotts.png/revision/latest?cb=20140916022608&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Nagahama Hosomichi sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3689,7 +3689,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/d/d7/%28F%29_Passing.png/revision/latest?cb=20140916024426&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Dazai Umekichi sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3701,7 +3701,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/5/53/%28F%29_Bathers.png/revision/latest?cb=20140916022422&path-prefix=es",
+        "Sprite": "./images/players/ie2/Yokato/(Y) Okinoshima Sou sprite.png",
         "EnglishTeam": "Fauxshore",
         "JapaneseTeam": "Yokato",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Yokato_emblem.png",
@@ -3713,7 +3713,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/Oumihara_player1.png/revision/latest?cb=20120427092322",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Shuri Iwao sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3725,7 +3725,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/Oumihara_player2.png/revision/latest?cb=20120427092433",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Taira Moguru sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3737,7 +3737,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f8/Oumihara_player3.png/revision/latest?cb=20120427092539",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Gibo Kanekatsu sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3749,7 +3749,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Tsunami_oumihara1.png/revision/latest?cb=20120501042500",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Tsunami Jousuke sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3761,7 +3761,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Oumihara_player5.png/revision/latest?cb=20120427093015",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Akamine Hiroaki sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3773,7 +3773,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/35/Oumihara_player6.png/revision/latest?cb=20120427093130",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Toguchi Masahiro sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3785,7 +3785,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Oumihara_player7.png/revision/latest?cb=20120427093311",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Otomura Gakuya sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3797,7 +3797,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7f/Oumihara_player8.png/revision/latest?cb=20120427093344",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Kyan Rinka sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3809,7 +3809,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/Oumihara_player9.png/revision/latest?cb=20120427093458",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Koja Hidenori sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3821,7 +3821,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e3/Oumihara_player10.png/revision/latest?cb=20120427093700",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Agarie Yasuo sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3833,7 +3833,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Oumihara_player11.png/revision/latest?cb=20120427093741",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Ikemiyagi Haru sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3845,7 +3845,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/Amuro_Mikio.png/revision/latest?cb=20200614190419",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Amuro Mikio sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3857,7 +3857,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Oumihara_player13.png/revision/latest?cb=20120427093906",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Oyadomari Nagase sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3869,7 +3869,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Oumihara_player14.png/revision/latest?cb=20120427094058",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Zukeran Reito sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3881,7 +3881,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Oumihara_player15.png/revision/latest?cb=20120528123157",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Chinen Naoki sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -3893,7 +3893,7 @@ var players = [
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/Oumihara_player16.png/revision/latest?cb=20120427094340",
+        "Sprite": "./images/players/ie2/Oumihara/(O) Jahana Sango sprite.png",
         "EnglishTeam": "Mary Times",
         "JapaneseTeam": "Oumihara",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Oumihara_emblem.png",
@@ -4172,7 +4172,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Zel.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4184,7 +4184,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Kenvil.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4196,7 +4196,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Mole.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4208,7 +4208,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Keison.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4220,7 +4220,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Titan.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4232,7 +4232,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Fadra.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4244,7 +4244,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Krypto.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4256,7 +4256,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Swarm.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4268,7 +4268,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Macure.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4280,7 +4280,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Metron.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4292,7 +4292,7 @@ var players = [
         "Sprite": "./images/players/ie2/Epsilon Kai/Desarm.png",
         "EnglishTeam": "Epsilon Prime",
         "JapaneseTeam": "Epsilon Kai",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Epsilon_Kai.png",
         "Game": "IE2"
     },
     {
@@ -4304,7 +4304,7 @@ var players = [
         "Sprite": "./images/players/ie2/Shin_Teikoku/Genda_Koujirou_2.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4313,10 +4313,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/Shin_Teikoku_player_2.png/revision/latest?cb=20120527184630",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Taiya Rekito sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4325,10 +4325,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/Shin_Teikoku_player_3.png/revision/latest?cb=20120527184811",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Iyatani Kengo sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4337,10 +4337,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a5/Shin_Teikoku_player_4.png/revision/latest?cb=20120527184933",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Gouin Takeshi sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4349,10 +4349,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Jikuwa_Ryou_Avatar.png/revision/latest?cb=20170310125735",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Jikuwa Ryou sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4361,10 +4361,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/91/Shin_Teikoku_player_6.png/revision/latest?cb=20120527185121",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Meza Aito sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4373,10 +4373,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_player_7.png/revision/latest?cb=20120527185303",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Hikara Yoshiteru sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4385,10 +4385,10 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Takanashi_Shinobu_mugshot.png/revision/latest?cb=20111009182206",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Takanashi Shinobu sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4400,7 +4400,7 @@ var players = [
         "Sprite": "./images/players/ie2/Shin_Teikoku/Fudou_Akio_2.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4409,10 +4409,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/Shin_Teikoku_player_9.png/revision/latest?cb=20120527185528",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Hie Ryousuke sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4424,7 +4424,7 @@ var players = [
         "Sprite": "./images/players/ie2/Shin_Teikoku/Sakuma_Jirou_2.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4433,10 +4433,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/9/90/%28RAR%29_Cellar.png/revision/latest?cb=20140917021745&path-prefix=es",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Katakura Jion sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4445,10 +4445,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/11/Shin_Teikoku_player_13.png/revision/latest?cb=20120528170555",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Souma Zenki sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4457,10 +4457,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f6/Shin_Teikoku_player_14.png/revision/latest?cb=20120528171230",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Shouni Akatsuki sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4469,10 +4469,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Shin_Teikoku_player_15.png/revision/latest?cb=20120528172456",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Bekki Kousuke sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4481,10 +4481,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Shin_Teikoku_player_16.png/revision/latest?cb=20120528173508",
+        "Sprite": "./images/players/ie2/Shin_Teikoku/(STG) Isshiki Masashi sprite.png",
         "EnglishTeam": "Royal Academy Redux",
         "JapaneseTeam": "Shin Teikoku Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Shin_Teikoku_Gakuen_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4496,7 +4496,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Grent.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4508,7 +4508,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Barra.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4520,7 +4520,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Bakurei.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4532,7 +4532,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Satosu.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4544,7 +4544,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Bomba.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4556,7 +4556,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Heat.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4568,7 +4568,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Rean.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4580,7 +4580,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Bonitona.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4592,7 +4592,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Siden.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4604,7 +4604,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Nepper.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4616,7 +4616,7 @@ var players = [
         "Sprite": "./images/players/ie2/Prominence/Burn.png",
         "EnglishTeam": "Prominence",
         "JapaneseTeam": "Prominence",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+        "TeamSprite": "./images/emblems/ie2/Prominence_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4892,7 +4892,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Takeshi.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4904,7 +4904,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Nishigaki.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4916,7 +4916,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Jin.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4928,7 +4928,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Shishido.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4940,7 +4940,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Kurimatsu.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4952,7 +4952,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Handa.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4964,7 +4964,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Shourin.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4976,7 +4976,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Max.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -4988,7 +4988,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Shadow.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -5000,7 +5000,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Kazemaru.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -5012,7 +5012,7 @@ var players = [
         "Sprite": "./images/players/ie2/Dark Emperors/Someoka.png",
         "EnglishTeam": "Dark Emperors",
         "JapaneseTeam": "Dark Emperors",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+        "TeamSprite": "./images/emblems/ie2/Dark_Emperors_Emblem.png",
         "Game": "IE2"
     },
     {
@@ -5024,7 +5024,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo S.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5036,7 +5036,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5048,7 +5048,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5060,7 +5060,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5072,7 +5072,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5084,7 +5084,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5096,7 +5096,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5108,7 +5108,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5120,7 +5120,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5132,7 +5132,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5144,7 +5144,7 @@ var players = [
         "Sprite": "./images/players/ie2/Keibi Machines/Robo.png",
         "EnglishTeam": "Robot Guards",
         "JapaneseTeam": "Keibi Machines",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+        "TeamSprite": "./images/emblems/ie2/Robot_Guards.png",
         "Game": "IE2"
     },
     {
@@ -5153,10 +5153,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Bunkou.png/revision/latest?cb=20181211172511",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Bunkou Susumu sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5165,10 +5165,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/06/Toufu.png/revision/latest?cb=20160916104734",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Toufu Nobiru sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5177,10 +5177,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Suta_Agaru.png/revision/latest?cb=20170706091849",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Suta Agaru sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5189,10 +5189,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/1/1f/%28MA%29_Blewit.png/revision/latest?cb=20140920012450&path-prefix=es",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Shayasu Yoruyuki sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5201,10 +5201,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Shimomaru_Sun.png/revision/latest?cb=20160916104424",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Shimomaru Sun sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5213,10 +5213,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b8/Furunishi.png/revision/latest?cb=20160916101329",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Furunishi Shigeru sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5225,10 +5225,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/e/e6/%28MA%29_Deathcap.png/revision/latest?cb=20140920012944&path-prefix=es",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Asaino Saiji sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5237,10 +5237,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/f/f2/%28MA%29_Faithfull.png/revision/latest?cb=20140920013120&path-prefix=es",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Kurashibe Reiichi sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5249,10 +5249,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/a/a1/%28MA%29_Tricker.png/revision/latest?cb=20140920013447&path-prefix=es",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Biku Suguru sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5261,10 +5261,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/0/09/%28MA%29_Daring.png/revision/latest?cb=20140920012800&path-prefix=es",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Shiki Yuuji sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5273,10 +5273,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/b/b9/(MA)_Enoki.png/revision/latest?cb=20140920013030&path-prefix=es",
+        "Sprite": "./images/players/ie2/Jukai Team/(JT) Manda Sontoku sprite.png",
         "EnglishTeam": "Forest Team",
         "JapaneseTeam": "Jukai Team",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+        "TeamSprite": "./images/emblems/ie2/Jukai_Team.png",
         "Game": "IE2"
     },
     {
@@ -5417,10 +5417,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/32/Tobitakapic.png/revision/latest?cb=20181222003247",
+        "Sprite": "./images/players/ie3/Inazuma Japan/(IJ) Tobitaka Seiya sprite.png",
         "EnglishTeam": "Inazuma National",
         "JapaneseTeam": "Inazuma Japan",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+        "TeamSprite": "./images/emblems/ie3/Inazuma_Japan.png",
         "Game": "IE3"
     },
     {
@@ -5429,10 +5429,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Hijikitapic.png/revision/latest?cb=20120108072012",
+        "Sprite": "./images/players/ie3/Inazuma Japan/(IJ) Hijikata Raiden sprite.png",
         "EnglishTeam": "Inazuma National",
         "JapaneseTeam": "Inazuma Japan",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+        "TeamSprite": "./images/emblems/ie3/Inazuma_Japan.png",
         "Game": "IE3"
     },
     {
@@ -5441,10 +5441,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/7/7d/%28IJ%29_Caleb.png/revision/latest?cb=20140904152856&path-prefix=es",
+        "Sprite": "./images/players/ie3/Inazuma Japan/(IJ) Fudou Akio sprite.png",
         "EnglishTeam": "Inazuma National",
         "JapaneseTeam": "Inazuma Japan",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+        "TeamSprite": "./images/emblems/ie3/Inazuma_Japan.png",
         "Game": "IE3"
     },
     {
@@ -5453,10 +5453,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/77/MidorkawajapanA.png/revision/latest?cb=20181222003254",
+        "Sprite": "./images/players/ie3/Inazuma Japan/(IJ) Midorikawa Ryuuji sprite.png",
         "EnglishTeam": "Inazuma National",
         "JapaneseTeam": "Inazuma Japan",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+        "TeamSprite": "./images/emblems/ie3/Inazuma_Japan.png",
         "Game": "IE3"
     },
     {
@@ -5465,10 +5465,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/84/ToramarujapanA.png/revision/latest?cb=20181222003246",
+        "Sprite": "./images/players/ie3/Inazuma Japan/(IJ) Utsunomiya Toramaru sprite.png",
         "EnglishTeam": "Inazuma National",
         "JapaneseTeam": "Inazuma Japan",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+        "TeamSprite": "./images/emblems/ie3/Inazuma_Japan.png",
         "Game": "IE3"
     },
     {
@@ -5477,10 +5477,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/Kiyama_Hiroto_mugshot_IE3.png/revision/latest?cb=20111106043400",
+        "Sprite": "./images/players/ie3/Inazuma Japan/(IJ) Kiyama Hiroto sprite.png",
         "EnglishTeam": "Inazuma National",
         "JapaneseTeam": "Inazuma Japan",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+        "TeamSprite": "./images/emblems/ie3/Inazuma_Japan.png",
         "Game": "IE3"
     },
     {
@@ -5489,10 +5489,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Neojp10shot.png/revision/latest?cb=20180727222925",
+        "Sprite": "./images/players/ie3/Neo Japan/(NJ) Saginuma Osamu sprite.png",
         "EnglishTeam": "Neo National",
         "JapaneseTeam": "Neo Japan",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/Neo_Japan_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Neo_Japan_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -5885,7 +5885,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/GK1FDshot.png/revision/latest?cb=20120309051255",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Jo Jung-soo sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5897,7 +5897,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/DF2FDshot.png/revision/latest?cb=20120322034754",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Hwang Woo-myang sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5909,7 +5909,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/DF3FDshot.png/revision/latest?cb=20120322033646",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Hong Doo-yoon sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5921,7 +5921,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/DF4FDshot.png/revision/latest?cb=20120322034716",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Cho Myong-ho sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5933,7 +5933,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/DF5FDshot.png/revision/latest?cb=20120322034626",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Ko Sung-hwan sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5945,7 +5945,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5b/MF7FDshot.png/revision/latest?cb=20120322033538",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Park Baek-young sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5957,7 +5957,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ed/MF6FDshot.png/revision/latest?cb=20120309051128",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Choi Chang-soo sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5969,7 +5969,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/64/MF8FDshot.png/revision/latest?cb=20210830144524",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Kim Eun-young sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5981,7 +5981,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/MF9FDshot.png/revision/latest?cb=20181023151907",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Afuro Terumi sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -5993,7 +5993,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/5/54/%28DF%29_Ji-Nan.png/revision/latest?cb=20140921141953&path-prefix=es",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Heo Ji-nan sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -6005,7 +6005,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/b/bc/%28DF%29_Seul.png/revision/latest?cb=20140921142405&path-prefix=es",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Seol Hyeon-dae sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -6017,7 +6017,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/7/79/%28DF%29_Yi.png/revision/latest?cb=20140921142612&path-prefix=es",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Lee Chung-yoon sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -6029,7 +6029,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Osu.png/revision/latest?cb=20120504233347",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Cha Jung-won sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -6041,7 +6041,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/da/Son.png/revision/latest?cb=20120504233847",
+        "Sprite": "./images/players/ie3/Fire Dragon/(FD) Noh Sung-joon sprite.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Fire_Dragon_emblem.png",
@@ -6245,7 +6245,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/02/TeamKtalk1.png/revision/latest?cb=20120323134032",
+        "Sprite": "./images/players/ie3/Team K/(TK) Indigo Lazuli sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6257,7 +6257,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fc/TeamKtalk2.png/revision/latest?cb=20120323132919",
+        "Sprite": "./images/players/ie3/Team K/(TK) Roseo Diamante sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6269,7 +6269,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/24/Azubel_Turchese.png/revision/latest?cb=20171201072713",
+        "Sprite": "./images/players/ie3/Team K/(TK) Azubel Turchese sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6281,7 +6281,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "./images/players/ie3/TeamK/Agata.png",
+        "Sprite": "./images/players/ie3/Team K/(TK) Nello Agata sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6293,7 +6293,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/TeamKtalk5.png/revision/latest?cb=20120323133215",
+        "Sprite": "./images/players/ie3/Team K/(TK) Azzurro Zaffire sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6305,7 +6305,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cc/TeamKtalk6.png/revision/latest?cb=20120323133356",
+        "Sprite": "./images/players/ie3/Team K/(TK) Verdio Smeraldo sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6317,7 +6317,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3e/Rosso_Granito.png/revision/latest?cb=20171016085136",
+        "Sprite": "./images/players/ie3/Team K/(TK) Rosso Granato sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6329,7 +6329,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/TeamKtalk8.png/revision/latest?cb=20120323133513",
+        "Sprite": "./images/players/ie3/Team K/(TK) Giallo Topazio sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6341,7 +6341,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/TeamKtalk10.png/revision/latest?cb=20200620195045",
+        "Sprite": "./images/players/ie3/Team K/(TK) Demonio Strada sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6353,7 +6353,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7d/TeamKtalk11.png/revision/latest?cb=20120323134229",
+        "Sprite": "./images/players/ie3/Team K/(TK) Bianco Perla sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6365,7 +6365,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/TeamKtalk9.png/revision/latest?cb=20120323132623",
+        "Sprite": "./images/players/ie3/Team K/(TK) Violette Ametista sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6377,7 +6377,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/6/63/%28ED%29_Quarzo.png/revision/latest?cb=20140930205508&path-prefix=es",
+        "Sprite": "./images/players/ie3/Team K/(TK) Grigio Gesso sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6389,7 +6389,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/99/Berilio.png/revision/latest?cb=20111118122755",
+        "Sprite": "./images/players/ie3/Team K/(TK) Pardo Berillo sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6401,7 +6401,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Marrone_Titanito%27s_sprite.png/revision/latest?cb=20201224102006",
+        "Sprite": "./images/players/ie3/Team K/(TK) Marrone Titanito sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6413,7 +6413,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8e/TeamKtalk15.png/revision/latest?cb=20120323134946",
+        "Sprite": "./images/players/ie3/Team K/(TK) Amaranto Rubino sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6425,7 +6425,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bb/Rattimo_Opale%27s_sprite.png/revision/latest?cb=20201224102648",
+        "Sprite": "./images/players/ie3/Team K/(TK) Lattimo Opale sprite.png",
         "EnglishTeam": "Team D",
         "JapaneseTeam": "Team K",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/09/Team_K_emblem.png",
@@ -6632,7 +6632,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Billy Rapid.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6644,7 +6644,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Ted Bryan.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6656,7 +6656,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Tony Stridas.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6668,7 +6668,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Dyke Dynamo.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6680,7 +6680,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Steve Woodmac.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6692,7 +6692,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Sean Pierce.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6704,7 +6704,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Mark Kruger.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6716,7 +6716,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Michele Jacks.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6728,7 +6728,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Dylan Keith.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6740,7 +6740,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Alex Hawk.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6752,7 +6752,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Rob Parker.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6764,7 +6764,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Bob Bobbins.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6776,7 +6776,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Sammy Dempsey.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6788,7 +6788,7 @@ var players = [
         "Sprite": "./images/players/ie3/Unicorn/Eddie Howard.png",
         "EnglishTeam": "Unicorns",
         "JapaneseTeam": "Unicorn",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Unicorn_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6800,7 +6800,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/b/be/%28ORF%29_Biasi.png/revision/latest?cb=20140927211930&path-prefix=es",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6812,7 +6812,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Vento Gagliano.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6824,7 +6824,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Ottorino Nobili.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6836,7 +6836,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Anton Gattsuso.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6848,7 +6848,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Marco Maserati.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6860,7 +6860,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Angelo Gabrini.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6872,7 +6872,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Nakata Hidetoshi.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6884,7 +6884,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Giorgio Giannini.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6896,7 +6896,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Dante Diavlo.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6908,7 +6908,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Raffaele Generani.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6920,7 +6920,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Fidio Aldena.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6932,7 +6932,7 @@ var players = [
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/d/d8/%28ORF%29_Santini.png/revision/latest?cb=20140927212943&path-prefix=es",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6944,7 +6944,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Giuseppe Cannavaro.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6956,7 +6956,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Enrico Olivier.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6968,7 +6968,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Alessandro Rossa.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6980,7 +6980,7 @@ var players = [
         "Sprite": "./images/players/ie3/Orpheus/Gianluca Zanardi.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -6989,10 +6989,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/TKFplayer1.png/revision/latest?cb=20120417035941",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Falcão da Silva sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7001,10 +7001,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b5/TKFplayer2.png/revision/latest?cb=20120417040348",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Lagarto Carlos sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7013,10 +7013,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/TKFplayer3.png/revision/latest?cb=20120417040534",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Bagre Antonio sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7025,10 +7025,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/TKFplayer4.png/revision/latest?cb=20120417040900",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Monstro sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7037,10 +7037,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/TKFplayer5.png/revision/latest?cb=20120417040817",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Formiga Clemens sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7049,10 +7049,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/TKFplayer6.png/revision/latest?cb=20120417040733",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Presa sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7061,10 +7061,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/TKFplayer7.png/revision/latest?cb=20120417040656",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Borboleta Barbosa sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7073,10 +7073,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cd/TKFplayer8.png/revision/latest?cb=20120417041233",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Coruja Cerezo sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7085,10 +7085,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6b/TKFplayer9.png/revision/latest?cb=20120417041125",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Leonardo Almeida sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7097,10 +7097,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c6/TKFplayer11.png/revision/latest?cb=20120417041047",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Gato sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7109,10 +7109,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/Roniejo.png/revision/latest?cb=20120417004550",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Mack Ronijo sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7121,10 +7121,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/d/dc/%28OR%29_Ribeiro.png/revision/latest?cb=20140925192418&path-prefix=es",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Javali Ribeiro sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7133,10 +7133,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/TKFplayer13.png/revision/latest?cb=20120417041722",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Urso Nogueira sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7145,10 +7145,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/TKFplayer14.png/revision/latest?cb=20120417041836",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Cavalo Oliviera sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7157,10 +7157,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d2/TKFplayer15.png/revision/latest?cb=20120417041905",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Tigre Mendes sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7169,10 +7169,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/97/TKFplayer16.png/revision/latest?cb=20120417041948",
+        "Sprite": "./images/players/ie3/The Kingdom/(TK) Grilo Santos sprite.png",
         "EnglishTeam": "The Kingdom",
         "JapaneseTeam": "The Kingdom",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/The_Kingdom_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7181,10 +7181,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/49/TGplayer1.png/revision/latest?cb=20120418064550",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Fox sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7193,10 +7193,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/TGplayer2.png/revision/latest?cb=20120418064704",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Jackal sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7205,10 +7205,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f9/TGplayer3.png/revision/latest?cb=20120418064807",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Lubbock Henktacker sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7217,10 +7217,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ed/TGplayer4.png/revision/latest?cb=20120418065228",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Buffalo sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7229,10 +7229,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1d/TGplayer5.png/revision/latest?cb=20120418065408",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Dingo sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7241,22 +7241,22 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/TGplayer6.png/revision/latest?cb=20120418065509",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Owl sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Hedgehog",
-        "JapaneseName": "Hedgehog",
+        "JapaneseName": "Hedge",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/45/TGplayer7.png/revision/latest?cb=20120418065535",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Hedgehog sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7265,10 +7265,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/18/TGplayer8.png/revision/latest?cb=20120418065650",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Mantis sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7277,10 +7277,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/TGplayer9.png/revision/latest?cb=20120418065722",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Crow sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7289,22 +7289,22 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/TGplayer10.png/revision/latest?cb=20120418065744",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Coyote sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
         "EnglishName": "Scorpio",
-        "JapaneseName": "Scorpion",
+        "JapaneseName": "Scorpio",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "./images/players/ie3/Team Garshield/Scorpio.png",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Scorpio sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7313,10 +7313,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2b/Reserve12tg.png/revision/latest?cb=20120529151731",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Goliath sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7325,10 +7325,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/77/Reserve13tg.png/revision/latest?cb=20120529151824",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Spider sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7337,10 +7337,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0a/Reserve16tg.png/revision/latest?cb=20120529151948",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Papillon sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7349,10 +7349,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f4/Reserve14tg.png/revision/latest?cb=20120529151850",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Giraffe sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7361,10 +7361,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fb/Reserve15tg.png/revision/latest?cb=20120529151919",
+        "Sprite": "./images/players/ie3/Team Garshield/(TG) Gavial sprite.png",
         "EnglishTeam": "Team Zoolan",
         "JapaneseTeam": "Team Garshield",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Team_Garshield_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7373,10 +7373,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0c/LGgameplayer1.png/revision/latest?cb=20180804101959",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Rococo Urupa sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7385,10 +7385,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5c/LGgameplayer2.png/revision/latest?cb=20120418070228",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Windy Fasta sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7397,10 +7397,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/LGgameplayer3.png/revision/latest?cb=20120418070455",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Walter Mountain sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7409,10 +7409,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/LGgameplayer4.png/revision/latest?cb=20120418070525",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Jinny Geino sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7421,10 +7421,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/77/LGgameplayer5.png/revision/latest?cb=20120418070736",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Marron Ian sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7433,10 +7433,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0f/LGgameplayer6.png/revision/latest?cb=20120418070844",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Shinti Hanpa sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7445,10 +7445,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0a/LGgameplayer7.png/revision/latest?cb=20120418070919",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Yuumu Rinjii sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7457,10 +7457,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c4/LGgameplayer8.png/revision/latest?cb=20120418071035",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Kiit Liando sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7469,10 +7469,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/LGgameplayer9.png/revision/latest?cb=20120418071511",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Maxi Kuu sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7481,10 +7481,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e4/LGgameplayer10.png/revision/latest?cb=20120418071548",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Gooshu Flare sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7493,10 +7493,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/LGgameplayer11.png/revision/latest?cb=20120418071839",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Drago Hill sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7505,10 +7505,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Cain.png/revision/latest?cb=20181028105334",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Kane Saitoo sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7517,10 +7517,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/LGgameplayer13.png/revision/latest?cb=20120418071700",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) McCall Kisarra sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7529,10 +7529,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/LGgameplayer14.png/revision/latest?cb=20120418072110",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Maygar Nathan sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7541,10 +7541,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/26/LGgameplayer15.png/revision/latest?cb=20120418072146",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Ryuu Scale sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7553,10 +7553,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d5/LGgameplayer16.png/revision/latest?cb=20120418072218",
+        "Sprite": "./images/players/ie3/Little Gigant/(LG) Skid Wu sprite.png",
         "EnglishTeam": "Little Gigantes",
         "JapaneseTeam": "Little Gigant",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Little_Gigant_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -7760,7 +7760,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Fermín Sánchez.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7772,7 +7772,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/José Costa.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7784,7 +7784,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Rafael López.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7796,7 +7796,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Antonio Galius.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7808,7 +7808,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Querardo Naval.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7820,7 +7820,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Joan Nadal.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7832,7 +7832,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Igor Freire.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7844,7 +7844,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Pedro Moreno.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7856,7 +7856,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Mikel Pereiro.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7868,7 +7868,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Samuel Mayo.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7880,7 +7880,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Davi Peroqui.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7892,7 +7892,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Juan Zubeldia.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7904,7 +7904,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Laudelino Sastre.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7916,7 +7916,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Carlos Arroyo.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7928,7 +7928,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Isaac César.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7940,7 +7940,7 @@ var players = [
         "Sprite": "./images/players/ie3/Red Matador/Federico Rubiera.png",
         "EnglishTeam": "Red Matador",
         "JapaneseTeam": "Red Matador",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+        "TeamSprite": "./images/emblems/ie3/Red Matador.png",
         "Game": "IE3"
     },
     {
@@ -7952,7 +7952,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Thorsten Berger.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -7964,7 +7964,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Alexander Hausen.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -7976,7 +7976,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Heinrich Fritz.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -7988,7 +7988,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Kurt Zabel.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8000,7 +8000,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Luka Schmitt.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8012,7 +8012,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Theodor Ulrich.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8024,7 +8024,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Jan Oldeno.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8036,7 +8036,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Niklas Kuster.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8048,7 +8048,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Jonas Pollack.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8060,7 +8060,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Maximilian Milatz.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8072,7 +8072,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Peter Nimke.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8084,7 +8084,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Gerald Enders.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8096,7 +8096,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Erwin Völz.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8108,7 +8108,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Jens Hoffmann.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8120,7 +8120,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Ernst Frodeno.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8132,7 +8132,7 @@ var players = [
         "Sprite": "./images/players/ie3/Brockenborg/Manuel Ewers.png",
         "EnglishTeam": "Brocken Brigade",
         "JapaneseTeam": "Brockenborg",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Brockenborg.png",
         "Game": "IE3"
     },
     {
@@ -8333,10 +8333,10 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/79/Ogre_player_1.png/revision/latest?cb=20120522175117",
+        "Sprite": "./images/players/ie3/Ogre/(O) Zagomel Zande sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8345,10 +8345,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a1/Ogre_player_2.png/revision/latest?cb=20120522175342",
+        "Sprite": "./images/players/ie3/Ogre/(O) Buvo Trangas sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8357,10 +8357,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Ogre_player_3.png/revision/latest?cb=20120522175537",
+        "Sprite": "./images/players/ie3/Ogre/(O) Gevo Trangas sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8369,10 +8369,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Ogre_player_4.png/revision/latest?cb=20120522175750",
+        "Sprite": "./images/players/ie3/Ogre/(O) Daikko Buuka sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8381,10 +8381,10 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/39/Ogre_player_5.png/revision/latest?cb=20120522175930",
+        "Sprite": "./images/players/ie3/Ogre/(O) Ginis Jinkins sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8393,10 +8393,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Ogre_player_8.png/revision/latest?cb=20120522180133",
+        "Sprite": "./images/players/ie3/Ogre/(O) Icka Stacks sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8405,10 +8405,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Sandayuu_Mishima.png/revision/latest?cb=20170502093444",
+        "Sprite": "./images/players/ie3/Ogre/(O) Sandayuu Mishima sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8417,10 +8417,10 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Ogre_player_7.png/revision/latest?cb=20120522180306",
+        "Sprite": "./images/players/ie3/Ogre/(O) Drache Gunther sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8429,10 +8429,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1c/Ogre_player_11.png/revision/latest?cb=20120522174859",
+        "Sprite": "./images/players/ie3/Ogre/(O) Mistrene Callous sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8441,10 +8441,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/Eskaba3.png/revision/latest?cb=20120425174616",
+        "Sprite": "./images/players/ie3/Ogre/(O) Eska Bamel sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8453,10 +8453,10 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Baddap_Ogre.png/revision/latest?cb=20120421025109",
+        "Sprite": "./images/players/ie3/Ogre/(O) Baddap Sleed sprite.png",
         "EnglishTeam": "Team Ogre",
         "JapaneseTeam": "Ogre",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
+        "TeamSprite": "./images/emblems/ie3/Ogre_Emblem.png",
         "Game": "IE3"
     },
     {
@@ -8465,7 +8465,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c7/Tenkuu_no_Shito_player_1.png/revision/latest?cb=20120520164444",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Enolel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8477,7 +8477,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Tenkuu_no_Shito_player_2.png/revision/latest?cb=20120520165140",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Nenel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8489,7 +8489,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dc/Tenkuu_no_Shito_player_3.png/revision/latest?cb=20120524004609",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Genel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8501,7 +8501,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a3/Tenkuu_no_Shito_player_4.png/revision/latest?cb=20120520164713",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Ekadel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8513,7 +8513,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/88/Tenkuu_no_Shito_player_5.png/revision/latest?cb=20120520165102",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Elfel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8525,7 +8525,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Tenkuu_no_Shito_player_6.png/revision/latest?cb=20120524005035",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Sachinel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8537,19 +8537,19 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d8/Tenkuu_no_Shito_player_7.png/revision/latest?cb=20120520165519",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Uinel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
         "Game": "IE3"
     },
     {
-        "EnglishName": "lentel",
+        "EnglishName": "Lentel",
         "JapaneseName": "Enuel",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Tenkuu_no_Shito_player_9.png/revision/latest?cb=20120520170230",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Enuel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8561,7 +8561,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6e/Tenkuu_no_Shito_player_8.png/revision/latest?cb=20120520170026",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Aiel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8573,7 +8573,7 @@ var players = [
         "Gender": "Female",
         "Position": "FW",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d0/Tenkuu_no_Shito_player_10.png/revision/latest?cb=20120520170501",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Guel sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8585,7 +8585,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/df/SeinTenku.png/revision/latest?cb=20120417172221",
+        "Sprite": "./images/players/ie3/Tenkuu no Shito/(TS) Sein sprite.png",
         "EnglishTeam": "Apostles from the Sky",
         "JapaneseTeam": "Tenkuu no Shito",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
@@ -8597,7 +8597,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Makai_Gundan_Z_player_1.png/revision/latest?cb=20120520031207",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Astaroth sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8609,7 +8609,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/94/Makai_Gundan_Z_player_2.png/revision/latest?cb=20120520031540",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Beelzebu sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8621,7 +8621,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/03/Makai_Gundan_Z_player_3.png/revision/latest?cb=20120520031745",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Abigorr sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8633,7 +8633,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/15/Makai_Gundan_Z_player_4.png/revision/latest?cb=20120520032039",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Hebeemoth sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8645,7 +8645,7 @@ var players = [
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Makai_Gundan_Z_player_5.png/revision/latest?cb=20120520032314",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Belial sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8657,7 +8657,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/67/Makai_Gundan_Z_player_6.png/revision/latest?cb=20120520032539",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Mephisto sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8669,7 +8669,7 @@ var players = [
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/48/Makai_Gundan_Z_player_7.png/revision/latest?cb=20120520032809",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Glahsya sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8681,7 +8681,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Makai_Gundan_Z_player_8.png/revision/latest?cb=20120520033016",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Barbatos sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8693,7 +8693,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/Makai_Gundan_Z_player_9.png/revision/latest?cb=20120520033232",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Arachnes sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8705,7 +8705,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Makai_Gundan_Z_player_10.png/revision/latest?cb=20120520033428",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Satanathos sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8717,7 +8717,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/07/Desuta.png/revision/latest?cb=20120417172252",
+        "Sprite": "./images/players/ie3/Makai Gundan Z/(MGZ) Desuta sprite.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
@@ -8869,7 +8869,7 @@ var players = [
     },
     {
         "EnglishName": "Lucian",
-        "JapaneseName": "Hikaru",
+        "JapaneseName": "Kageyama",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
@@ -8888,7 +8888,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Abuyama.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8900,7 +8900,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Sakisaka.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8912,7 +8912,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Morisugi.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8924,7 +8924,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Momoyama.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8936,7 +8936,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Hoshino.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8948,7 +8948,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Aoyama.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8960,19 +8960,19 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Risuno.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
         "EnglishName": "Punkie",
-        "JapaneseName": "Mohi",
+        "JapaneseName": "Kanta",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
         "Sprite": "./images/players/go/Raimon 2gun/Mohi.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8984,7 +8984,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Ichino.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -8996,7 +8996,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Ishikari.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -9008,7 +9008,7 @@ var players = [
         "Sprite": "./images/players/go/Raimon 2gun/Kira.png",
         "EnglishTeam": "Raimon Reserves",
         "JapaneseTeam": "Raimon 2gun",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/36/Raimon_2nd_team_emblem.png/revision/latest?cb=20171126183139",
+        "TeamSprite": "./images/emblems/go1/Raimon_2gun_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -9349,7 +9349,7 @@ var players = [
     },
     {
         "EnglishName": "Gally",
-        "JapaneseName": "Kouyou",
+        "JapaneseName": "Hifumi",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
@@ -10009,7 +10009,7 @@ var players = [
     },
     {
         "EnglishName": "Saylor",
-        "JapaneseName": "Funakyu",
+        "JapaneseName": "Funakyuu",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -10748,7 +10748,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Hakono.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10760,7 +10760,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Kurenai.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10772,7 +10772,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Ozuno.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10784,7 +10784,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Michiie.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10796,7 +10796,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Araki.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10808,7 +10808,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Douhara.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10820,7 +10820,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Fudano.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10832,7 +10832,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Kobato.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10844,7 +10844,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Mahoro.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10856,7 +10856,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Genichi.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10868,7 +10868,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Eiji.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10880,7 +10880,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Utsurogi.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10892,7 +10892,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Iryuu.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10904,7 +10904,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Machi.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10916,7 +10916,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Toriyuki.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -10928,7 +10928,7 @@ var players = [
         "Sprite": "./images/players/go/Genei Gakuen/Ooki.png",
         "EnglishTeam": "Mirage Academy",
         "JapaneseTeam": "Genei Gakuen",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/04/Genei_Gakuen_Emblem.png/revision/latest?cb=20130324083319",
+        "TeamSprite": "./images/emblems/go1/Genei_Gakuen_Emblem.png",
         "Game": "GO1"
     },
     {
@@ -11593,7 +11593,7 @@ var players = [
     },
     {
         "EnglishName": "Hall",
-        "JapaneseName": "Remi",
+        "JapaneseName": "Remii",
         "Gender": "Female",
         "Position": "MF",
         "Element": "Earth",
@@ -11799,7 +11799,7 @@ var players = [
         "EnglishName": "Guy-Jean",
         "JapaneseName": "Johnny",
         "Gender": "Male",
-        "Position": "FW",
+        "Position": "MF",
         "Element": "Wind",
         "Sprite": "./images/players/go/Akizora Challengers/Johnny.png",
         "EnglishTeam": "Golden Oldies",
@@ -11881,7 +11881,7 @@ var players = [
     },
     {
         "EnglishName": "Gardner",
-        "JapaneseName": "Koba",
+        "JapaneseName": "Coba",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
@@ -11941,7 +11941,7 @@ var players = [
     },
     {
         "EnglishName": "Bleak",
-        "JapaneseName": "Shian",
+        "JapaneseName": "Cyan",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
@@ -12433,7 +12433,7 @@ var players = [
     },
     {
         "EnglishName": "Everlast",
-        "JapaneseName": "Shiro",
+        "JapaneseName": "Shiroo",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
@@ -14744,7 +14744,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Gazen.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14756,7 +14756,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Subeyoshi.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14768,7 +14768,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ashiguro.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14780,7 +14780,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Hanbee.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14792,7 +14792,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ikkatsu.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14804,7 +14804,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Asama.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14816,7 +14816,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ginji.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14828,7 +14828,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ochimura.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14840,7 +14840,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Kutou.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14852,7 +14852,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Maebayashi.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14864,7 +14864,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Taian.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14876,7 +14876,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Mikimaru.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14888,7 +14888,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Yomoyama.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14900,7 +14900,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Yazu.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14912,7 +14912,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ayabe.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14924,7 +14924,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Kaburou.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b4/Shiroshika_Gumi_emblem.png/revision/latest?cb=20171126230148",
+        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -16081,7 +16081,7 @@ var players = [
     },
     {
         "EnglishName": "Squid",
-        "JapaneseName": "Squid",
+        "JapaneseName": "Skwid",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
@@ -16405,7 +16405,7 @@ var players = [
     },
     {
         "EnglishName": "Jaa",
-        "JapaneseName": "Tamugan",
+        "JapaneseName": "Thamgan",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
@@ -16513,7 +16513,7 @@ var players = [
     },
     {
         "EnglishName": "Alimatov",
-        "JapaneseName": "Maxim",
+        "JapaneseName": "Maksim",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
@@ -16921,7 +16921,7 @@ var players = [
     },
     {
         "EnglishName": "Bromon",
-        "JapaneseName": "Shoebil",
+        "JapaneseName": "Shoebill",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Earth",
@@ -38989,7 +38989,7 @@ var players = [
     },
     {
         "EnglishName": "Hunter",
-        "JapaneseName": "Kiyama",
+        "JapaneseName": "Tatsuya",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
@@ -39001,7 +39001,7 @@ var players = [
     },
     {
         "EnglishName": "Xavier",
-        "JapaneseName": "Kira",
+        "JapaneseName": "Hiroto",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
@@ -39073,7 +39073,7 @@ var players = [
     },
     {
         "EnglishName": "Gleeson",
-        "JapaneseName": "Makuba",
+        "JapaneseName": "Mabuka",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wood",
@@ -39205,7 +39205,7 @@ var players = [
     },
     {
         "EnglishName": "Sandra",
-        "JapaneseName": "Umihara",
+        "JapaneseName": "Norika",
         "Gender": "Female",
         "Position": "GK",
         "Element": "Wind",
@@ -39301,7 +39301,7 @@ var players = [
     },
     {
         "EnglishName": "Sonny",
-        "JapaneseName": "Inamori",
+        "JapaneseName": "Asuto",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
@@ -39337,7 +39337,7 @@ var players = [
     },
     {
         "EnglishName": "Regina",
-        "JapaneseName": "Mikado",
+        "JapaneseName": "Anna",
         "Gender": "Female",
         "Position": "NO",
         "Element": "None",
@@ -40105,7 +40105,7 @@ var players = [
     },
     {
         "EnglishName": "Darren",
-        "JapaneseName": "Michiru",
+        "JapaneseName": "Enami",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40141,7 +40141,7 @@ var players = [
     },
     {
         "EnglishName": "Neil",
-        "JapaneseName": "Arata",
+        "JapaneseName": "Shimozuru",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
@@ -40321,7 +40321,7 @@ var players = [
     },
     {
         "EnglishName": "King",
-        "JapaneseName": "Genou",
+        "JapaneseName": "Genda",
         "Gender": "Male",
         "Position": "GK",
         "Element": "Fire",
@@ -40585,7 +40585,7 @@ var players = [
     },
     {
         "EnglishName": "Kia",
-        "JapaneseName": "Tanukigahara",
+        "JapaneseName": "Ponko",
         "Gender": "Female",
         "Position": "MF",
         "Element": "Wood",
@@ -40669,7 +40669,7 @@ var players = [
     },
     {
         "EnglishName": "Hardy",
-        "JapaneseName": "Sasuke",
+        "JapaneseName": "Kozoumaru",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
