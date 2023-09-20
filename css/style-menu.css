@@ -89,7 +89,7 @@ audio {
     right: 0;
     top: 0;
     margin: 1em;
-    color: #fff;
+    color: #000000;
     cursor: pointer;
 }
 
@@ -101,6 +101,9 @@ audio {
 @media screen and (max-width: 800px) {
     .menu h3 {
         font-size: 1.5em;
+    }
+    .screen video {
+        translate: 20%;
     }
 }
 
@@ -114,4 +117,15 @@ audio {
         display: none;
     }
 }
+
+.menu h1,
+.menu h3,
+.menu ul li a {
+  text-shadow: 
+    -2px -2px 0 #000,   
+    2px -2px 0 #000,    
+    -2px 2px 0 #000,    
+    2px 2px 0 #000;     
+}
+
 
