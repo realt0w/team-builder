@@ -2,62 +2,62 @@ var coaches = [
   {
     "EnglishName": "Wintersea",
     "JapaneseName": "Fuyukai",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/Fuyukaishot.png/revision/latest?cb=20200621104041"
+    "Sprite": "./images/coaches/Fuyukai_Suguru.png"
   },
   {
     "EnglishName": "Hillman",
     "JapaneseName": "Hibiki",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Hibiki_Seigou_coach_uniform.png"
+    "Sprite": "./images/coaches/Hibiki_Seigou_sprite_(casual).png"
   },
   {
     "EnglishName": "Jyde",
     "JapaneseName": "Jikiru",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Jikiru_Haito_alter_ego.png"
+    "Sprite": "./images/coaches/Jikiru_Haito.png"
   },
   {
     "EnglishName": "Savage",
     "JapaneseName": "Tazan",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Tazan.png"
+    "Sprite": "./images/coaches/Tazan_Kousuke.png"
   },
   {
     "EnglishName": "Thomas",
     "JapaneseName": "Toyama",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Toyama_Shinnichirou.png"
+    "Sprite": "./images/coaches/Toyama_Shinichirou.png"
   },
   {
     "EnglishName": "Artic",
     "JapaneseName": "Maniya",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/Coach5shot.png"
+    "Sprite": "./images/coaches/Maniya_Saito.png"
   },
   {
     "EnglishName": "Dark",
     "JapaneseName": "Kageyama",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Kageyamareijishot.png"
+    "Sprite": "./images/coaches/Kageyama_Reiji_sprite.png"
   },
   {
     "EnglishName": "Igajima",
     "JapaneseName": "Igajima",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Coach6shot.png"
+    "Sprite": "./images/coaches/Igajima_Senichi.png"
   },
   {
     "EnglishName": "Newfield",
     "JapaneseName": "Shinno",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Coach7shot.png"
+    "Sprite": "./images/coaches/Shinno_Kamekichi.png"
   },
   {
     "EnglishName": "Nichols",
     "JapaneseName": "Nikaidou",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Coach8shot.png"
+    "Sprite": "./images/coaches/Nikaidou_Shuugo.png"
   },
   {
     "EnglishName": "David",
     "JapaneseName": "Daisuke",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/84/Daisuke_sprite_0.png"
+    "Sprite": "./images/coaches/Endou_Daisuke_sprite.png"
   },
   {
     "EnglishName": "Sweet",
     "JapaneseName": "Aida",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Aida_Chikara_sprite.png"
+    "Sprite": "./images/coaches/Aida_Chikara.png"
   },
   {
     "EnglishName": "Loggan",
@@ -67,12 +67,12 @@ var coaches = [
   {
     "EnglishName": "Lina",
     "JapaneseName": "Hitomiko",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Hitomiko_sprite_0.png/revision/latest?cb=20120206171535"
+    "Sprite": "./images/coaches/Kira_Hitomiko.png"
   },
   {
     "EnglishName": "Alpine's coach",
     "JapaneseName": "Takayama",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d9/Tayakama.png/revision/latest?cb=20180705001918"
+    "Sprite": "./images/coaches/Hakuren's_Coach.png"
   },
   {
     "EnglishName": "Cloister Divinity's coach",
@@ -89,6 +89,11 @@ var coaches = [
     "JapaneseName": "Yokato's coach",
     "Sprite": "https://i.imgur.com/Uy3sFyu.png"
   },
+    {
+    "EnglishName": "Balding",
+    "JapaneseName": "Batten",
+    "Sprite": "./images/coaches/Batten.png"
+  },
   {
     "EnglishName": "Mary Times' coach",
     "JapaneseName": "Oumihara's coach",
@@ -97,37 +102,37 @@ var coaches = [
   {
     "EnglishName": "Astram",
     "JapaneseName": "Seijirou",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/76/Kiraseijoroushot.png/revision/latest?cb=20120407072053"
+    "Sprite": "./images/coaches/Kira_Seijirou.png"
   },
   {
     "EnglishName": "Wyles",
     "JapaneseName": "Kenzaki",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Kenzakishot.png/revision/latest?cb=20120407071215"
+    "Sprite": "./images/coaches/Kenzaki_Ryuuichi.png"
   },
   {
     "EnglishName": "Percy",
     "JapaneseName": "Kudou",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Kudou_sprite_1.png/revision/latest?cb=20120206163152"
+    "Sprite": "./images/coaches/Kudou_Michiya.png"
   },
   {
     "EnglishName": "Cliser",
     "JapaneseName": "Robert",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Coach19shot.png/revision/latest?cb=20120407070208"
+    "Sprite": "./images/coaches/Robert_Cliser.png"
   },
   {
     "EnglishName": "Manon",
     "JapaneseName": "Eliza",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/10/Coach20shot.png/revision/latest?cb=20120407065610"
+    "Sprite": "./images/coaches/Eliza_Manon.png"
   },
   {
     "EnglishName": "Lee",
-    "JapaneseName": "Jin Sung",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Lee_Jin_Sung.png/revision/latest?cb=20200621165629"
+    "JapaneseName": "Jin-Sung",
+    "Sprite": "./images/coaches/Lee_Jin-sung.png"
   },
   {
     "EnglishName": "Adams",
     "JapaneseName": "Aaron",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d0/Coach18shot.png/revision/latest?cb=20120407065334"
+    "Sprite": "./images/coaches/Aaron_Adams.png"
   },
   {
     "EnglishName": "Stavín",
@@ -142,27 +147,27 @@ var coaches = [
   {
     "EnglishName": "Mister D",
     "JapaneseName": "Mister K",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Mrkshot1.png/revision/latest?cb=20120407072744"
+    "Sprite": "./images/coaches/Mister_K.png"
   },
   {
     "EnglishName": "Sams",
     "JapaneseName": "Leon",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Leon_Sams_avatar.png/revision/latest?cb=20190527124036"
+    "Sprite": "./images/coaches/Leon_Sams.png"
   },
   {
     "EnglishName": "Zoolan",
     "JapaneseName": "Garshield",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Garshieldshot1.png/revision/latest?cb=20120407071453"
+    "Sprite": "./images/coaches/Garshield_Bayhan.png"
   },
   {
     "EnglishName": "David",
     "JapaneseName": "Daisuke",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Daisuke_sprite_1.png/revision/latest?cb=20120206165100"
+    "Sprite": "./images/coaches/Endou_Daisuke_LG.png"
   },
   {
     "EnglishName": "Bausen",
     "JapaneseName": "Bauzen",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Futureantagonistshot.png/revision/latest?cb=20120407065530"
+    "Sprite": "./images/coaches/Bauzen_sprite.png"
   },
   {
     "EnglishName": "Percy",
@@ -457,7 +462,7 @@ var coaches = [
     {
     "EnglishName": "Pepe Banderas",
     "JapaneseName": "Pepe Banderas",
-    "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png"
+    "Sprite": "./images/players/orion/Muteki_no_Giants/Pepe Banderas.png"
   },
       {
     "EnglishName": "Livin Drisco",
