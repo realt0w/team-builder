@@ -1045,8 +1045,8 @@ var emblems = [
         "JapaneseTeam": "Zennihon Youth"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Navy_Invader_Emblem.png",
-        "EnglishTeam": "Navy Invader",
+        "Sprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
+        "EnglishTeam": "Navy Invaders",
         "JapaneseTeam": "Navy Invader"
     },
     {
