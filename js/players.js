@@ -40896,18 +40896,6 @@ var players = [
         "Game": "Orion"
     },
         {
-        "EnglishName": "Majid",
-        "JapaneseName": "Majid",
-        "Gender": "Male",
-        "Position": "DF",
-        "Element": "None",
-        "Sprite": "./images/players/orion/EternalDancers/Majid_Azel.png",
-        "EnglishTeam": "Eternal Dancers",
-        "JapaneseTeam": "Eternal Dancers",
-        "TeamSprite": "./images/players/orion/EternalDancers/Eternal_Dancers_emblem.png",
-        "Game": "Orion"
-    },
-        {
         "EnglishName": "Zafar",
         "JapaneseName": "Zafar",
         "Gender": "Male",
@@ -41970,18 +41958,6 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Horn.png",
-        "EnglishTeam": "Navy Invaders",
-        "JapaneseTeam": "Navy Invader",
-        "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
-        "Game": "Orion"
-    },
-        {
-        "EnglishName": "Magician",
-        "JapaneseName": "Magician",
-        "Gender": "Male",
-        "Position": "MF",
-        "Element": "None",
-        "Sprite": "./images/players/orion/navyinvader/Magician.png",
         "EnglishTeam": "Navy Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
