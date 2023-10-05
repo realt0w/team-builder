@@ -815,6 +815,12 @@ var teams = [
         "Sprite": "./images/players/orion/StarUnicorn/Star_Unicorn_Emblem.png",
         "Game": "Orion"
     },
+{
+        "EnglishName": "Navy Invaders",
+        "JapaneseName": "Navy Invader",
+        "Sprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
+        "Game": "Orion"
+    },
     {
         "EnglishName": "Perfect Spark",
         "JapaneseName": "Perfect Spark",
