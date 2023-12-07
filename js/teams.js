@@ -858,6 +858,12 @@ var teams = [
         "Game": "VR"
     },
     {
+        "EnglishName": "Eastwind Peregrine",
+        "JapaneseName": "Eastwind Peregrine",
+        "Sprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
+        "Game": "VR"
+    },
+    {
         "EnglishName": "Elemental Menace - @Procyon_Net",
         "JapaneseName": "Elemental Menace - @Procyon_Net",
         "Sprite": "./images/emblems/fan/Elements.png",
