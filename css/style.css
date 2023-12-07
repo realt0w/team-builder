@@ -2257,3 +2257,19 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
   .Pop-discord-btn:hover {
     background-color: #5865F2;
   }
+  
+  .Pop-patreon-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #c53f28;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-left: 50px;
+  }
+  
+  .Pop-patreon-btn:hover {
+    background-color: #992d19;
+  }

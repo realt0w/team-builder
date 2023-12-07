@@ -42792,6 +42792,42 @@ var players = [
         "Game": "VR"
     },
     {
+        "EnglishName": "Leone",
+        "JapaneseName": "Leone",
+        "Gender": "None",
+        "Position": "GK",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/eastwind/Leone.png",
+        "EnglishTeam": "Eastwind Peregrine",
+        "JapaneseTeam": "Eastwind Peregrine",
+        "TeamSprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
+        "Game": "VR"
+    },
+    {
+        "EnglishName": "Yamanouchi",
+        "JapaneseName": "Yamanouchi",
+        "Gender": "None",
+        "Position": "NO",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/eastwind/Yamanouchi.png",
+        "EnglishTeam": "Eastwind Peregrine",
+        "JapaneseTeam": "Eastwind Peregrine",
+        "TeamSprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
+        "Game": "VR"
+    },
+    {
+        "EnglishName": "Yoshizaki",
+        "JapaneseName": "Yoshizaki",
+        "Gender": "None",
+        "Position": "FW",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/eastwind/Yoshizaki.png",
+        "EnglishTeam": "Eastwind Peregrine",
+        "JapaneseTeam": "Eastwind Peregrine",
+        "TeamSprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
+        "Game": "VR"
+    },
+    {
         "EnglishName": "Spark",
         "JapaneseName": "Spark",
         "Gender": "Male",
