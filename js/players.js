@@ -15901,7 +15901,7 @@ var players = [
     },
     {
         "EnglishName": "Sinja",
-        "JapaneseName": "Sin-jae",
+        "JapaneseName": "Shin-jae",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -15912,7 +15912,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Bae",
+        "EnglishName": "Noh-Bae",
         "JapaneseName": "Baejeong",
         "Gender": "Male",
         "Position": "DF",
@@ -15925,7 +15925,7 @@ var players = [
     },
     {
         "EnglishName": "Seu",
-        "JapaneseName": "Yeong-jin",
+        "JapaneseName": "Young-jin",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -15937,7 +15937,7 @@ var players = [
     },
     {
         "EnglishName": "Shin",
-        "JapaneseName": "Sin",
+        "JapaneseName": "Shin",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -15949,7 +15949,7 @@ var players = [
     },
     {
         "EnglishName": "Yang",
-        "JapaneseName": "Geon-woo",
+        "JapaneseName": "Gun-woo",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Fire",
@@ -15972,7 +15972,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Byun",
+        "EnglishName": "Hwang",
         "JapaneseName": "Byeonmin",
         "Gender": "Female",
         "Position": "MF",
@@ -15985,7 +15985,7 @@ var players = [
     },
     {
         "EnglishName": "Sim",
-        "JapaneseName": "So-yeon",
+        "JapaneseName": "Seo-yeon",
         "Gender": "Female",
         "Position": "FW",
         "Element": "Earth",
@@ -15996,24 +15996,24 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Hwang",
-        "JapaneseName": "Hwangju",
+        "EnglishName": "Lee",
+        "JapaneseName": "Choon-yoon",
         "Gender": "Male",
         "Position": "FW",
-        "Element": "Wind",
-        "Sprite": "./images/players/go3/Fire Dragon GO/Hwang Jun-Ho.png",
+        "Element": "Wood",
+        "Sprite": "./images/players/go3/Fire Dragon GO/Lee Chung-Yun.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Fire_Dragon_emblem_anime.png/revision/latest?cb=20171115064848",
         "Game": "GO3"
     },
     {
-        "EnglishName": "Lee",
-        "JapaneseName": "Chung-yun",
+        "EnglishName": "Joo-Won",
+        "JapaneseName": "Hwangjoo",
         "Gender": "Male",
         "Position": "FW",
-        "Element": "Wood",
-        "Sprite": "./images/players/go3/Fire Dragon GO/Lee Chung-Yun.png",
+        "Element": "Wind",
+        "Sprite": "./images/players/go3/Fire Dragon GO/Hwang Jun-Ho.png",
         "EnglishTeam": "Fire Dragon",
         "JapaneseTeam": "Fire Dragon",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e9/Fire_Dragon_emblem_anime.png/revision/latest?cb=20171115064848",
@@ -16140,7 +16140,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Octopus",
+        "EnglishName": "Octa",
         "JapaneseName": "Octopus",
         "Gender": "Male",
         "Position": "FW",
@@ -16152,7 +16152,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Hamza",
+        "EnglishName": "Sultan",
         "JapaneseName": "Sultan",
         "Gender": "Male",
         "Position": "GK",
@@ -16188,7 +16188,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Bahnas",
+        "EnglishName": "Batal",
         "JapaneseName": "Batal",
         "Gender": "Male",
         "Position": "DF",
@@ -16224,7 +16224,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Shibel",
+        "EnglishName": "Nazim",
         "JapaneseName": "Nazim",
         "Gender": "Male",
         "Position": "MF",
@@ -16236,7 +16236,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Bassel",
+        "EnglishName": "Tamir",
         "JapaneseName": "Tamir",
         "Gender": "Male",
         "Position": "MF",
@@ -16248,7 +16248,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Layth",
+        "EnglishName": "Rashid",
         "JapaneseName": "Rashid",
         "Gender": "Male",
         "Position": "MF",
@@ -16260,19 +16260,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Waard",
-        "JapaneseName": "Kasim",
-        "Gender": "Male",
-        "Position": "FW",
-        "Element": "Wind",
-        "Sprite": "./images/players/go3/Shamshir/Kasim Bador.png",
-        "EnglishTeam": "Shamshir",
-        "JapaneseTeam": "Shamshir",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d4/Shamshir_emblem.png/revision/latest?cb=20171115064935",
-        "Game": "GO3"
-    },
-    {
-        "EnglishName": "Abbas",
+        "EnglishName": "Said",
         "JapaneseName": "Said",
         "Gender": "Male",
         "Position": "FW",
@@ -16284,7 +16272,19 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Kaewthan",
+        "EnglishName": "Waard",
+        "JapaneseName": "Qasim",
+        "Gender": "Male",
+        "Position": "FW",
+        "Element": "Wind",
+        "Sprite": "./images/players/go3/Shamshir/Kasim Bador.png",
+        "EnglishTeam": "Shamshir",
+        "JapaneseTeam": "Shamshir",
+        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d4/Shamshir_emblem.png/revision/latest?cb=20171115064935",
+        "Game": "GO3"
+    },
+    {
+        "EnglishName": "Udom",
         "JapaneseName": "Udom",
         "Gender": "Male",
         "Position": "GK",
@@ -16308,7 +16308,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Chupong",
+        "EnglishName": "Napa",
         "JapaneseName": "Napa",
         "Gender": "Male",
         "Position": "DF",
@@ -16332,7 +16332,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Lapuna",
+        "EnglishName": "Sulada",
         "JapaneseName": "Sarana",
         "Gender": "Female",
         "Position": "MF",
@@ -16344,7 +16344,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Ratcha",
+        "EnglishName": "Suchart",
         "JapaneseName": "Sarit",
         "Gender": "Male",
         "Position": "MF",
@@ -16356,7 +16356,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Srisan",
+        "EnglishName": "Nawarat",
         "JapaneseName": "Nawat",
         "Gender": "Male",
         "Position": "MF",
@@ -16368,7 +16368,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Hinta",
+        "EnglishName": "Mei",
         "JapaneseName": "Chapati",
         "Gender": "Female",
         "Position": "MF",
@@ -16380,7 +16380,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Kimwai",
+        "EnglishName": "Bak",
         "JapaneseName": "Bark",
         "Gender": "Male",
         "Position": "MF",
@@ -16392,7 +16392,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Sooksil",
+        "EnglishName": "Kaolan",
         "JapaneseName": "Sagot",
         "Gender": "Male",
         "Position": "MF",
@@ -16428,7 +16428,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Mullodov",
+        "EnglishName": "Server",
         "JapaneseName": "Sergei",
         "Gender": "Male",
         "Position": "DF",
@@ -16440,7 +16440,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Afonin",
+        "EnglishName": "Mirja",
         "JapaneseName": "Mitya",
         "Gender": "Male",
         "Position": "DF",
@@ -16452,7 +16452,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Babanov",
+        "EnglishName": "Yuri",
         "JapaneseName": "Yuri",
         "Gender": "Male",
         "Position": "DF",
@@ -16465,7 +16465,7 @@ var players = [
     },
     {
         "EnglishName": "Jorayev",
-        "JapaneseName": "Golbakh",
+        "JapaneseName": "Golibav",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Earth",
@@ -16488,7 +16488,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Qasimov",
+        "EnglishName": "Rustan",
         "JapaneseName": "Ruslan",
         "Gender": "Male",
         "Position": "MF",
@@ -16500,7 +16500,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Sodiqov",
+        "EnglishName": "Aaron",
         "JapaneseName": "Aaron",
         "Gender": "Male",
         "Position": "MF",
@@ -16524,24 +16524,24 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Malayev",
-        "JapaneseName": "Zaur",
+        "EnglishName": "Dilshod",
+        "JapaneseName": "Dmitri",
         "Gender": "Male",
         "Position": "FW",
-        "Element": "Wind",
-        "Sprite": "./images/players/go3/stormwolfs/Zaur Melekh.png",
+        "Element": "Earth",
+        "Sprite": "./images/players/go3/stormwolfs/Dmitri Sobirov.png",
         "EnglishTeam": "Storm Wolves",
         "JapaneseTeam": "Storm Wolf",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Storm_Wolf_Emblem.png/revision/latest?cb=20171115065135",
         "Game": "GO3"
     },
     {
-        "EnglishName": "Sokurov",
-        "JapaneseName": "Dmitri",
+        "EnglishName": "Zafar",
+        "JapaneseName": "Zaur",
         "Gender": "Male",
         "Position": "FW",
-        "Element": "Earth",
-        "Sprite": "./images/players/go3/stormwolfs/Dmitri Sobirov.png",
+        "Element": "Wind",
+        "Sprite": "./images/players/go3/stormwolfs/Zaur Melekh.png",
         "EnglishTeam": "Storm Wolves",
         "JapaneseTeam": "Storm Wolf",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b7/Storm_Wolf_Emblem.png/revision/latest?cb=20171115065135",
@@ -16572,7 +16572,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Viktor",
+        "EnglishName": "Fake Victor",
         "JapaneseName": "Fake Tsurugi",
         "Gender": "Male",
         "Position": "FW",
@@ -16584,7 +16584,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "B'adain",
+        "EnglishName": "B'adaen",
         "JapaneseName": "Badai",
         "Gender": "Male",
         "Position": "GK",
@@ -16608,7 +16608,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "D'ahna",
+        "EnglishName": "A'ddah",
         "JapaneseName": "Duff",
         "Gender": "Male",
         "Position": "DF",
@@ -16632,7 +16632,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "T'akla",
+        "EnglishName": "A'kra",
         "JapaneseName": "Takla",
         "Gender": "Male",
         "Position": "DF",
@@ -16680,7 +16680,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "S'aha",
+        "EnglishName": "S'haha",
         "JapaneseName": "Zaba",
         "Gender": "Male",
         "Position": "FW",
@@ -16692,7 +16692,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "S'harki",
+        "EnglishName": "S'harqiyah",
         "JapaneseName": "Sharqi",
         "Gender": "Male",
         "Position": "FW",
@@ -16920,7 +16920,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Bromon",
+        "EnglishName": "Proman",
         "JapaneseName": "Shoebill",
         "Gender": "Male",
         "Position": "MF",
@@ -17088,7 +17088,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Cicado",
+        "EnglishName": "Schisto",
         "JapaneseName": "Locus",
         "Gender": "Male",
         "Position": "FW",
@@ -17136,7 +17136,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Banda Jr.",
+        "EnglishName": "Junior",
         "JapaneseName": "Junior",
         "Gender": "Male",
         "Position": "MF",
@@ -17196,7 +17196,7 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Selenium",
+        "EnglishName": "Selenia",
         "JapaneseName": "Melvil",
         "Gender": "Female",
         "Position": "MF",
@@ -17400,24 +17400,24 @@ var players = [
         "Game": "GO3"
     },
     {
-        "EnglishName": "Loge",
-        "JapaneseName": "Loge",
-        "Gender": "Male",
-        "Position": "FW",
-        "Element": "Wood",
-        "Sprite": "./images/players/go3/ixar/Loge_Kolith.png",
-        "EnglishTeam": "Ixar Fleet",
-        "JapaneseTeam": "Ixal Fleet",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Ixal_Fleet_Emblem.png/revision/latest?cb=20171115063358",
-        "Game": "GO3"
-    },
-    {
         "EnglishName": "Ozrock",
         "JapaneseName": "Ozrock",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wind",
         "Sprite": "./images/players/go3/ixar/Ozrock_Mugshot_Ixal.png",
+        "EnglishTeam": "Ixar Fleet",
+        "JapaneseTeam": "Ixal Fleet",
+        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Ixal_Fleet_Emblem.png/revision/latest?cb=20171115063358",
+        "Game": "GO3"
+    },
+    {
+        "EnglishName": "Loge",
+        "JapaneseName": "Loge",
+        "Gender": "Male",
+        "Position": "FW",
+        "Element": "Wood",
+        "Sprite": "./images/players/go3/ixar/Loge_Kolith.png",
         "EnglishTeam": "Ixar Fleet",
         "JapaneseTeam": "Ixal Fleet",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Ixal_Fleet_Emblem.png/revision/latest?cb=20171115063358",
@@ -40680,7 +40680,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Shin",
+        "EnglishName": "Park",
         "JapaneseName": "Shin",
         "Gender": "Male",
         "Position": "GK",
@@ -40716,8 +40716,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Song",
-        "JapaneseName": "Song",
+        "EnglishName": "Sung",
+        "JapaneseName": "Sung",
         "Gender": "Female",
         "Position": "DF",
         "Element": "None",
@@ -40729,7 +40729,7 @@ var players = [
     },
     {
         "EnglishName": "Yu-hwan",
-        "JapaneseName": "Yu-hwan",
+        "JapaneseName": "Park",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -40740,8 +40740,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Yeon",
-        "JapaneseName": "Yeon",
+        "EnglishName": "Young",
+        "JapaneseName": "Young",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40752,8 +40752,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Seung-jin",
-        "JapaneseName": "Seung-jin",
+        "EnglishName": "Lee",
+        "JapaneseName": "Lee",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40792,7 +40792,7 @@ var players = [
         "JapaneseName": "Baek",
         "Gender": "Male",
         "Position": "FW",
-        "Element": "None",
+        "Element": "Fire",
         "Sprite": "./images/players/orion/RedBison/Baek_Shi-woo.png",
         "EnglishTeam": "Red Bison",
         "JapaneseTeam": "Red Bison",
@@ -40800,8 +40800,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Dong-hyeok",
-        "JapaneseName": "Dong-hyeok",
+        "EnglishName": "Dong-hyuk",
+        "JapaneseName": "Dong-hyuk",
         "Gender": "Male",
         "Position": "FW",
         "Element": "None",
@@ -40812,8 +40812,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Ho",
-        "JapaneseName": "Ho",
+        "EnglishName": "Heo",
+        "JapaneseName": "Heo",
         "Gender": "Male",
         "Position": "FW",
         "Element": "None",
@@ -40824,8 +40824,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Son",
-        "JapaneseName": "Son",
+        "EnglishName": "Min-soo",
+        "JapaneseName": "Min-soo",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40956,8 +40956,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Onakhon",
-        "JapaneseName": "Onakhon",
+        "EnglishName": "Onaxon",
+        "JapaneseName": "Onaxon",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
@@ -40968,7 +40968,7 @@ var players = [
         "Game": "Orion"
     },
         {
-        "EnglishName": "Dost",
+        "EnglishName": "Tango",
         "JapaneseName": "Dost",
         "Gender": "Male",
         "Position": "FW",
@@ -41100,7 +41100,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Satan",
+        "EnglishName": "Beryl",
         "JapaneseName": "Satan",
         "Gender": "Male",
         "Position": "MF",
@@ -41112,7 +41112,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Satan²",
+        "EnglishName": "Beryl²",
         "JapaneseName": "Satan²",
         "Gender": "Male",
         "Position": "MF",
@@ -41124,7 +41124,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Satan³",
+        "EnglishName": "Beryl³",
         "JapaneseName": "Satan³",
         "Gender": "Male",
         "Position": "MF",
@@ -41136,7 +41136,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Sar",
+        "EnglishName": "Serge",
         "JapaneseName": "Sar",
         "Gender": "Male",
         "Position": "FW",
@@ -41148,7 +41148,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "As",
+        "EnglishName": "Aster",
         "JapaneseName": "As",
         "Gender": "Male",
         "Position": "FW",
@@ -41160,7 +41160,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Luci",
+        "EnglishName": "Lu",
         "JapaneseName": "Luci",
         "Gender": "Male",
         "Position": "MF",
@@ -41292,7 +41292,7 @@ var players = [
         "Game": "Orion"
     },
         {
-        "EnglishName": "Andreas",
+        "EnglishName": "Perry",
         "JapaneseName": "Andreas",
         "Gender": "Male",
         "Position": "FW",
@@ -41352,7 +41352,7 @@ var players = [
         "Game": "Orion"
     },
         {
-        "EnglishName": "Tao",
+        "EnglishName": "Cindy",
         "JapaneseName": "Tao",
         "Gender": "Female",
         "Position": "DF",
@@ -41424,7 +41424,7 @@ var players = [
         "Game": "Orion"
     },
             {
-        "EnglishName": "Zhou",
+        "EnglishName": "Jackie",
         "JapaneseName": "Zhou",
         "Gender": "Male",
         "Position": "MF",
@@ -41436,7 +41436,7 @@ var players = [
         "Game": "Orion"
     },
             {
-        "EnglishName": "Li",
+        "EnglishName": "Jimmy",
         "JapaneseName": "Li",
         "Gender": "Male",
         "Position": "MF",
@@ -41460,7 +41460,7 @@ var players = [
         "Game": "Orion"
     },
             {
-        "EnglishName": "Shuu",
+        "EnglishName": "Xiu",
         "JapaneseName": "Shuu",
         "Gender": "Male",
         "Position": "FW",
@@ -41496,7 +41496,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Alonso",
+        "EnglishName": "Salvador",
         "JapaneseName": "Alonso",
         "Gender": "Male",
         "Position": "GK",
@@ -41520,7 +41520,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Reinaldo",
+        "EnglishName": "Dani",
         "JapaneseName": "Reinaldo",
         "Gender": "Male",
         "Position": "DF",
@@ -41592,7 +41592,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Luther",
+        "EnglishName": "Leo",
         "JapaneseName": "Luther",
         "Gender": "Male",
         "Position": "FW",
@@ -41604,7 +41604,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Clario",
+        "EnglishName": "Sergi",
         "JapaneseName": "Clario",
         "Gender": "Male",
         "Position": "MF",
@@ -41616,7 +41616,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Bergamo",
+        "EnglishName": "Joan",
         "JapaneseName": "Bergamo",
         "Gender": "Male",
         "Position": "FW",
@@ -41653,7 +41653,7 @@ var players = [
     },
     {
         "EnglishName": "Dash",
-        "JapaneseName": "Rapid",
+        "JapaneseName": "Kid",
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wood",
@@ -42012,8 +42012,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Labi",
-        "JapaneseName": "Labi",
+        "EnglishName": "Rabi",
+        "JapaneseName": "Rabi",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -42024,8 +42024,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Gennady",
-        "JapaneseName": "Gennady",
+        "EnglishName": "Gwennady",
+        "JapaneseName": "Gwennady",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -42084,7 +42084,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Froy",
+        "EnglishName": "Alex",
         "JapaneseName": "Froy",
         "Gender": "Male",
         "Position": "MF",
@@ -42156,8 +42156,8 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "As",
-        "JapaneseName": "As",
+        "EnglishName": "Asu",
+        "JapaneseName": "Asu",
         "Gender": "Male",
         "Position": "MF",
         "Element": "None",
