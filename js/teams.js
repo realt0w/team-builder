@@ -859,7 +859,7 @@ var teams = [
     },
     {
         "EnglishName": "Eastwind Peregrine",
-        "JapaneseName": "Eastwind Peregrine",
+        "JapaneseName": "Toufuu Ikokukan",
         "Sprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
         "Game": "VR"
     },
