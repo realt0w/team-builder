@@ -15901,7 +15901,7 @@ var players = [
     },
     {
         "EnglishName": "Sinja",
-        "JapaneseName": "Sin-jae",
+        "JapaneseName": "Shin-jae",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
