@@ -12409,7 +12409,7 @@ var players = [
     },
     {
         "EnglishName": "Welly",
-        "JapaneseName": "Rurio",
+        "JapaneseName": "Ruriwo",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Wind",
