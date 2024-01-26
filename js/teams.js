@@ -863,6 +863,24 @@ var teams = [
         "Sprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
         "Game": "VR"
     },
+        {
+        "EnglishName": "Inazuma All Stars",
+        "JapaneseName": "Inazuma All Stars",
+        "Sprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "Game": "VR"
+    },
+        {
+        "EnglishName": "Japan Dreams",
+        "JapaneseName": "Japan Dreams",
+        "Sprite": "./images/emblems/orion/Inazuma_Japan.png",
+        "Game": "VR"
+    },
+        {
+        "EnglishName": "Aliea Masters",
+        "JapaneseName": "Aliea Masters",
+        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6f/The_Genesis_emblem.png",
+        "Game": "VR"
+    },
     {
         "EnglishName": "Elemental Menace - @Procyon_Net",
         "JapaneseName": "Elemental Menace - @Procyon_Net",
