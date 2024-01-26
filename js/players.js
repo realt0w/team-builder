@@ -8149,7 +8149,7 @@ var players = [
     },
     {
         "EnglishName": "Furman",
-        "JapaneseName": "Dinga",
+        "JapaneseName": "Dingaa",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
@@ -8701,7 +8701,7 @@ var players = [
     },
     {
         "EnglishName": "Thanatos",
-        "JapaneseName": "Satanathos",
+        "JapaneseName": "Satanatos",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
