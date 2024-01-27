@@ -20,7 +20,7 @@ var coaches = [
     "Sprite": "./images/coaches/Tazan_Kousuke.png"
   },
   {
-    "EnglishName": "Thomas",
+    "EnglishName": "Thommo",
     "JapaneseName": "Toyama",
     "Sprite": "./images/coaches/Toyama_Shinichirou.png"
   },
@@ -70,8 +70,8 @@ var coaches = [
     "Sprite": "./images/coaches/Kira_Hitomiko.png"
   },
   {
-    "EnglishName": "Alpine's coach",
-    "JapaneseName": "Takayama",
+    "EnglishName": "Alpine's Coach",
+    "JapaneseName": "Hakuren's Coach",
     "Sprite": "./images/coaches/Hakuren's_Coach.png"
   },
   {
@@ -100,8 +100,8 @@ var coaches = [
     "Sprite": "https://i.imgur.com/TmOtP8m.png"
   },
   {
-    "EnglishName": "Astram",
-    "JapaneseName": "Seijirou",
+    "EnglishName": "Schiller",
+    "JapaneseName": "Kira",
     "Sprite": "./images/coaches/Kira_Seijirou.png"
   },
   {
@@ -110,7 +110,7 @@ var coaches = [
     "Sprite": "./images/coaches/Kenzaki_Ryuuichi.png"
   },
   {
-    "EnglishName": "Percy",
+    "EnglishName": "Travis",
     "JapaneseName": "Kudou",
     "Sprite": "./images/coaches/Kudou_Michiya.png"
   },
@@ -126,7 +126,7 @@ var coaches = [
   },
   {
     "EnglishName": "Lee",
-    "JapaneseName": "Jin-Sung",
+    "JapaneseName": "Jin-sung",
     "Sprite": "./images/coaches/Lee_Jin-sung.png"
   },
   {
@@ -140,7 +140,7 @@ var coaches = [
     "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/2/2a/Daniel_Stav%C3%ADn_%28Sprite%29.png/revision/latest?cb=20191210135148&path-prefix=es"
   },
   {
-    "EnglishName": "Scride",
+    "EnglishName": "Mac",
     "JapaneseName": "Mack",
     "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/c/c1/Mac_Scride_-_Sprite.png/revision/latest?cb=20191212215243&path-prefix=es"
   },
@@ -170,7 +170,7 @@ var coaches = [
     "Sprite": "./images/coaches/Bauzen_sprite.png"
   },
   {
-    "EnglishName": "Percy",
+    "EnglishName": "Travis",
     "JapaneseName": "Kudou",
     "Sprite": "./images/coaches/tile000.png"
   },
@@ -226,7 +226,7 @@ var coaches = [
   },
   {
     "EnglishName": "Bigfoot",
-    "JapaneseName": "Kamuzaki",
+    "JapaneseName": "Kumazaki",
     "Sprite": "./images/coaches/tile010.png"
   },
   {
@@ -236,7 +236,7 @@ var coaches = [
   },
   {
     "EnglishName": "Sleight",
-    "JapaneseName": "Housuiin",
+    "JapaneseName": "Housui",
     "Sprite": "./images/coaches/tile012.png"
   },
   {
@@ -260,7 +260,7 @@ var coaches = [
     "Sprite": "./images/coaches/tile017.png"
   },
   {
-    "EnglishName": "Silvia",
+    "EnglishName": "Woods",
     "JapaneseName": "Aki",
     "Sprite": "./images/coaches/tile016.png"
   },
@@ -286,7 +286,7 @@ var coaches = [
   },
   {
     "EnglishName": "Liu Bei",
-    "JapaneseName": "Liu Bei",
+    "JapaneseName": "Ryuubi",
     "Sprite": "./images/coaches/tile022.png"
   },
   {
@@ -296,7 +296,7 @@ var coaches = [
   },
   {
     "EnglishName": "Pa",
-    "JapaneseName": "Tochan",
+    "JapaneseName": "Toh-chan",
     "Sprite": "./images/coaches/tile024.png"
   },
   {
@@ -326,157 +326,157 @@ var coaches = [
   },
   {
     "EnglishName": "Bête Noire",
-    "JapaneseName": "Benigiku",
+    "JapaneseName": "Benigiku Boss",
     "Sprite": "./images/coaches/tile028.png"
   },
   {
     "EnglishName": "Grandfather",
-    "JapaneseName": "Grandfather",
+    "JapaneseName": "Gra Fa",
     "Sprite": "./images/coaches/tile031.png"
   },
   {
-    "EnglishName": "Astero Black",
-    "JapaneseName": "Kuroiwa Ryuusei",
+    "EnglishName": "Black",
+    "JapaneseName": "Kuroiwa",
     "Sprite": "./images/coaches/Kuroiwa.png"
   },
     {
-        "EnglishName": "Changsu Choi",
-        "JapaneseName": "Choi Chang-soo",
+        "EnglishName": "Choi",
+        "JapaneseName": "Chang-soo",
         "Sprite": "./images/coaches/Choi.png"
     },
     {
-        "EnglishName": "Orlando Sherman",
-        "JapaneseName": "Orlando Sherman",
+        "EnglishName": "Ocean",
+        "JapaneseName": "Ocean",
         "Sprite": "./images/coaches/Orlando.png"
     },
     {
-        "EnglishName": "Murshid Amir",
-        "JapaneseName": "Murshid Amir",
+        "EnglishName": "Murshid",
+        "JapaneseName": "Murshid",
         "Sprite": "./images/coaches/Murshid.png"
     },
     {
-        "EnglishName": "Rasiree Saranyu",
-        "JapaneseName": "Rasiree Saranyu",
+        "EnglishName": "Rasiree",
+        "JapaneseName": "Rasiree",
         "Sprite": "./images/coaches/Rasiree.png"
     },
     {
-        "EnglishName": "Nikolay Gagarin",
-        "JapaneseName": "Nikolay Gagarin",
+        "EnglishName": "Gagarin",
+        "JapaneseName": "Gagarin",
         "Sprite": "./images/coaches/Nikolay.png"
     },
     {
-        "EnglishName": "Caleb Stonewall",
-        "JapaneseName": "Fudou Akio",
+        "EnglishName": "Stonewall",
+        "JapaneseName": "Fudou",
         "Sprite": "./images/coaches/Fudou.png"
     },
     {
-        "EnglishName": "Zundal Zand",
-        "JapaneseName": "Zundal Zand",
+        "EnglishName": "Zundal",
+        "JapaneseName": "Zundal",
         "Sprite": "./images/coaches/Zundal.png"
     },
     {
-        "EnglishName": "Porco Umil",
-        "JapaneseName": "Porco Umil",
+        "EnglishName": "Porco",
+        "JapaneseName": "Porco",
         "Sprite": "./images/coaches/Porco.png"
     },
     {
-        "EnglishName": "Caldera Dawn",
-        "JapaneseName": "Caldera Dawn",
+        "EnglishName": "Caldera",
+        "JapaneseName": "Caldera",
         "Sprite": "./images/coaches/Caldera.png"
     },
     {
-        "EnglishName": "Sect Pheromona",
-        "JapaneseName": "Shimur Pheromona",
+        "EnglishName": "Pheromona",
+        "JapaneseName": "Shimur",
         "Sprite": "./images/coaches/Shimur.png"
     },
   {
     "EnglishName": "Mister Yi",
-    "JapaneseName": "Zhao Jinyun",
+    "JapaneseName": "Zhao",
     "Sprite": "./images/players/ares/raimon/Coach_Raimon_MisterYi.png"
   },
   {
-    "EnglishName": "Dean Rush",
-    "JapaneseName": "Kameda Yukinori",
+    "EnglishName": "Rush",
+    "JapaneseName": "Kameda",
     "Sprite": "./images/players/ares/raimon/Dean_Rush.png"
   },
   {
-    "EnglishName": "Arashi Shinjirou",
-    "JapaneseName": "Arashi Shinjirou",
+    "EnglishName": "Arashi",
+    "JapaneseName": "Arashi",
     "Sprite": "./images/players/ares/selene/Arashi_Shinjirou.png"
   },
   {
-    "EnglishName": "Percy",
+    "EnglishName": "Travis",
     "JapaneseName": "Kudou",
     "Sprite": "./images/players/ares/polaris/PercivalTravis.png"
   },
   {
-    "EnglishName": "Matsuzaka Kiyo",
-    "JapaneseName": "Matsuzaka Kiyo",
+    "EnglishName": "Matsuzaka",
+    "JapaneseName": "Matsuzaka",
     "Sprite": "./images/players/ares/zeus/Zeus_Coach_Matsuzaka_Kiyo.png"
   },
   {
-    "EnglishName": "Saitou Ganseki",
-    "JapaneseName": "Saitou Ganseki",
+    "EnglishName": "Saitou",
+    "JapaneseName": "Saitou",
     "Sprite": "./images/players/ares/bastion/SaitouGanseki.png"
   },
   {
-    "EnglishName": "Wagano Kakumei",
-    "JapaneseName": "Wagano Kakumei",
+    "EnglishName": "Wagano",
+    "JapaneseName": "Wagano",
     "Sprite": "./images/players/ares/animasana/Anima_Sana_Coach_Wagano_Kakumei.png"
   },
   {
     "EnglishName": "Cottontail",
-    "JapaneseName": "Shiratoya Kanbei",
+    "JapaneseName": "Shiratoya",
     "Sprite": "./images/players/ares/alpin/Alpin_Coach_Monsieur_Cottontail.png"
   },
   {
-    "EnglishName": "Aquilina Schiller",
-    "JapaneseName": "Kira Hitomiko",
+    "EnglishName": "Lina",
+    "JapaneseName": "Hitomiko",
     "Sprite": "./images/players/ares/alia/Coach_Ecole Alia_Lina Schiller.png"
   },
   {
-    "EnglishName": "Silvia Woods",
-    "JapaneseName": "Kino Aki",
+    "EnglishName": "Woods",
+    "JapaneseName": "Kino",
     "Sprite": "./images/players/ares/lambda/Arès_Lambda_Silvia Woods.png"
   },
   {
-    "EnglishName": "Seymour Hillman",
-    "JapaneseName": "Hibiki Seigou",
+    "EnglishName": "Hillman",
+    "JapaneseName": "Hibiki",
     "Sprite": "./images/players/ares/lambda/Coach_Lambda_Seymour Hillman.png"
   },
   {
-    "EnglishName": "Sasanami Unmei",
-    "JapaneseName": "Sasanami Unmei",
+    "EnglishName": "Sasanami",
+    "JapaneseName": "Sasanami",
     "Sprite": "./images/coaches/SasanamiUnmei.png"
   },
     {
-    "EnglishName": "Diabo Los",
-    "JapaneseName": "Diabo Los",
+    "EnglishName": "Diabo",
+    "JapaneseName": "Diabo",
     "Sprite": "./images/players/orion/shiningsatans/Diabo Los.png"
   },
     {
-    "EnglishName": "Xiao Longbao",
-    "JapaneseName": "Xiao Longbao",
+    "EnglishName": "Xiao",
+    "JapaneseName": "Xiao",
     "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Xiao_Longbao.png"
   },
     {
-    "EnglishName": "Pepe Banderas",
-    "JapaneseName": "Pepe Banderas",
+    "EnglishName": "Pepe",
+    "JapaneseName": "Pepe",
     "Sprite": "./images/players/orion/Muteki_no_Giants/Pepe Banderas.png"
   },
       {
-    "EnglishName": "Livin Drisco",
-    "JapaneseName": "Livin Drisco",
+    "EnglishName": "Livin",
+    "JapaneseName": "Livin",
     "Sprite": "./images/players/orion/perfectspark/Livin Drisco.png"
   },
         {
-    "EnglishName": "Leoneilla Camion",
-    "JapaneseName": "Leoneilla Camion",
+    "EnglishName": "Leoneilla",
+    "JapaneseName": "Leoneilla",
     "Sprite": "./images/players/orion/oledesamba/Leoneilla Camion.png"
   },
   {
-    "EnglishName": "Kinben Giordani",
-    "JapaneseName": "Kinben Giordani",
+    "EnglishName": "Kinben",
+    "JapaneseName": "Kinben",
     "Sprite": "./images/coaches/KinbenGiordani.png"
   },
   {
