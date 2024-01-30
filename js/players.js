@@ -43448,7 +43448,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/EndouVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43460,7 +43460,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/Tachimukai VR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43472,7 +43472,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/KazemaruVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43484,7 +43484,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/KabeyamaVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43496,7 +43496,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/ShinsukeVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43508,7 +43508,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/KinakoVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43520,7 +43520,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/TsunamuVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43532,7 +43532,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/TenmaVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43544,7 +43544,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/AphrodiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43556,7 +43556,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/MidorikawaVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43568,7 +43568,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/GouenjiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43580,7 +43580,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/Nosaka VR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43592,7 +43592,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/TsurugiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43604,7 +43604,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/AsutoVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43616,7 +43616,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/FeiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43628,7 +43628,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/HirotoVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
