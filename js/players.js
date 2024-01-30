@@ -14744,7 +14744,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Gazen.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14756,7 +14756,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Subeyoshi.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14768,7 +14768,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ashiguro.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14780,7 +14780,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Hanbee.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14792,7 +14792,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ikkatsu.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14804,7 +14804,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Asama.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14816,7 +14816,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ginji.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14828,7 +14828,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ochimura.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14840,7 +14840,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Kutou.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14852,7 +14852,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Maebayashi.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14864,7 +14864,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Taian.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14876,7 +14876,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Mikimaru.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14888,7 +14888,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Yomoyama.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14900,7 +14900,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Yazu.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14912,7 +14912,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Ayabe.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -14924,7 +14924,7 @@ var players = [
         "Sprite": "./images/players/go2/Shiroshika Gumi/Kaburou.png",
         "EnglishTeam": "White Deer",
         "JapaneseTeam": "Shiroshika Gumi",
-        "TeamSprite": "./images/emblems/GO2/Shiroshika_Gumi_Emblem.png",
+        "TeamSprite": "./images/emblems/go2/Shiroshika_Gumi_Emblem.png",
         "Game": "GO2"
     },
     {
@@ -43448,7 +43448,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/EndouVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43460,7 +43460,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/Tachimukai VR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43472,7 +43472,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/KazemaruVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43484,7 +43484,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/KabeyamaVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43496,7 +43496,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/ShinsukeVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43508,7 +43508,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/KinakoVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43520,7 +43520,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/TsunamuVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43532,7 +43532,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/TenmaVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43544,7 +43544,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/AphrodiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43556,7 +43556,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/MidorikawaVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43568,7 +43568,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/GouenjiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43580,7 +43580,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/Nosaka VR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43592,7 +43592,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/TsurugiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43604,7 +43604,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/AsutoVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43616,7 +43616,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/FeiVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
@@ -43628,7 +43628,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/BetaSprites/HirotoVR.png",
         "EnglishTeam": "Inazuma All Stars",
         "JapaneseTeam": "Inazuma All Stars",
-        "TeamSprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "TeamSprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
     {
