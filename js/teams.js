@@ -866,7 +866,7 @@ var teams = [
         {
         "EnglishName": "Inazuma All Stars",
         "JapaneseName": "Inazuma All Stars",
-        "Sprite": "./images/emblems/GO2/ShinseiInazumaJapan.png",
+        "Sprite": "./images/emblems/go2/ShinseiInazumaJapan.png",
         "Game": "VR"
     },
         {
