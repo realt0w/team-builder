@@ -42799,7 +42799,7 @@ var players = [
         "Element": "None",
         "Sprite": "./images/players/victoryroad/eastwind/Leone.png",
         "EnglishTeam": "Eastwind Peregrine",
-        "JapaneseTeam": "Eastwind Peregrine",
+        "JapaneseTeam": "Toufuu Ikokukan",
         "TeamSprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
         "Game": "VR"
     },
@@ -42811,7 +42811,7 @@ var players = [
         "Element": "None",
         "Sprite": "./images/players/victoryroad/eastwind/Yamanouchi.png",
         "EnglishTeam": "Eastwind Peregrine",
-        "JapaneseTeam": "Eastwind Peregrine",
+        "JapaneseTeam": "Toufuu Ikokukan",
         "TeamSprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
         "Game": "VR"
     },
@@ -42823,7 +42823,7 @@ var players = [
         "Element": "None",
         "Sprite": "./images/players/victoryroad/eastwind/Yoshizaki.png",
         "EnglishTeam": "Eastwind Peregrine",
-        "JapaneseTeam": "Eastwind Peregrine",
+        "JapaneseTeam": "Toufuu Ikokukan",
         "TeamSprite": "./images/emblems/victoryroad/EastwindPeregrine.png",
         "Game": "VR"
     },
