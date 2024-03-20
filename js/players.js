@@ -26377,7 +26377,7 @@ var players = [
     },
     {
         "EnglishName": "Rush",
-        "JapaneseName": "Kaito",
+        "JapaneseName": "Kite",
         "Gender": "Male",
         "Position": "MF",
         "Element": "Wood",
@@ -28033,7 +28033,7 @@ var players = [
     },
     {
         "EnglishName": "Ickle",
-        "JapaneseName": "Eko",
+        "JapaneseName": "Eco",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
@@ -28321,7 +28321,7 @@ var players = [
     },
     {
         "EnglishName": "Model",
-        "JapaneseName": "Moderaa",
+        "JapaneseName": "Modeler",
         "Gender": "Male",
         "Position": "FW",
         "Element": "Fire",
