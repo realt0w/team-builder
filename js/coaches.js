@@ -445,7 +445,7 @@ var coaches = [
     "Sprite": "./images/players/ares/lambda/Coach_Lambda_Seymour Hillman.png"
   },
   {
-    "EnglishName": "Sasanami",
+    "EnglishName": "Destin Billows",
     "JapaneseName": "Sasanami",
     "Sprite": "./images/coaches/SasanamiUnmei.png"
   },
