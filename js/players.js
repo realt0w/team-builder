@@ -42779,18 +42779,6 @@ var players = [
         "TeamSprite": "./images/emblems/ie1/Raimon.png",
         "Game": "VR"
     },
-        {
-        "EnglishName": "Dantoya",
-        "JapaneseName": "Dantoya",
-        "Gender": "Male",
-        "Position": "GK",
-        "Element": "None",
-        "Sprite": "./images/players/victoryroad/raimon/Dantoya.png",
-        "EnglishTeam": "Raimon",
-        "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
-        "Game": "VR"
-    },
             {
         "EnglishName": "Shigure",
         "JapaneseName": "Shigure",
@@ -42830,7 +42818,7 @@ var players = [
             {
         "EnglishName": "Akasode",
         "JapaneseName": "Akasode",
-        "Gender": "Feale",
+        "Gender": "Female",
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/raimon/Akasode.png",
@@ -42917,7 +42905,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "None",
-        "Sprite": "./images/players/victoryroad/northsun/Nogami.png",
+        "Sprite": "./images/players/victoryroad/northsun/Jinnai.png",
         "EnglishTeam": "Northsea Academy",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
@@ -42949,7 +42937,7 @@ var players = [
     },
              {
         "EnglishName": "Yarisaki",
-        "JapaneseName": Yarisaki",
+        "JapaneseName": "Yarisaki",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -42989,7 +42977,7 @@ var players = [
         "Gender": "Female",
         "Position": "MF",
         "Element": "None",
-        "Sprite": "./images/players/victoryroad/northsun/Kish.png",
+        "Sprite": "./images/players/victoryroad/northsun/Kish__.png",
         "EnglishTeam": "Northsea Academy",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
@@ -43046,7 +43034,7 @@ var players = [
     {
         "EnglishName": "Leone",
         "JapaneseName": "Leone",
-        "Gender": "None",
+        "Gender": "Male",
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/eastwind/Leone.png",
@@ -43058,7 +43046,7 @@ var players = [
     {
         "EnglishName": "Yamanouchi",
         "JapaneseName": "Yamanouchi",
-        "Gender": "None",
+        "Gender": "Male",
         "Position": "NO",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/eastwind/Yamanouchi.png",
@@ -43070,7 +43058,7 @@ var players = [
     {
         "EnglishName": "Yoshizaki",
         "JapaneseName": "Yoshizaki",
-        "Gender": "None",
+        "Gender": "MF",
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/eastwind/Yoshizaki.png",
