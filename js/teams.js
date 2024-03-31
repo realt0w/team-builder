@@ -857,6 +857,12 @@ var teams = [
         "Sprite": "./images/emblems/ie1/Raimon.png",
         "Game": "VR"
     },
+        {
+        "EnglishName": "Northsea Academy",
+        "JapaneseName": "Hokuyou Gakuen",
+        "Sprite": "./images/emblems/victoryroad/hokuyougakuen.png",
+        "Game": "VR"
+    },
     {
         "EnglishName": "Eastwind Peregrine",
         "JapaneseName": "Toufuu Ikokukan",
