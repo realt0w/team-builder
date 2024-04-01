@@ -42972,8 +42972,8 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Kish",
-        "JapaneseName": "Kish",
+        "EnglishName": "Kishibe",
+        "JapaneseName": "Kishibe",
         "Gender": "Female",
         "Position": "MF",
         "Element": "None",
