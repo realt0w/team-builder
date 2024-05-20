@@ -858,7 +858,7 @@ var teams = [
         "Game": "VR"
     },
         {
-        "EnglishName": "Northbright Academy",
+        "EnglishName": "Northbright Middle School",
         "JapaneseName": "Hokuyou Gakuen",
         "Sprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
