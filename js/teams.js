@@ -846,7 +846,7 @@ var teams = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Nagumohara",
+        "EnglishName": "South Cirrus",
         "JapaneseName": "Nagumohara",
         "Sprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
@@ -858,7 +858,7 @@ var teams = [
         "Game": "VR"
     },
         {
-        "EnglishName": "Northbright Middle School",
+        "EnglishName": "Northbright",
         "JapaneseName": "Hokuyou Gakuen",
         "Sprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
