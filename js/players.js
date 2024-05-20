@@ -42702,7 +42702,7 @@ var players = [
         "Position": "GK",
         "Element": "Wind",
         "Sprite": "./images/players/victoryroad/nagumohara/ShisendouGaryuu.png",
-        "EnglishTeam": "Nagumohara",
+        "EnglishTeam": "South Cirrus",
         "JapaneseTeam": "Nagumohara",
         "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
@@ -42714,7 +42714,7 @@ var players = [
         "Position": "DF",
         "Element": "Wood",
         "Sprite": "./images/players/victoryroad/nagumohara/KisojiHeita.png",
-        "EnglishTeam": "Nagumohara",
+        "EnglishTeam": "South Cirrus",
         "JapaneseTeam": "Nagumohara",
         "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
@@ -42726,7 +42726,7 @@ var players = [
         "Position": "DF",
         "Element": "Wind",
         "Sprite": "./images/players/victoryroad/nagumohara/Kameo.png",
-        "EnglishTeam": "Nagumohara",
+        "EnglishTeam": "South Cirrus",
         "JapaneseTeam": "Nagumohara",
         "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
@@ -42738,7 +42738,7 @@ var players = [
         "Position": "FW",
         "Element": "Fire",
         "Sprite": "./images/players/victoryroad/nagumohara/Shinohara_Raika.png",
-        "EnglishTeam": "Nagumohara",
+        "EnglishTeam": "South Cirrus",
         "JapaneseTeam": "Nagumohara",
         "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
@@ -42750,7 +42750,7 @@ var players = [
         "Position": "FW",
         "Element": "Earth",
         "Sprite": "./images/players/victoryroad/nagumohara/SakurazakiJouji.png",
-        "EnglishTeam": "Nagumohara",
+        "EnglishTeam": "South Cirrus",
         "JapaneseTeam": "Nagumohara",
         "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
@@ -42762,7 +42762,7 @@ var players = [
         "Position": "NO",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/nagumohara/YagyuuSuruga.png",
-        "EnglishTeam": "Nagumohara",
+        "EnglishTeam": "South Cirrus",
         "JapaneseTeam": "Nagumohara",
         "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
