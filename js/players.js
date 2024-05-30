@@ -42768,7 +42768,7 @@ var players = [
         "Game": "VR"
     },
         {
-        "EnglishName": "Dantoya",
+        "EnglishName": "Zander",
         "JapaneseName": "Dantoya",
         "Gender": "Male",
         "Position": "GK",
@@ -42780,7 +42780,7 @@ var players = [
         "Game": "VR"
     },
             {
-        "EnglishName": "Shigure",
+        "EnglishName": "Viorain",
         "JapaneseName": "Shigure",
         "Gender": "Male",
         "Position": "DF",
@@ -42792,8 +42792,8 @@ var players = [
         "Game": "VR"
     },
             {
-        "EnglishName": "????",
-        "JapaneseName": "????",
+        "EnglishName": "Clement",
+        "JapaneseName": "Tenguuji",
         "Gender": "Male",
         "Position": "DF",
         "Element": "None",
@@ -42804,7 +42804,7 @@ var players = [
         "Game": "VR"
     },
             {
-        "EnglishName": "Tono",
+        "EnglishName": "Boone",
         "JapaneseName": "Tono",
         "Gender": "Male",
         "Position": "DF",
@@ -42816,7 +42816,7 @@ var players = [
         "Game": "VR"
     },
             {
-        "EnglishName": "Akasode",
+        "EnglishName": "Jazmine",
         "JapaneseName": "Akasode",
         "Gender": "Female",
         "Position": "DF",
@@ -42828,7 +42828,7 @@ var players = [
         "Game": "VR"
     },
             {
-        "EnglishName": "Kido",
+        "EnglishName": "Colton",
         "JapaneseName": "Kido",
         "Gender": "Male",
         "Position": "MF",
@@ -42840,7 +42840,7 @@ var players = [
         "Game": "VR"
     },
             {
-        "EnglishName": "Arashi",
+        "EnglishName": "Maddock",
         "JapaneseName": "Arashi",
         "Gender": "Male",
         "Position": "MF",
@@ -42852,7 +42852,7 @@ var players = [
         "Game": "VR"
     },
             {
-        "EnglishName": "Hoshimura",
+        "EnglishName": "Eleanor",
         "JapaneseName": "Hoshimura",
         "Gender": "Male",
         "Position": "MF",
@@ -42888,7 +42888,7 @@ var players = [
         "Game": "VR"
     },
         {
-        "EnglishName": "Nogami",
+        "EnglishName": "Talon",
         "JapaneseName": "Nogami",
         "Gender": "Male",
         "Position": "FW",
@@ -42900,7 +42900,7 @@ var players = [
         "Game": "VR"
     },
          {
-        "EnglishName": "Jinnai",
+        "EnglishName": "Milo",
         "JapaneseName": "Jinnai",
         "Gender": "Male",
         "Position": "GK",
@@ -42912,7 +42912,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Yagura",
+        "EnglishName": "Peake",
         "JapaneseName": "Yagura",
         "Gender": "Male",
         "Position": "DF",
@@ -42924,7 +42924,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Johekido",
+        "EnglishName": "Sentry",
         "JapaneseName": "Johekido",
         "Gender": "Male",
         "Position": "DF",
@@ -42936,7 +42936,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Yarisaki",
+        "EnglishName": "Autry",
         "JapaneseName": "Yarisaki",
         "Gender": "Male",
         "Position": "DF",
@@ -42948,7 +42948,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Tonda",
+        "EnglishName": "Bodhi",
         "JapaneseName": "Tonda",
         "Gender": "Male",
         "Position": "DF",
@@ -42960,7 +42960,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Hohira",
+        "EnglishName": "Chase",
         "JapaneseName": "Hohira",
         "Gender": "Male",
         "Position": "MF",
@@ -42972,7 +42972,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Kishibe",
+        "EnglishName": "Hawky",
         "JapaneseName": "Kishibe",
         "Gender": "Female",
         "Position": "MF",
@@ -42984,7 +42984,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Shinkari",
+        "EnglishName": "Taliesin",
         "JapaneseName": "Shinkari",
         "Gender": "Male",
         "Position": "MF",
@@ -43008,7 +43008,7 @@ var players = [
         "Game": "VR"
     },
              {
-        "EnglishName": "Tomobe",
+        "EnglishName": "Erdem",
         "JapaneseName": "Tomobe",
         "Gender": "Male",
         "Position": "FW",
