@@ -42776,7 +42776,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Dantoya.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
             {
@@ -42788,7 +42788,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Shigure.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
             {
@@ -42800,7 +42800,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/No Name.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
             {
@@ -42812,19 +42812,19 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Tono.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
             {
         "EnglishName": "Jazmine",
         "JapaneseName": "Akasode",
         "Gender": "Female",
-        "Position": "DF",
+        "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/raimon/Akasode.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
             {
@@ -42836,7 +42836,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Kido.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
             {
@@ -42848,7 +42848,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Arashi.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
             {
@@ -42860,19 +42860,19 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Hoshimura.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
         {
         "EnglishName": "Darian",
         "JapaneseName": "Tsukikage",
         "Gender": "Male",
-        "Position": "FW",
+        "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/raimon/Tsukikage_Ren.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
     {
@@ -42884,7 +42884,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Endou_Haru_R.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/ie1/RaimonVR.png",
         "Game": "VR"
     },
         {
@@ -42896,7 +42896,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Nogami.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/Raimon.png",
+        "TeamSprite": "./images/emblems/victoryroad//RaimonVR.png",
         "Game": "VR"
     },
          {
@@ -42906,7 +42906,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Jinnai.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -42918,7 +42918,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Yagura.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -42930,7 +42930,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Johekido.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -42942,7 +42942,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Yarisaki.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -42954,7 +42954,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Tonda.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -42966,7 +42966,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Hohira.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -42978,7 +42978,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Kish__.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -42990,7 +42990,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Shinkari.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -43002,7 +43002,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Shinano.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -43014,7 +43014,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Tomobe.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
@@ -43026,7 +43026,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/northsun/Soramiya.png",
-        "EnglishTeam": "Northbright Middle School",
+        "EnglishTeam": "Northbright",
         "JapaneseTeam": "Hokuyou Gakuen",
         "TeamSprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
