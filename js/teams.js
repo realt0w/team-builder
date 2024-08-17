@@ -854,7 +854,7 @@ var teams = [
     {
         "EnglishName": "Raimon",
         "JapaneseName": "Raimon",
-        "Sprite": "./images/emblems/ie1/Raimon.png",
+        "Sprite": "./images/emblems/victoryroad/RaimonVR.png",
         "Game": "VR"
     },
         {
