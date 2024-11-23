@@ -571,8 +571,8 @@ var teams = [
     },
     {
         "EnglishName": "The Terracotta Army",
-        "JapaneseName": "Karakuri Heibayou",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseName": "Karakuri Bingmayong",
+        "Sprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
