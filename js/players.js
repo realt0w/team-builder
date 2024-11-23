@@ -6797,7 +6797,7 @@ var players = [
         "Gender": "Male",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/b/be/%28ORF%29_Biasi.png/revision/latest?cb=20140927211930&path-prefix=es",
+        "Sprite": "(O)_Gigi_Blasi_sprite.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
         "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
