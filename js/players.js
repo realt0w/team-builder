@@ -15065,10 +15065,10 @@ var players = [
         "Gender": "None",
         "Position": "GK",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15077,10 +15077,10 @@ var players = [
         "Gender": "None",
         "Position": "DF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15089,10 +15089,10 @@ var players = [
         "Gender": "None",
         "Position": "DF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15101,10 +15101,10 @@ var players = [
         "Gender": "None",
         "Position": "DF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15113,10 +15113,10 @@ var players = [
         "Gender": "None",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15125,10 +15125,10 @@ var players = [
         "Gender": "None",
         "Position": "MF",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15137,10 +15137,10 @@ var players = [
         "Gender": "None",
         "Position": "MF",
         "Element": "Wind",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15149,10 +15149,10 @@ var players = [
         "Gender": "None",
         "Position": "MF",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15161,10 +15161,10 @@ var players = [
         "Gender": "None",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15173,10 +15173,10 @@ var players = [
         "Gender": "None",
         "Position": "MF",
         "Element": "Fire",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
@@ -15185,10 +15185,10 @@ var players = [
         "Gender": "None",
         "Position": "FW",
         "Element": "Earth",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Karakuri_Heibayou_sprite.png/revision/latest?cb=20190712115219",
+        "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
-        "JapaneseTeam": "Karakuri Heibayou",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseTeam": "Karakuri Bingmayong",
+        "TeamSprite": "Karakuri Bingmayong emblem.png",
         "Game": "GO2"
     },
     {
