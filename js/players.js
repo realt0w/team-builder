@@ -15068,7 +15068,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15080,7 +15080,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15092,7 +15092,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15104,7 +15104,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15116,7 +15116,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15128,7 +15128,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15140,7 +15140,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15152,7 +15152,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15164,7 +15164,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15176,7 +15176,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -15188,7 +15188,7 @@ var players = [
         "Sprite": "Karakuri Bingmayong sprite.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Bingmayong",
-        "TeamSprite": "Karakuri Bingmayong emblem.png",
+        "TeamSprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
