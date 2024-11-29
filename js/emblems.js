@@ -880,7 +880,7 @@ var emblems = [
         "JapaneseTeam": "L5 Heroes"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Celebrities_symbol.png",
+        "Sprite": "./images/emblems/dump/Celebrities.png",
         "EnglishTeam": "La Crème de la Crème",
         "JapaneseTeam": "Celebrities"
     },
