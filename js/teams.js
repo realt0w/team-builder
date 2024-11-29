@@ -572,7 +572,7 @@ var teams = [
     {
         "EnglishName": "The Terracotta Army",
         "JapaneseName": "Karakuri Bingmayong",
-        "Sprite": "Karakuri Bingmayong emblem.png",
+        "Sprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
