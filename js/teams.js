@@ -571,8 +571,8 @@ var teams = [
     },
     {
         "EnglishName": "The Terracotta Army",
-        "JapaneseName": "Karakuri Heibayou",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png/revision/latest?cb=20171126230146",
+        "JapaneseName": "Karakuri Bingmayong",
+        "Sprite": "./images/emblems/dump/Karakuri.png",
         "Game": "GO2"
     },
     {
@@ -846,7 +846,7 @@ var teams = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Nagumohara",
+        "EnglishName": "South Cirrus",
         "JapaneseName": "Nagumohara",
         "Sprite": "./images/emblems/victoryroad/Nagumohara.png",
         "Game": "VR"
@@ -854,7 +854,13 @@ var teams = [
     {
         "EnglishName": "Raimon",
         "JapaneseName": "Raimon",
-        "Sprite": "./images/emblems/ie1/Raimon.png",
+        "Sprite": "./images/emblems/victoryroad/RaimonVR.png",
+        "Game": "VR"
+    },
+        {
+        "EnglishName": "Northbright",
+        "JapaneseName": "Hokuyou Gakuen",
+        "Sprite": "./images/emblems/victoryroad/hokuyougakuen.png",
         "Game": "VR"
     },
     {

@@ -20,37 +20,37 @@ var emblems = [
         "JapaneseTeam": "Occult Kai"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/45/Africa_Continental_Team_symbol.png",
+        "Sprite": "./images/emblems/dump/Africadaihyou.png",
         "EnglishTeam": "Africa Continental Team",
         "JapaneseTeam": "Africa Daihyou"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Eisei_Gakuen_%28Emblem%29.png",
+        "Sprite": "./images/emblems/dump/Eiseigakuen.png",
         "EnglishTeam": "Alia Academy",
         "JapaneseTeam": "Eisei Gakuen"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e0/Aliea_a_logo.png",
+        "Sprite": "./images/emblems/dump/Alieaa.png",
         "EnglishTeam": "Alius A",
         "JapaneseTeam": "Aliea A"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/98/Aliea_Gakuen_%28Team%29_Emblem.png",
+        "Sprite": "./images/emblems/dump/Alieagakuens.png",
         "EnglishTeam": "Alius Academy",
         "JapaneseTeam": "Aliea Gakuen"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4c/Aliea_Gakuen_Emblem_%28Galaxy%29.png",
+        "Sprite": "./images/emblems/dump/Alieagakuen.png",
         "EnglishTeam": "Alius Academy (Galaxy)",
         "JapaneseTeam": "Aliea Gakuen (Galaxy)"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3f/250px-AlieaB.png",
+        "Sprite": "./images/emblems/dump/Alieab.png",
         "EnglishTeam": "Alius B",
         "JapaneseTeam": "Aliea B"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5a/All_Arms_%28Emblem%29.png",
+        "Sprite": "./images/emblems/dump/Allarms.png",
         "EnglishTeam": "All Armoured",
         "JapaneseTeam": "All Arms"
     },
@@ -85,7 +85,7 @@ var emblems = [
         "JapaneseTeam": "Hakuren (GO)"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bb/America_Selection_symbol.png",
+        "Sprite": "./images/emblems/dump/Americatairiku.png",
         "EnglishTeam": "America Allstars",
         "JapaneseTeam": "America Tairiku Senbatsu"
     },
@@ -115,22 +115,22 @@ var emblems = [
         "JapaneseTeam": "Tenkuu no Shito"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fa/Ixal_Fleet_Emblem.png",
+        "Sprite": "./images/emblems/dump/Ixalfleet.png",
         "EnglishTeam": "Armada Ixar",
         "JapaneseTeam": "Ixal Fleet"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/82/Asia_Daihyou_team_emblem.png",
+        "Sprite": "./images/emblems/dump/Asiadaihyou.png",
         "EnglishTeam": "Asia United",
         "JapaneseTeam": "Asia Daihyou"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b1/Asia_senbatsu_logo.png",
+        "Sprite": "./images/emblems/dump/Asiasenbatsu.png",
         "EnglishTeam": "Asian Allstars",
         "JapaneseTeam": "Asia Senbatsu"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cc/Inakuni_Emblem.png",
+        "Sprite": "./images/emblems/dump/Inakuni.png",
         "EnglishTeam": "Backwater",
         "JapaneseTeam": "Inakuni"
     },
@@ -150,12 +150,12 @@ var emblems = [
         "JapaneseTeam": "Bakumatsu Daybreaks"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Barcelona_Orb_Emblem.png",
+        "Sprite": "./images/emblems/dump/Barcelonaorb.png",
         "EnglishTeam": "Barcelona Orb",
         "JapaneseTeam": "Barcelona Orb"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/13/Baseball_All_Stars_Logo.png",
+        "Sprite": "./images/emblems/dump/Gansoyakyuubu.png",
         "EnglishTeam": "Baseball All Stars",
         "JapaneseTeam": "Ganso Yakyuu-bu"
     },
@@ -175,12 +175,12 @@ var emblems = [
         "JapaneseTeam": "Brilliant Enemy"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/23/Benchers_Logo.png",
+        "Sprite": "./images/emblems/dump/Benchers.png",
         "EnglishTeam": "Benchers",
         "JapaneseTeam": "Benchers"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Big_Bang_Emblem.png",
+        "Sprite": "./images/emblems/dump/Bigbang.png",
         "EnglishTeam": "Big Bang",
         "JapaneseTeam": "Big Bang"
     },
@@ -235,27 +235,27 @@ var emblems = [
         "JapaneseTeam": "Catch Kings"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e4/Heaven_of_Eden_logo.png",
+        "Sprite": "./images/emblems/dump/Heavenofeden.png",
         "EnglishTeam": "Celestial Sanctum",
         "JapaneseTeam": "Heaven of Eden"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Champ_2010_symbol.png",
+        "Sprite": "./images/emblems/dump/Champ2010.png",
         "EnglishTeam": "Champ 2010",
         "JapaneseTeam": "Champ 2010"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a0/Champion_symbol.png",
+        "Sprite": "./images/emblems/dump/Champion.png",
         "EnglishTeam": "Champion",
         "JapaneseTeam": "Champion"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/60/Chaos_Emblem.png",
+        "Sprite": "./images/emblems/dump/Chaos.png",
         "EnglishTeam": "Chaos",
         "JapaneseTeam": "Chaos"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/19/Chaos_Angels_emblem_new.png",
+        "Sprite": "./images/emblems/dump/Chaosangels.png",
         "EnglishTeam": "Chaos Angels",
         "JapaneseTeam": "Chaos Angels"
     },
@@ -285,7 +285,7 @@ var emblems = [
         "JapaneseTeam": "Chuugoku Kickers"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Climbs_emblem.png",
+        "Sprite": "./images/emblems/dump/Climbs.png",
         "EnglishTeam": "Climbs",
         "JapaneseTeam": "Climbs"
     },
@@ -300,7 +300,7 @@ var emblems = [
         "JapaneseTeam": "Comical Megane"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Beautiful_symbol.png",
+        "Sprite": "./images/emblems/dump/Coolguys.png",
         "EnglishTeam": "Cool Guys",
         "JapaneseTeam": "Cool Guys"
     },
@@ -310,27 +310,27 @@ var emblems = [
         "JapaneseTeam": "Cool Megane"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/84/Crimson_Hairs_logo.png",
+        "Sprite": "./images/emblems/dump/Crimsonhairs.png",
         "EnglishTeam": "Crimson Hairs",
         "JapaneseTeam": "Crimson Hairs"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/89/Kyappikyapi_A_emblem.png",
+        "Sprite": "./images/emblems/dump/Kyappi.png",
         "EnglishTeam": "Cutesy",
         "JapaneseTeam": "Kyappikyapi"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Cyber_Hack_emblem.png",
+        "Sprite": "./images/emblems/dump/Cyberhack.png",
         "EnglishTeam": "Cyber Hack",
         "JapaneseTeam": "Cyber Hack"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b2/Dark_Angel_2_emblem_new.png",
+        "Sprite": "./images/emblems/dump/Darkangel.png",
         "EnglishTeam": "Dark Angels 1",
         "JapaneseTeam": "Dark Angel 1"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/65/Dark_angel_emblem.png",
+        "Sprite": "./images/emblems/dump/Darkangel2.png",
         "EnglishTeam": "Dark Angels 2",
         "JapaneseTeam": "Dark Angel 2"
     },
@@ -345,7 +345,7 @@ var emblems = [
         "JapaneseTeam": "Kageyama All Star"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/10/KAGE_emblem.png",
+        "Sprite": "./images/emblems/dump/KAGE.png",
         "EnglishTeam": "Darkside",
         "JapaneseTeam": "-KAGE-"
     },
@@ -380,12 +380,12 @@ var emblems = [
         "JapaneseTeam": "Diamond Dust"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/08/Doppers_emblem.png",
-        "EnglishTeam": "Doppers",
-        "JapaneseTeam": "Doppers"
+        "Sprite": "./images/emblems/dump/Doppels.png",
+        "EnglishTeam": "Doppelgangers",
+        "JapaneseTeam": "Doppels"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9b/Dummy_Emperors_symbol.png",
+        "Sprite": "./images/emblems/dump/Dummyemperors.png",
         "EnglishTeam": "Dork Emperors",
         "JapaneseTeam": "Dummy Emperors"
     },
@@ -395,12 +395,12 @@ var emblems = [
         "JapaneseTeam": "Dragonlink"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Ear_Horns_emblem.png",
+        "Sprite": "./images/emblems/dump/Earhorns.png",
         "EnglishTeam": "Ear Horns",
         "JapaneseTeam": "Ear Horns"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Earth_Eleven_Emblem.png",
+        "Sprite": "./images/emblems/dump/Eartheleven.png",
         "EnglishTeam": "Earth Eleven",
         "JapaneseTeam": "Earth Eleven"
     },
@@ -455,14 +455,14 @@ var emblems = [
         "JapaneseTeam": "Unlimited Shining"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/92/Europe_Continentel_team_symbol.png",
-        "EnglishTeam": "Europe Daihyou",
-        "JapaneseTeam": "Europe Representative"
+        "Sprite": "./images/emblems/dump/Europedaihyou.png",
+        "EnglishTeam": "Europe Representative",
+        "JapaneseTeam": "Europe Daihyou"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/22/Europe_senbatsu.png",
-        "EnglishTeam": "Europe Senbatsu",
-        "JapaneseTeam": "European Allstars"
+        "Sprite": "./images/emblems/dump/Europesenbatsu.png",
+        "EnglishTeam": "Europe Allstars",
+        "JapaneseTeam": "European Senbatsu"
     },
     {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2d/Tonegawa_Emblem.png",
@@ -480,7 +480,7 @@ var emblems = [
         "JapaneseTeam": "Face Painters"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Faram_Dite_Emblem.png",
+        "Sprite": "./images/emblems/dump/Faramdite.png",
         "EnglishTeam": "Falam Medius",
         "JapaneseTeam": "Faram Dite"
     },
@@ -540,22 +540,22 @@ var emblems = [
         "JapaneseTeam": "Ratoniik Eleven"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e8/FF_Zenkoku_Senbatsu_A_Logo.png",
+        "Sprite": "./images/emblems/dump/FFzenkokua.png",
         "EnglishTeam": "FF National Pick A",
         "JapaneseTeam": "FF Zenkoku Senbatsu A"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/FF_Zenkoku_Senbatsu_B_emblem.png",
+        "Sprite": "./images/emblems/dump/FFzenkokub.png",
         "EnglishTeam": "FF National Pick B",
         "JapaneseTeam": "FF Zenkoku Senbatsu B"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/FF_Chiku_Senbatsu_A_Logo.png",
+        "Sprite": "./images/emblems/dump/FFChikuA.png",
         "EnglishTeam": "FF Regional Pick A",
         "JapaneseTeam": "FF Chiku Senbatsu A"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/bc/FF_Chiku_Senbatsu_B_Logo.png",
+        "Sprite": "./images/emblems/dump/FFChikuB.png",
         "EnglishTeam": "FF Regional Pick B",
         "JapaneseTeam": "FF Chiku Senbatsu B"
     },
@@ -605,7 +605,7 @@ var emblems = [
         "JapaneseTeam": "Garu"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/56/Galaxy_Rivals_team_emblem.png",
+        "Sprite": "./images/emblems/dump/Galaxyrivals.png",
         "EnglishTeam": "Galaxy Rivals",
         "JapaneseTeam": "Galaxy Rivals"
     },
@@ -630,7 +630,7 @@ var emblems = [
         "JapaneseTeam": "Speed Gals"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Inazuma_Girls_Logo.png",
+        "Sprite": "./images/emblems/dump/Girlsteam.png",
         "EnglishTeam": "Girls' Team",
         "JapaneseTeam": "Girls Team"
     },
@@ -670,12 +670,12 @@ var emblems = [
         "JapaneseTeam": "Group B Senbatsu"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Kira_Related.png",
+        "Sprite": "./images/emblems/dump/Kirarelated.png",
         "EnglishTeam": "Group Schiller",
         "JapaneseTeam": "Kira Related"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5d/Adult_Team_Logo.png",
+        "Sprite": "./images/emblems/dump/Adultteam.png",
         "EnglishTeam": "Grown-Ups",
         "JapaneseTeam": "Adult Team"
     },
@@ -715,12 +715,12 @@ var emblems = [
         "JapaneseTeam": "Headwears"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fe/Hi_no_Eiyuu_Tachi_emblem.png",
+        "Sprite": "./images/emblems/dump/Hieiyuu.png",
         "EnglishTeam": "Heroes of the Flames",
         "JapaneseTeam": "Hi no Eiyuu Tachi"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a7/Hayashi_no_Eiyuu_Tachi_emblem.png",
+        "Sprite": "./images/emblems/dump/Hayashieiyuu.png",
         "EnglishTeam": "Heroes of the Forest",
         "JapaneseTeam": "Hayashi no Eiyuu Tachi"
     },
@@ -730,7 +730,7 @@ var emblems = [
         "JapaneseTeam": "Yama no Eiyuu Tachi"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Kaze_no_Eiyuu_Tachi_emblem.png",
+        "Sprite": "./images/emblems/dump/Kazeeiyuu.png",
         "EnglishTeam": "Heroes of the Sky",
         "JapaneseTeam": "Kaze no Eiyuu Tachi"
     },
@@ -740,12 +740,12 @@ var emblems = [
         "JapaneseTeam": "High Yard Tower"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/66/Hirari_Mufflers_team_emblem.png",
+        "Sprite": "./images/emblems/dump/Hirari.png",
         "EnglishTeam": "Hirari Mufflers",
         "JapaneseTeam": "Hirari Mufflers"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ec/Hurricanes_symbol.png",
+        "Sprite": "./images/emblems/dump/Hurricanes.png",
         "EnglishTeam": "Hurricanes",
         "JapaneseTeam": "Hurricanes"
     },
@@ -765,27 +765,27 @@ var emblems = [
         "JapaneseTeam": "Ikemen Sparks"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/88/Inazuma2009%281%29.png",
+        "Sprite": "./images/emblems/dump/Inazuma09.png",
         "EnglishTeam": "Inazuma 09",
         "JapaneseTeam": "Inazuma '09"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Inazuma%27_10_symbol.png",
+        "Sprite": "./images/emblems/dump/Inazuma10.png",
         "EnglishTeam": "Inazuma 10",
         "JapaneseTeam": "Inazuma '10"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/0a/Inazuma_%2713_Emblem_in_Galaxy.png",
+        "Sprite": "./images/emblems/dump/Inazuma13.png",
         "EnglishTeam": "Inazuma 13",
         "JapaneseTeam": "Inazuma '13"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/43/Inazuma_Battle_Eleven_Emblem.png",
+        "Sprite": "./images/emblems/dump/Battleeleven.png",
         "EnglishTeam": "Inazuma Battle Eleven",
         "JapaneseTeam": "Inazuma Battle Eleven"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/31/Inazuma_Best_Eleven_Emblem.png",
+        "Sprite": "./images/emblems/dump/Besteleven.png",
         "EnglishTeam": "Inazuma Best Eleven",
         "JapaneseTeam": "Inazuma Best Eleven"
     },
@@ -825,7 +825,7 @@ var emblems = [
         "JapaneseTeam": "Inazuma Japan (Orion)"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/97/Inazumachou_Chounaikai_emblem.png",
+        "Sprite": "./images/emblems/dump/Inazumachou.png",
         "EnglishTeam": "Inazumachou Chounaikai",
         "JapaneseTeam": "Inazumachou Chounaikai"
     },
@@ -865,12 +865,12 @@ var emblems = [
         "JapaneseTeam": "Kidokawa Seishuu (Ares)"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c1/Knights_Of_Queen_emblem.png",
+        "Sprite": "./images/emblems/dump/Knightsofqueen.png",
         "EnglishTeam": "Knights of Queen",
         "JapaneseTeam": "Knights of Queen"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/55/Entaku_no_Kishi_emblem.png",
+        "Sprite": "./images/emblems/dump/Entaku.png",
         "EnglishTeam": "Knights of the Round Table",
         "JapaneseTeam": "Entaku no Kishidan"
     },
@@ -880,7 +880,7 @@ var emblems = [
         "JapaneseTeam": "L5 Heroes"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9a/Celebrities_symbol.png",
+        "Sprite": "./images/emblems/dump/Celebrities.png",
         "EnglishTeam": "La Crème de la Crème",
         "JapaneseTeam": "Celebrities"
     },
@@ -890,7 +890,7 @@ var emblems = [
         "JapaneseTeam": "Last Inazuma"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/00/Dark_Heroes%27s_emblem.png",
+        "Sprite": "./images/emblems/dump/Darkheroes.png",
         "EnglishTeam": "League of Villains",
         "JapaneseTeam": "Dark Heroes"
     },
@@ -965,7 +965,7 @@ var emblems = [
         "JapaneseTeam": "Macho Muscles"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4e/Gurdon_logo.png",
+        "Sprite": "./images/emblems/dump/Gurdoneleven.png",
         "EnglishTeam": "Magmavia Eleven",
         "JapaneseTeam": "Gurdon Eleven"
     },
@@ -1330,12 +1330,12 @@ var emblems = [
         "JapaneseTeam": "Resistance Japan"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e5/Kakumei_Senbatsu_Logo.png",
+        "Sprite": "./images/emblems/dump/Kakumeisenbatsu1.png",
         "EnglishTeam": "Revolutionaries 1",
         "JapaneseTeam": "Kakumei Senbatsu 1"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7c/Kakumei_Senbatsu_Team_emblem.png",
+        "Sprite": "./images/emblems/dump/Kakumeisenbatsu2.png",
         "EnglishTeam": "Revolutionaries 2",
         "JapaneseTeam": "Kakumei Senbatsu 2"
     },
@@ -1385,7 +1385,7 @@ var emblems = [
         "JapaneseTeam": "S・E・A"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/HR_Aces_Logo.png",
+        "Sprite": "./images/emblems/dump/HRaces.png",
         "EnglishTeam": "Saints' Way Aces",
         "JapaneseTeam": "HR Aces"
     },
@@ -1510,7 +1510,7 @@ var emblems = [
         "JapaneseTeam": "Storm Wolf"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/AyashiiYatsuralogo.png",
+        "Sprite": "./images/emblems/dump/Ayashiiyatsura.png",
         "EnglishTeam": "Strange Guys",
         "JapaneseTeam": "Ayashii Yatsura"
     },
@@ -1635,7 +1635,7 @@ var emblems = [
         "JapaneseTeam": "Team Garshield"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Inazuma_Legend_Emblem.png",
+        "Sprite": "./images/emblems/dump/Inazumalegend.png",
         "EnglishTeam": "The Absolute Legends",
         "JapaneseTeam": "Inazuma Legend"
     },
@@ -1645,12 +1645,12 @@ var emblems = [
         "JapaneseTeam": "P. Heiba Robots"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Inazumagirlslogo.png",
+        "Sprite": "./images/emblems/dump/Joshisenbatsu.png",
         "EnglishTeam": "The All-Girls Allstars",
         "JapaneseTeam": "Joshi Senbatsu Team"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/86/Aqua_Hermit_Emblem.png",
+        "Sprite": "./images/emblems/dump/Aquahermit.png",
         "EnglishTeam": "The Aquatic Wings",
         "JapaneseTeam": "Aqua Hermit"
     },
@@ -1725,9 +1725,9 @@ var emblems = [
         "JapaneseTeam": "Chronicles N"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/68/Kriago_symbol.png",
+        "Sprite": "./images/emblems/dump/Cleargo.png",
         "EnglishTeam": "The Completionists",
-        "JapaneseTeam": "Kriago"
+        "JapaneseTeam": "Cleargo"
     },
     {
         "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/ba/Crim_Hound_emblem.png",
@@ -1755,7 +1755,7 @@ var emblems = [
         "JapaneseTeam": "Evolutions"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dc/Hidden_Eyes_Emblem.png",
+        "Sprite": "./images/emblems/dump/Hiddeneyes.png",
         "EnglishTeam": "The Eyeshadows",
         "JapaneseTeam": "Hidden Eyes"
     },
@@ -1780,7 +1780,7 @@ var emblems = [
         "JapaneseTeam": "The Fires"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/aa/Fire_Spark_symbol.png",
+        "Sprite": "./images/emblems/dump/Firespark.png",
         "EnglishTeam": "The Firestorm Bolts",
         "JapaneseTeam": "Fire Spark"
     },
@@ -1800,7 +1800,7 @@ var emblems = [
         "JapaneseTeam": "Ball Savers"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/51/Angels_Symbol.png",
+        "Sprite": "./images/emblems/dump/Godangel.png",
         "EnglishTeam": "The God Squad",
         "JapaneseTeam": "God Angel"
     },
@@ -1810,7 +1810,7 @@ var emblems = [
         "JapaneseTeam": "Gold Bear"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/44/Green_Leaves_Emblem.png",
+        "Sprite": "./images/emblems/dump/Greenleaves.png",
         "EnglishTeam": "The Herbivores",
         "JapaneseTeam": "Green Leaves"
     },
@@ -1930,7 +1930,7 @@ var emblems = [
         "JapaneseTeam": "Collaborations"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Fudou_Heads_symbol.png",
+        "Sprite": "./images/emblems/dump/Fudouheads.png",
         "EnglishTeam": "The Stonewall Stylers",
         "JapaneseTeam": "Fudou Heads"
     },
@@ -1955,7 +1955,7 @@ var emblems = [
         "JapaneseTeam": "The Surprise"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/25/Karakuri_Heibayou_emblem.png",
+        "Sprite": "./images/emblems/dump/Karakuri.png",
         "EnglishTeam": "The Terracotta Army",
         "JapaneseTeam": "Karakuri Heibayou"
     },
@@ -2070,7 +2070,7 @@ var emblems = [
         "JapaneseTeam": "Zero"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d7/ExZero_logo.png",
+        "Sprite": "./images/emblems/dump/Exzero.png",
         "EnglishTeam": "Zero Night",
         "JapaneseTeam": "ExZero"
     },
