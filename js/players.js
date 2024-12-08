@@ -42696,7 +42696,7 @@ var players = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Shisendou",
+        "EnglishName": "Alix",
         "JapaneseName": "Shisendou",
         "Gender": "Male",
         "Position": "GK",
@@ -42720,7 +42720,7 @@ var players = [
         "Game": "VR"
     },
     {
-        "EnglishName": "Kodoukai",
+        "EnglishName": "Cade",
         "JapaneseName": "Kodoukai",
         "Gender": "Male",
         "Position": "DF",
@@ -42732,7 +42732,7 @@ var players = [
         "Game": "VR"
     },
     {
-        "EnglishName": "Shinohara",
+        "EnglishName": "Raika",
         "JapaneseName": "Shinohara",
         "Gender": "Female",
         "Position": "FW",
@@ -42759,8 +42759,8 @@ var players = [
         "EnglishName": "Thierry",
         "JapaneseName": "Yagyuu",
         "Gender": "Male",
-        "Position": "NO",
-        "Element": "None",
+        "Position": "MF",
+        "Element": "Wood",
         "Sprite": "./images/players/victoryroad/nagumohara/YagyuuSuruga.png",
         "EnglishTeam": "South Cirrus",
         "JapaneseTeam": "Nagumohara",
