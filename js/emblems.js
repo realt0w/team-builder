@@ -200,7 +200,7 @@ var emblems = [
         "JapaneseTeam": "Kuro no Kishidan"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cd/Blizzard_Bomber_symbol.png",
+        "Sprite": "./images/emblems/dump/Blizzardbomber.png",
         "EnglishTeam": "Blizzard Bomber",
         "JapaneseTeam": "Blizzard Bomber"
     },
@@ -215,7 +215,7 @@ var emblems = [
         "JapaneseTeam": "Blue Eyes Eleven"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Mikage_Sennou%27s_Emblem.png",
+        "Sprite": "./images/emblems/dump/Mikagesennou.png",
         "EnglishTeam": "Brainwashing",
         "JapaneseTeam": "Mikage Sennou"
     },
@@ -370,7 +370,7 @@ var emblems = [
         "JapaneseTeam": "Desert Lion"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
+        "Sprite": "./images/emblems/dump/Makaigundanz.png",
         "EnglishTeam": "Devil Army Z",
         "JapaneseTeam": "Makai Gundan Z"
     },
@@ -895,17 +895,17 @@ var emblems = [
         "JapaneseTeam": "Dark Heroes"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f5/Legend_1_Nensei_Emblem.png",
+        "Sprite": "./images/emblems/dump/Legend1nensei.png",
         "EnglishTeam": "Legend 1 Nensei",
         "JapaneseTeam": "Legend 1 Nensei"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/83/Legend_2_Nensei_Emblem.png",
+        "Sprite": "./images/emblems/dump/Legend2nensei.png",
         "EnglishTeam": "Legend 2 Nensei",
         "JapaneseTeam": "Legend 2 Nensei"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/85/Legend_3_Nensei_Emblem.png",
+        "Sprite": "./images/emblems/dump/Legend3nensei.png",
         "EnglishTeam": "Legend 3 Nensei",
         "JapaneseTeam": "Legend 3 Nensei"
     },
@@ -920,7 +920,7 @@ var emblems = [
         "JapaneseTeam": "Gourmets"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/93/LEVEL-GO_Emblem.png",
+        "Sprite": "./images/emblems/dump/Levelgo.png",
         "EnglishTeam": "Level Flyve",
         "JapaneseTeam": "LEVEL-GO"
     },
@@ -930,7 +930,7 @@ var emblems = [
         "JapaneseTeam": "Little Gigant"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3f/Long_Hairs_emblem.png",
+        "Sprite": "./images/emblems/dump/Longhairs.png",
         "EnglishTeam": "Long Hairs",
         "JapaneseTeam": "Long Hairs"
     },
@@ -950,12 +950,12 @@ var emblems = [
         "JapaneseTeam": "Gassan Kunimitsu"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/MOE.png",
+        "Sprite": "./images/emblems/dump/Moe.png",
         "EnglishTeam": "M･O･E",
         "JapaneseTeam": "M･O･E"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/54/Mach_Tiger_Emblem.png",
+        "Sprite": "./images/emblems/dump/Machtiger.png",
         "EnglishTeam": "Mach Tiger",
         "JapaneseTeam": "Mach Tiger"
     },
@@ -975,7 +975,7 @@ var emblems = [
         "JapaneseTeam": "Oumihara"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/8b/Mask_Men_Logo.png",
+        "Sprite": "./images/emblems/dump/Maskmen.png",
         "EnglishTeam": "Masked Men",
         "JapaneseTeam": "Mask Men"
     },
@@ -985,7 +985,7 @@ var emblems = [
         "JapaneseTeam": "Masked Warriors"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/50/Masquerade_symbol.png",
+        "Sprite": "./images/emblems/dump/Masquerade.png",
         "EnglishTeam": "Masquerade",
         "JapaneseTeam": "Masquerade"
     },
@@ -1000,7 +1000,7 @@ var emblems = [
         "JapaneseTeam": "Tengawara"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/Mimi_Ears_emblem.png",
+        "Sprite": "./images/emblems/dump/Mimiears.png",
         "EnglishTeam": "Mimi Ears",
         "JapaneseTeam": "Mimi Ears"
     },
@@ -1850,7 +1850,7 @@ var emblems = [
         "JapaneseTeam": "Coro Box"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Long_Shooters_Emblem.png",
+        "Sprite": "./images/emblems/dump/Longshooters.png",
         "EnglishTeam": "The Long Shots",
         "JapaneseTeam": "Long Shooters"
     },
@@ -1865,12 +1865,12 @@ var emblems = [
         "JapaneseTeam": "Managers N"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Mid_Stars_R_emblem.png",
+        "Sprite": "./images/emblems/dump/Midstarsr.png",
         "EnglishTeam": "The Middlers T",
         "JapaneseTeam": "Mid Stars R"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/cc/Mid_Stars_N_logo.PNG",
+        "Sprite": "./images/emblems/dump/Midstarsn.png",
         "EnglishTeam": "The Middlers W",
         "JapaneseTeam": "Mid Stars N"
     },
