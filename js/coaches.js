@@ -137,7 +137,7 @@ var coaches = [
   {
     "EnglishName": "Stavín",
     "JapaneseName": "Daniel",
-    "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/2/2a/Daniel_Stav%C3%ADn_%28Sprite%29.png/revision/latest?cb=20191210135148&path-prefix=es"
+    "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/e/e9/%28TE%29_Daniel_Stavín_sprite_%28coach%29.png/revision/latest?cb=20230903074121&path-prefix=es"
   },
   {
     "EnglishName": "Mac",
