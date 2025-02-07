@@ -42854,7 +42854,7 @@ var players = [
             {
         "EnglishName": "Eleanor",
         "JapaneseName": "Hoshimura",
-        "Gender": "Male",
+        "Gender": "Female",
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/raimon/Hoshimura.png",
