@@ -446,7 +446,7 @@ var teams = [
     {
         "EnglishName": "Ivy Selective",
         "JapaneseName": "Aoba",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "Sprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
