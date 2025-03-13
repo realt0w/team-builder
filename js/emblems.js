@@ -850,7 +850,7 @@ var emblems = [
         "JapaneseTeam": "Muteki no Giant"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png",
+        "Sprite": "./images/emblems/go1/Aoba.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba"
     },
