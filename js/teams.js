@@ -774,13 +774,13 @@ var teams = [
         "Game": "Orion"
     },
 {
-        "EnglishName": "Red Bison",
+        "EnglishName": "Red Bisons",
         "JapaneseName": "Red Bison",
         "Sprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
     },
 {
-        "EnglishName": "Shining Satans",
+        "EnglishName": "Fallen Angels",
         "JapaneseName": "Shining Satans",
         "Sprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -792,19 +792,19 @@ var teams = [
         "Game": "Orion"
     },
 {
-        "EnglishName": "Phoenix Army of Arab",
+        "EnglishName": "Arabia Phoenixes",
         "JapaneseName": "Arab no Hinotori Gundan",
         "Sprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
     },
 {
-        "EnglishName": "Soccer Acrobatic Troupe",
+        "EnglishName": "Revenge Acrobats",
         "JapaneseName": "Soccer Zatsugidan",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
     },
 {
-        "EnglishName": "Invincible Giant",
+        "EnglishName": "Los Invencibles",
         "JapaneseName": "Muteki no Giant",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -816,7 +816,7 @@ var teams = [
         "Game": "Orion"
     },
 {
-        "EnglishName": "Navy Invaders",
+        "EnglishName": "Ace Invaders",
         "JapaneseName": "Navy Invader",
         "Sprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -834,13 +834,13 @@ var teams = [
         "Game": "Orion"
     },
     {
-        "EnglishName": "Guardians of Queen",
+        "EnglishName": "Queen's Guardians",
         "JapaneseName": "Guardians of Queen",
         "Sprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
     },
     {
-        "EnglishName": "Shadow of Orion",
+        "EnglishName": "Orion's Shadow",
         "JapaneseName": "Shadow of Orion",
         "Sprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
