@@ -40686,7 +40686,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Shin Rae-won.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40698,7 +40698,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Hwang Do-yun.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40710,7 +40710,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Kim Yeon-woo.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40722,7 +40722,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Song So-ah.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40734,7 +40734,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Park Yu-hwan.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40746,7 +40746,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Yeon Ji-hun.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40758,7 +40758,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Lee Seung-jin.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40770,7 +40770,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Seok_Min-woo.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40782,7 +40782,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Park Ji-won.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40794,7 +40794,7 @@ var players = [
         "Position": "FW",
         "Element": "Fire",
         "Sprite": "./images/players/orion/RedBison/Baek_Shi-woo.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40806,7 +40806,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Lee Dong-hyeok.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40818,7 +40818,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Ho Eun-chan.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40830,7 +40830,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Son Min-soo.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -40842,7 +40842,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/RedBison/Ha Jeong-pyo.png",
-        "EnglishTeam": "Red Bison",
+        "EnglishTeam": "Red Bisons",
         "JapaneseTeam": "Red Bison",
         "TeamSprite": "./images/players/orion/RedBison/Red_Bison_Emblem.png",
         "Game": "Orion"
@@ -41010,7 +41010,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Pazuzu Zaham.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41022,7 +41022,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Agalia Rept.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41034,7 +41034,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Demogorgon Anno.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41046,7 +41046,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Belphegor Inos.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41058,7 +41058,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Amdu Scias.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41070,7 +41070,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Beelze Bub.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41082,7 +41082,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Belial Noze.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41094,7 +41094,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Asmo Deus.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41106,7 +41106,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Satan Gaul.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41118,7 +41118,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Satan Gaul 2.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41130,7 +41130,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Satan Gaul 3.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41142,7 +41142,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Sar Gatanas.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41154,7 +41154,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/As Taroth.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41166,7 +41166,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Luci Fanos.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41178,7 +41178,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shiningsatans/Gaap Redel.png",
-        "EnglishTeam": "Shining Satans",
+        "EnglishTeam": "Fallen Angels",
         "JapaneseTeam": "Shining Satans",
         "TeamSprite": "./images/players/orion/shiningsatans/Shining Satans Logo.png",
         "Game": "Orion"
@@ -41190,7 +41190,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Falcon_Ali.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41202,7 +41202,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Gala Magos.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41214,7 +41214,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Pecka Ream.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41226,7 +41226,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Sami Luis.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41238,7 +41238,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Dorgan Butler.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41250,7 +41250,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Ghaddar Ghana.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41262,7 +41262,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Hisoka_Masoka.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41274,7 +41274,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Hulk Laios.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41286,7 +41286,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Condor Willy.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41298,7 +41298,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Andreas_Bebo.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41310,7 +41310,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Silva Leol.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41322,7 +41322,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Pedro Amida.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41334,7 +41334,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/PhoenixArmy/Samir Amida.png",
-        "EnglishTeam": "Phoenix Army of Arab",
+        "EnglishTeam": "Arabia Phoenixes",
         "JapaneseTeam": "Arab no Hinotori Gundan",
         "TeamSprite": "./images/players/orion/PhoenixArmy/Phoenix_Army_of_Arab_emblem.png",
         "Game": "Orion"
@@ -41346,7 +41346,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Kung_Fuche.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41358,7 +41358,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Tao_Lu.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41370,7 +41370,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Xiao_Rau.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41382,7 +41382,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Min_Yinqi.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41394,7 +41394,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Che_Lin.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41406,7 +41406,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Tan_Tanmin.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41418,7 +41418,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Wu_Longchi.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41430,7 +41430,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Zhou_Xing.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41442,7 +41442,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Li_Hao.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41454,7 +41454,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Wan_Tanmeo.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41466,7 +41466,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Shuu_Chuna.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41478,7 +41478,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Chao_Mao.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41490,7 +41490,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/SoccerAcrobaticTroupe/Chi_Chinsu.png",
-        "EnglishTeam": "Soccer Acrobatic Troupe",
+        "EnglishTeam": "Revenge Acrobats",
         "JapaneseTeam": "Soccer Zatsugidan",
         "TeamSprite": "./images/players/orion/SoccerAcrobaticTroupe/Soccer_Acrobatic_Troupe_emblem.png",
         "Game": "Orion"
@@ -41502,7 +41502,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Alonso_Fibiano.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41514,7 +41514,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Domelgo_Dominguez.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41526,7 +41526,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Reinaldo_Baraja.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41538,7 +41538,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Rufino_Avalos.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41550,7 +41550,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Velasco_Melendez.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41562,7 +41562,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Fernando_Dabino.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41574,7 +41574,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Emerico_Lorca.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41586,7 +41586,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Chico_Allison.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41598,7 +41598,7 @@ var players = [
         "Position": "FW",
         "Element": "Fire",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Luther_Fandam.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41610,7 +41610,7 @@ var players = [
         "Position": "MF",
         "Element": "Earth",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Clario_Orvan.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41622,7 +41622,7 @@ var players = [
         "Position": "FW",
         "Element": "Fire",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Bergamo_Regult.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41634,7 +41634,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Emilio_Luján.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41646,7 +41646,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/Muteki_no_Giants/Fabio_Esteve.png",
-        "EnglishTeam": "Invincible Giant",
+        "EnglishTeam": "Los Invencibles",
         "JapaneseTeam": "Muteki no Giant",
         "TeamSprite": "./images/players/orion/Muteki_no_Giants/Spain_Emblem.png",
         "Game": "Orion"
@@ -41826,7 +41826,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Bigman.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41838,7 +41838,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Gentleman.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41850,7 +41850,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Diver.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41862,7 +41862,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Smokey.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41874,7 +41874,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Judge.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41886,7 +41886,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Hunter.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41898,7 +41898,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Cobra.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41910,7 +41910,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Yoga.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41922,7 +41922,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Shakey.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41934,7 +41934,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Convoy.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41946,7 +41946,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Lion.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41958,7 +41958,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Horn.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41970,7 +41970,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Magician.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -41982,7 +41982,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/navyinvader/Jack.png",
-        "EnglishTeam": "Navy Invaders",
+        "EnglishTeam": "Ace Invaders",
         "JapaneseTeam": "Navy Invader",
         "TeamSprite": "./images/players/orion/navyinvader/Navy_Invader_Emblem.png",
         "Game": "Orion"
@@ -42342,7 +42342,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/GabriellaAmati.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42354,7 +42354,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/ElmaChiti.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42366,7 +42366,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/AliceBerardi.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42378,7 +42378,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/DianaScola.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42390,7 +42390,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/NestoreGatto.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42402,7 +42402,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/NiccolòFino.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42414,7 +42414,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/PietroMoresco.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42426,7 +42426,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/CarlosGaro.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42438,7 +42438,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/LucaRusso.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42450,7 +42450,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/MatteoDomenico.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42462,7 +42462,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/PetronioPatti.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42474,7 +42474,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/RaceritSpot.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42486,7 +42486,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/KakehashiTsugu.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42498,7 +42498,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/TonioChiara.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42510,7 +42510,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/GiustinoGiovanni.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42522,7 +42522,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/guardianofqueen/MonicaSara.png",
-        "EnglishTeam": "Guardians of Queen",
+        "EnglishTeam": "Queen's Guardians",
         "JapaneseTeam": "Guardians of Queen",
         "TeamSprite": "./images/emblems/orion/GuardiansofQueen.png",
         "Game": "Orion"
@@ -42534,7 +42534,7 @@ var players = [
         "Position": "GK",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Procyon.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42546,7 +42546,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Tabit.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42558,7 +42558,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Meissa.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42570,7 +42570,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Saiph.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42582,7 +42582,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Alnitak.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42594,7 +42594,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Alnilam.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42606,7 +42606,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Mintaka.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42618,7 +42618,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Bellatrix.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42630,7 +42630,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Rigel.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42642,7 +42642,7 @@ var players = [
         "Position": "FW",
         "Element": "Wood",
         "Sprite": "./images/players/orion/shadowoforion/Yurika Beor.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42654,7 +42654,7 @@ var players = [
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Betelgeuse.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42666,7 +42666,7 @@ var players = [
         "Position": "DF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Sirius.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42678,7 +42678,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Kappa.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
@@ -42690,7 +42690,7 @@ var players = [
         "Position": "MF",
         "Element": "None",
         "Sprite": "./images/players/orion/shadowoforion/Hatysa.png",
-        "EnglishTeam": "Shadow of Orion",
+        "EnglishTeam": "Orion's Shadow",
         "JapaneseTeam": "Shadow of Orion",
         "TeamSprite": "./images/players/orion/shadowoforion/Shadow of Orion.png",
         "Game": "Orion"
