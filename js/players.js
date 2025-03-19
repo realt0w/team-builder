@@ -6917,7 +6917,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "./images/players/ie3/Orpheus/Fidio Aldena.png",
+        "Sprite": "./images/players/ie3/Orpheus/FidioAldena.png",
         "EnglishTeam": "Orpheus",
         "JapaneseTeam": "Orpheus",
         "TeamSprite": "./images/emblems/ie3/Orpheus_Emblem.png",
