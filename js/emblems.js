@@ -1260,7 +1260,7 @@ var emblems = [
         "JapaneseTeam": "Raimon"
     },
     {
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c9/Raimon_%28GO%29_emblem.png",
+        "Sprite": "./images/Raimon_GO.png",
         "EnglishTeam": "Raimon (GO)",
         "JapaneseTeam": "Raimon (GO)"
     },
