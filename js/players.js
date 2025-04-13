@@ -43178,7 +43178,7 @@ var players = [
     {
         "EnglishName": "Yoshizaki",
         "JapaneseName": "Yoshizaki",
-        "Gender": "MF",
+        "Gender": "Male",
         "Position": "FW",
         "Element": "None",
         "Sprite": "./images/players/victoryroad/eastwind/Yoshizaki.png",
