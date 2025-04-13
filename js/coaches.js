@@ -492,7 +492,7 @@ var coaches = [
         {
     "EnglishName": "Addison",
     "JapaneseName": "Otome",
-    "Sprite": "./images/coaches/Addison.png"
+    "Sprite": "./images/coaches/Otome.png"
   },
   {
     "EnglishName": "Zoe Haumea",
