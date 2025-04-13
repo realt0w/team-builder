@@ -137,7 +137,7 @@ var coaches = [
   {
     "EnglishName": "Stavín",
     "JapaneseName": "Daniel",
-    "Sprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e9/%28TE%29_Daniel_Stav%C3%ADn_sprite_%28coach%29.png/revision/latest?cb=20230903074121&format=original"
+    "Sprite": "./images/coaches/Stavin.png"
   },
   {
     "EnglishName": "Mac",
