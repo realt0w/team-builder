@@ -435,19 +435,9 @@ var coaches = [
     "Sprite": "./images/players/ares/alia/Coach_Ecole Alia_Lina Schiller.png"
   },
   {
-    "EnglishName": "Woods",
-    "JapaneseName": "Kino",
-    "Sprite": "./images/players/ares/lambda/Arès_Lambda_Silvia Woods.png"
-  },
-  {
     "EnglishName": "Hillman",
     "JapaneseName": "Hibiki",
     "Sprite": "./images/players/ares/lambda/Coach_Lambda_Seymour Hillman.png"
-  },
-  {
-    "EnglishName": "Destin Billows",
-    "JapaneseName": "Sasanami",
-    "Sprite": "./images/coaches/SasanamiUnmei.png"
   },
     {
     "EnglishName": "Diabo",
@@ -483,6 +473,26 @@ var coaches = [
     "EnglishName": "Vladimir",
     "JapaneseName": "Vladimir",
     "Sprite": "./images/coaches/Vladimir.png"
+  },
+    {
+    "EnglishName": "Destin",
+    "JapaneseName": "Sasanami",
+    "Sprite": "./images/coaches/SasanamiUnmei.png"
+  },
+    {
+    "EnglishName": "Elaine",
+    "JapaneseName": "Eiko",
+    "Sprite": "./images/coaches/Eiko.png"
+  },
+      {
+    "EnglishName": "Turner",
+    "JapaneseName": "Arata",
+    "Sprite": "./images/coaches/Arata.png"
+  },
+        {
+    "EnglishName": "Addison",
+    "JapaneseName": "Otome",
+    "Sprite": "./images/coaches/Addison.png"
   },
   {
     "EnglishName": "Zoe Haumea",
