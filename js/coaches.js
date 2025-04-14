@@ -137,7 +137,7 @@ var coaches = [
   {
     "EnglishName": "Stavín",
     "JapaneseName": "Daniel",
-    "Sprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/e/e9/%28TE%29_Daniel_Stav%C3%ADn_sprite_%28coach%29.png/revision/latest?cb=20230903074121&format=original"
+    "Sprite": "./images/coaches/Stavin.png"
   },
   {
     "EnglishName": "Mac",
@@ -435,19 +435,9 @@ var coaches = [
     "Sprite": "./images/players/ares/alia/Coach_Ecole Alia_Lina Schiller.png"
   },
   {
-    "EnglishName": "Woods",
-    "JapaneseName": "Kino",
-    "Sprite": "./images/players/ares/lambda/Arès_Lambda_Silvia Woods.png"
-  },
-  {
     "EnglishName": "Hillman",
     "JapaneseName": "Hibiki",
     "Sprite": "./images/players/ares/lambda/Coach_Lambda_Seymour Hillman.png"
-  },
-  {
-    "EnglishName": "Destin Billows",
-    "JapaneseName": "Sasanami",
-    "Sprite": "./images/coaches/SasanamiUnmei.png"
   },
     {
     "EnglishName": "Diabo",
@@ -483,6 +473,26 @@ var coaches = [
     "EnglishName": "Vladimir",
     "JapaneseName": "Vladimir",
     "Sprite": "./images/coaches/Vladimir.png"
+  },
+    {
+    "EnglishName": "Destin",
+    "JapaneseName": "Sasanami",
+    "Sprite": "./images/coaches/SasanamiUnmei.png"
+  },
+    {
+    "EnglishName": "Elaine",
+    "JapaneseName": "Eiko",
+    "Sprite": "./images/coaches/Eiko.png"
+  },
+      {
+    "EnglishName": "Turner",
+    "JapaneseName": "Arata",
+    "Sprite": "./images/coaches/Arata.png"
+  },
+        {
+    "EnglishName": "Addison",
+    "JapaneseName": "Otome",
+    "Sprite": "./images/coaches/Otome.png"
   },
   {
     "EnglishName": "Zoe Haumea",
