@@ -6445,7 +6445,7 @@ var players = [
     },
     {
         "EnglishName": "Thiago",
-        "JapaneseName": "Teres",
+        "JapaneseName": "Teles",
         "Gender": "Male",
         "Position": "DF",
         "Element": "Fire",
