@@ -43004,7 +43004,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Endou_Haru_R.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/RaimonVR.png",
+        "TeamSprite": "./images/emblems/victoryroad/RaimonVR.png",
         "Game": "VR"
     },
         {
