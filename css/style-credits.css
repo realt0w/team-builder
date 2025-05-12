@@ -1,18 +1,23 @@
+/* Reset & General Styling */
 body {
     margin: 0;
     font-family: "Roboto", sans-serif;
+    text-align: center;
 }
 
+/* Fullscreen Background */
 .screen {
     height: 100vh;
     width: 100%;
     overflow: hidden;
     position: relative;
     display: flex;
-    justify-content: start;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 
+/* Background Video */
 video {
     position: absolute;
     min-width: 100%;
@@ -20,55 +25,29 @@ video {
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    z-index: -1;
+    z-index: -2;
 }
 
-audio {
-    display: none;
-
-}
-
-.menu {
-    color: #000;
-    margin-left: 4em;
-    text-transform: uppercase;
-}
-
-.menu h1 {
-    font-size: 4em;
-    letter-spacing: 5px;
-    display: block;
-    margin-bottom: 0.5em;
-}
-
-.menu h3 {
-    font-weight: 300;
-    font-size: 2.5em;
+/* Logo Styling */
+.logo-container {
     text-align: center;
-    letter-spacing: 5;
-    position: relative;
-
+    margin-bottom: 1rem;
 }
 
-.menu h3::before,
-.menu h3::after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: #000;
-    width: 3em;
-    height: 3px;
+.logo {
+    max-width: 250px;
+    height: auto;
+    filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.8));
 }
 
-.menu h3::before {
-    left: 0;
+/* Menu Styling */
+.menu {
+    text-align: center;
+    width: 100%;
+    margin-top: 1rem;
 }
 
-.menu h3::after {
-    right: 0;
-}
-
+/* Menu List */
 .menu ul {
     list-style: none;
     padding: 0;
@@ -78,40 +57,61 @@ audio {
     margin: 1em 0;
 }
 
+/* Menu Buttons */
 .menu li a {
     text-decoration: none;
-    color: #000;
+    color: white;
+    font-size: 1.3em;
     font-weight: 700;
+    padding: 12px 30px;
+    border: 3px solid white;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease;
+    display: inline-block;
 }
 
+/* Hover Effects */
+.menu li a:hover {
+    background: white;
+    color: black;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.9);
+}
+
+/* Sound Icon */
 #sound {
     position: absolute;
-    right: 0;
-    top: 0;
-    margin: 1em;
-    color: #000;
+    right: 20px;
+    top: 20px;
+    color: white;
     cursor: pointer;
+    font-size: 1.8em;
+    transition: 0.3s;
 }
 
-.menu li a:hover,
 #sound:hover {
-    color: #dbdbdb;
+    color: lightgray;
 }
 
+/* Responsive Adjustments */
 @media screen and (max-width: 800px) {
-    .menu h3 {
-        font-size: 1.5em;
+    .menu li a {
+        font-size: 1.1em;
+        padding: 10px 20px;
+    }
+
+    .logo {
+        max-width: 200px;
     }
 }
 
 @media screen and (max-width: 500px) {
-    .menu h1 {
-        letter-spacing: 2px;
+    .menu li a {
         font-size: 1em;
+        padding: 8px 16px;
     }
-    .menu h3::before,
-    .menu h3::after {
-        display: none;
+
+    .logo {
+        max-width: 180px;
     }
 }
-

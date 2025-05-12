@@ -1,18 +1,22 @@
+/* Reset */
 body {
     margin: 0;
     font-family: "Roboto", sans-serif;
 }
 
+/* Fullscreen Background */
 .screen {
     height: 100vh;
     width: 100%;
     overflow: hidden;
     position: relative;
     display: flex;
-    justify-content: start;
+    flex-direction: column;
     align-items: center;
+    justify-content: flex-start;
 }
 
+/* Background Video */
 video {
     position: absolute;
     min-width: 100%;
@@ -20,53 +24,57 @@ video {
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    z-index: -1;
+    z-index: -2;
+    object-fit: cover;
 }
 
-audio {
-    display: none;
-
+/* ✅ Adjust the video position on smaller screens */
+@media screen and (max-width: 800px) {
+    video {
+        left: 30%; /* Moves the video towards the left */
+        transform: translateX(-30%);
+    }
 }
 
-.menu {
-    color: #fff;
-    margin-left: 4em;
-    text-transform: uppercase;
+@media screen and (max-width: 500px) {
+    video {
+        left: 70%; /* Moves the video even further left on very small screens */
+        transform: translateX(-40%);
+    }
 }
 
-.menu h1 {
-    font-size: 4em;
-    letter-spacing: 5px;
-    display: block;
-    margin-bottom: 0.5em;
+@media screen and (max-width: 400px) {
+    video {
+        left: 90%; /* Moves the video even further left on very small screens */
+        transform: translateX(-40%);
+    }
 }
 
-.menu h3 {
-    font-weight: 300;
-    font-size: 2.5em;
+@media screen and (max-width: 300px) {
+    video {
+        left: 100%; /* Moves the video even further left on very small screens */
+        transform: translateX(-40%);
+    }
+}
+
+/* Logo (Smaller & Centered at the Top) */
+.logo-container {
     text-align: center;
-    letter-spacing: 5;
-    position: relative;
-
+    margin-top: 2rem; /* Adjusts space from the top */
+    margin-bottom: 1rem; /* Keeps spacing with the menu */
 }
 
-.menu h3::before,
-.menu h3::after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: #fff;
-    width: 3em;
-    height: 3px;
+.logo {
+    max-width: 300px; /* Smaller size */
+    height: auto;
+    filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.8));
 }
 
-.menu h3::before {
-    left: 0;
-}
-
-.menu h3::after {
-    right: 0;
+/* Menu Styling */
+.menu {
+    text-align: center;
+    width: 100%;
+    margin-top: 1rem;
 }
 
 .menu ul {
@@ -78,54 +86,61 @@ audio {
     margin: 1em 0;
 }
 
+/* Menu Buttons */
 .menu li a {
     text-decoration: none;
-    color: #fff;
+    color: white;
+    font-size: 1.5em;
     font-weight: 700;
+    padding: 12px 30px;
+    border: 3px solid white;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.4);
+    transition: all 0.3s ease;
+    display: inline-block;
 }
 
+/* Hover Effects */
+.menu li a:hover {
+    background: white;
+    color: black;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.9);
+}
+
+/* Sound Icon */
 #sound {
     position: absolute;
-    right: 0;
-    top: 0;
-    margin: 1em;
-    color: #000000;
+    right: 20px;
+    top: 20px;
+    color: white;
     cursor: pointer;
+    font-size: 1.8em;
+    transition: 0.3s;
 }
 
-.menu li a:hover,
 #sound:hover {
-    color: #dbdbdb;
+    color: lightgray;
 }
 
+/* Responsive Adjustments */
 @media screen and (max-width: 800px) {
-    .menu h3 {
-        font-size: 1.5em;
+    .menu li a {
+        font-size: 1.2em;
+        padding: 10px 20px;
     }
-    .screen video {
-        translate: 20%;
+
+    .logo {
+        max-width: 250px;
     }
 }
 
 @media screen and (max-width: 500px) {
-    .menu h1 {
-        letter-spacing: 2px;
+    .menu li a {
         font-size: 1em;
+        padding: 8px 16px;
     }
-    .menu h3::before,
-    .menu h3::after {
-        display: none;
+
+    .logo {
+        max-width: 220px;
     }
 }
-
-.menu h1,
-.menu h3,
-.menu ul li a {
-  text-shadow: 
-    -2px -2px 0 #000,   
-    2px -2px 0 #000,    
-    -2px 2px 0 #000,    
-    2px 2px 0 #000;     
-}
-
-

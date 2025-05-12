@@ -5,13 +5,15 @@ body, h1, h2, p, ul, li {
     list-style: none;
 }
 
-/* Basic styling */
+/* General Styling */
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #f7f7f7;
     color: #333;
+    text-align: center;
 }
 
+/* Header */
 header {
     text-align: center;
     padding: 20px;
@@ -19,57 +21,101 @@ header {
     color: #fff;
 }
 
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 0.9em;
+    font-weight: lighter;
+}
+
+/* Language Dropdown Styling */
+.language-dropdown {
+    margin-top: 10px;
+}
+
+.language-dropdown label {
+    font-weight: bold;
+}
+
+.language-dropdown select {
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Content Section */
 .content {
     padding: 20px;
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-    margin: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: left;
 }
 
-/* Footer styling */
+/* Links Styling */
+a {
+    color: #005580;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Styling */
 footer {
     text-align: center;
     padding: 10px;
     background-color: #005580;
     color: #fff;
     font-size: 14px;
-    position: relative;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
-/* Language dropdown styling */
-.language-dropdown {
-    text-align: right;
-    margin-bottom: 10px;
-}
-
-/* Language dropdown label */
-.language-dropdown label {
-    display: inline-block;
-    margin-right: 10px;
-    color: #333;
-}
-
-/* Language dropdown select */
-.language-dropdown select {
-    padding: 5px;
-    font-size: 14px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-/* Home button styling */
+/* Home Button */
 .home-button {
     display: inline-block;
-    padding: 5px 10px;
+    padding: 8px 15px;
     background-color: #005580;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
+    margin-top: 15px;
 }
 
-/* Home button hover effect */
 .home-button:hover {
     background-color: #003f5a;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+    .content {
+        width: 90%;
+    }
+
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+}
+
+/* Logo Styling */
+.logo {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 10px;
 }
