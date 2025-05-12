@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300; 700&amp;display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/ccbd4d6bc1.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="./css/style-menu.css">
+  <link rel="stylesheet" href="css/style-menu.css">
   <title>Menu - Inazuma Eleven Team Builder</title>
   <meta name="description" content="Create your own custom Inazuma Eleven teams with this tool. Choose from over a 3000 Inazuma players and create your own dream team!">
       <meta property="og:type" content="website">
@@ -33,32 +33,32 @@
 </head>
 <body>
     <div class="screen">
+        <!-- Sound Toggle -->
         <i class="fas fa-volume-mute fa-2x" id="sound"></i>
 
+        <!-- Background Video -->
         <video autoplay loop muted id="videoBackground">
-            <source src="background2.mp4" type="video/mp4" />
+            <source src="background2.mp4" type="video/mp4">
         </video>
 
-        <audio id="audioClick">
-            <source src="sounds/buttonclick.wav" type="audio/wav" />
-        </audio>
-        
-        <audio id="audioHover">
-            <source src="sounds/buttonrollover.wav" type="audio/wav" />
-        </audio>
+        <!-- Logo -->
+        <div class="logo-container">
+            <img src="images/logo.png" alt="Inazuma Eleven Team Builder Logo" class="logo">
+        </div>
 
-    <div class="menu">
-        <h1>Inazuma Eleven</h1>
-        <h3>Team Builder</h3>
-        <ul>
-            <li><a href="app.html">Launch builder</a></li>
-            <li><a href="https://play.google.com/store/apps/details?id=fr.ownstudio.ietb" target="_blank">Android app</a></li>
-            <li><a href="credits.html">Info & credits</a></li>
-            <li><a href="./privacy-policy.html">Privacy Policy</a></li>
-            <li><a href="https://inazuma-eleven.fr">Leave page</a></li>
-        </ul>
+        <!-- Menu -->
+        <div class="menu">
+            <ul>
+                <li><a href="app.html">Launch Builder</a></li>
+                <li><a href="https://discord.gg/SD9KK3GpVm" target="_blank">Discord Server</a></li>
+                <li><a href="https://store.steampowered.com/app/3582320/Inazuma_Eleven_Team_Builder/" target="_blank">Steam Page</a></li>
+                <li><a href="credits.html">Info & Credits</a></li>
+                <li><a href="./privacy-policy.html">Privacy Policy</a></li>
+                <li><a href="https://inazuma-eleven.fr/" target="_blank">Inazuma Hub</a></li>
+            </ul>
+        </div>
     </div>
-    </div>
+
     <script src="./js/script-menus.js"></script>
 </body>
 </html>
