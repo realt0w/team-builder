@@ -42888,6 +42888,66 @@ var players = [
         "Game": "VR"
     },
         {
+        "EnglishName": "Florent",
+        "JapaneseName": "Hamana",
+        "Gender": "Male",
+        "Position": "NO",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/nagumohara/thum_hamana_sprite.png",
+        "EnglishTeam": "South Cirrus",
+        "JapaneseTeam": "Nagumohara",
+        "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
+        "Game": "VR"
+    },
+        {
+        "EnglishName": "Antonia",
+        "JapaneseName": "Fukura",
+        "Gender": "Female",
+        "Position": "NO",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/nagumohara/thum_fukura_sprite.png",
+        "EnglishTeam": "South Cirrus",
+        "JapaneseTeam": "Nagumohara",
+        "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
+        "Game": "VR"
+    },
+        {
+        "EnglishName": "Kelvin",
+        "JapaneseName": "Tetsuno",
+        "Gender": "Male",
+        "Position": "NO",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/nagumohara/thum_tetsuno_sprite.png",
+        "EnglishTeam": "South Cirrus",
+        "JapaneseTeam": "Nagumohara",
+        "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
+        "Game": "VR"
+    },
+        {
+        "EnglishName": "Lemmy",
+        "JapaneseName": "Kurohara",
+        "Gender": "Male",
+        "Position": "NO",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/nagumohara/thum_kurohara_sprite.png",
+        "EnglishTeam": "South Cirrus",
+        "JapaneseTeam": "Nagumohara",
+        "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
+        "Game": "VR"
+    },
+        {
+        "EnglishName": "Starla",
+        "JapaneseName": "Hoshi",
+        "Gender": "Female",
+        "Position": "NO",
+        "Element": "None",
+        "Sprite": "./images/players/victoryroad/nagumohara/thum_hoshi_sprite.png",
+        "EnglishTeam": "South Cirrus",
+        "JapaneseTeam": "Nagumohara",
+        "TeamSprite": "./images/emblems/victoryroad/Nagumohara.png",
+        "Game": "VR"
+    },
+        {
         "EnglishName": "Zander",
         "JapaneseName": "Dantoya",
         "Gender": "Male",
