@@ -2225,11 +2225,11 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
   
   .popUP-content {
     background-color: #fefefe;
-    margin: 15% auto;
+    margin: 10% auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%;
-    max-width: 400px;
+    width: 90%;
+    max-width: 500px;
   }
   
   .close {
@@ -2273,6 +2273,22 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
   .Pop-patreon-btn:hover {
     background-color: #992d19;
   }
+
+  .Pop-android-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #3DDC84;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  margin-left: 50px;
+}
+
+.Pop-android-btn:hover {
+  background-color: #2eaa66;
+}
 
   #download-image-btn {
     background-color: #008CBA; /* Bleu */
