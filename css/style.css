@@ -1758,7 +1758,6 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
     body, html {
         overflow: hidden;
         overflow: -moz-hidden-unscrollable;
-        height: unset !important;
         width: unset !important;
     }
 
@@ -2309,3 +2308,27 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
     background-color: #005f73; /* Bleu foncé */
 }
 
+
+
+
+#loading-screen {
+  position: fixed;
+  z-index: 99999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+}
+
+#loading-gif {
+  width: 100px; /* ou la taille que tu veux */
+  height: 100px;
+  margin-bottom: 15px;
+}
