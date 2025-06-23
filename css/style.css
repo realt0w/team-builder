@@ -1647,7 +1647,7 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
     position: absolute;
     bottom: 16px;
     right: 20px;
-    background-image: url("/team-builder/images/player-name-background.png");
+    background-image: url("../images/player-name-background.png");
     background-size: cover;
     color: white;
     padding: 0px 5px;
@@ -1691,7 +1691,7 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
 
 .player-info-container, .sub-info-container {
     position: absolute;
-    background-image: url('/team-builder/images/player-name-background.png');
+    background-image: url('../images/player-name-background.png');
     background-size: cover;
     width: 173px;
     height: 28px;
@@ -1758,7 +1758,6 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
     body, html {
         overflow: hidden;
         overflow: -moz-hidden-unscrollable;
-        height: unset !important;
         width: unset !important;
     }
 
@@ -2194,7 +2193,7 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
     #watermark {
         bottom: 7px;
         right: 10px;
-        background-image: url("/team-builder/images/player-name-background.png");
+        background-image: url("../images/player-name-background.png");
         background-size: cover;
         color: white;
         padding: 0px 5px;
@@ -2225,11 +2224,11 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
   
   .popUP-content {
     background-color: #fefefe;
-    margin: 15% auto;
+    margin: 10% auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%;
-    max-width: 400px;
+    width: 90%;
+    max-width: 500px;
   }
   
   .close {
@@ -2273,3 +2272,63 @@ img, .drag-box, .player-element-container, .sub-element-container, .modal-player
   .Pop-patreon-btn:hover {
     background-color: #992d19;
   }
+
+  .Pop-android-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #3DDC84;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  margin-left: 50px;
+}
+
+.Pop-android-btn:hover {
+  background-color: #2eaa66;
+}
+
+  #download-image-btn {
+    background-color: #008CBA; /* Bleu */
+    color: white; /* Texte blanc */
+    border: none;
+    padding: 12px 20px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    display: block;
+    width: 80%;
+    margin: 15px auto;
+    transition: 0.3s;
+}
+
+#download-image-btn:hover {
+    background-color: #005f73; /* Bleu foncé */
+}
+
+
+
+
+#loading-screen {
+  position: fixed;
+  z-index: 99999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+}
+
+#loading-gif {
+  width: 100px; /* ou la taille que tu veux */
+  height: 100px;
+  margin-bottom: 15px;
+}

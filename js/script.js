@@ -1,3 +1,36 @@
+
+  window.addEventListener('load', function () {
+    const images = document.images;
+    let loadedCount = 0;
+    const totalImages = images.length;
+
+    if (totalImages === 0) {
+      showApp();
+    }
+
+    for (let i = 0; i < totalImages; i++) {
+      if (images[i].complete) {
+        incrementCounter();
+      } else {
+        images[i].addEventListener('load', incrementCounter, false);
+        images[i].addEventListener('error', incrementCounter, false);
+      }
+    }
+
+    function incrementCounter() {
+      loadedCount++;
+      if (loadedCount === totalImages) {
+        showApp();
+      }
+    }
+
+    function showApp() {
+      document.getElementById("loading-screen").style.display = "none";
+      document.getElementById("popUP").style.display = "block";
+    }
+  });
+
+
 // Global variables
 var playerToChange, playerToChangeId, customSprite;
 
@@ -459,3 +492,22 @@ renderEmblems(emblems, "English");
 renderPlayers(players, "English");
 addPlayerBoxActions();
 addButtonActions();
+
+document.addEventListener("DOMContentLoaded", function () {
+    const downloadButton = document.getElementById("download-image-btn");
+
+    downloadButton.addEventListener("click", function () {
+        const canvas = document.querySelector("canvas"); // Sélectionne le canvas généré
+        if (canvas) {
+            const image = canvas.toDataURL("image/png");
+            const link = document.createElement("a");
+            link.href = image;
+            link.download = "team-image.png"; // Nom du fichier téléchargé
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        } else {
+            alert("No image to download !");
+        }
+    });
+});
