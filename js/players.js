@@ -11840,7 +11840,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Shiyou Hanasaku sprite.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11852,7 +11852,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Sometani Tsutaru.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11864,7 +11864,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Oomi Kunihiro.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11876,7 +11876,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Murasaki Yoshihiko.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11888,7 +11888,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Koba Toshinori sprite.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11900,7 +11900,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Koiura Hajime.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11912,7 +11912,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Sumii Rei.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11924,7 +11924,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Aino Isami.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11936,7 +11936,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Sougetsu Nozomi avatar.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11948,7 +11948,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Shian Haseru.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11960,7 +11960,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Azu Ryuuichi.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11972,7 +11972,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Umeo Suzuto.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11984,7 +11984,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Asaga Nobuhiko.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -11996,7 +11996,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Wakeru Kagehiro.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -12008,7 +12008,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Hizu Takatoshi.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -12020,7 +12020,7 @@ var players = [
         "Sprite": "./images/players/go/Aoba/Oume Kenichirou.png",
         "EnglishTeam": "Ivy Selective",
         "JapaneseTeam": "Aoba",
-        "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Aoba_emblem.png/revision/latest?cb=20171126181240",
+        "TeamSprite": "./images/emblems/go1/Aoba.png",
         "Game": "GO1"
     },
     {
@@ -43064,7 +43064,7 @@ var players = [
         "Sprite": "./images/players/victoryroad/raimon/Endou_Haru_R.png",
         "EnglishTeam": "Raimon",
         "JapaneseTeam": "Raimon",
-        "TeamSprite": "./images/emblems/ie1/RaimonVR.png",
+        "TeamSprite": "./images/emblems/victoryroad/RaimonVR.png",
         "Game": "VR"
     },
         {
